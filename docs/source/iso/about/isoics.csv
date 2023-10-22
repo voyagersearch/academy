@@ -1,0 +1,42 @@
+CSV Format (Note create list if it does not currently exist)
+ICS,Field
+01,Generalities. Terminology. Standardization. Documentation
+03,Services. Company organization, management and quality. Administration. Transport. Sociology
+07,Natural and applied sciences
+11,Health care technology
+13,Environment. Health protection. Safety
+17,Metrology and measurement. Physical phenomena
+19,Testing
+21,Mechanical systems and components for general use
+23,Fluid systems and components for general use
+25,Manufacturing engineering
+27,Energy and heat transfer engineering
+29,Electrical engineering
+31,Electronics
+33,Telecommunications. Audio and video engineering
+35,Information technology
+37,Image technology
+39,Precision mechanics. Jewellery
+43,Road vehicles engineering
+45,Railway engineering
+47,Shipbuilding and marine structures
+49,Aircraft and space vehicle engineering
+53,Materials handling equipment
+55,Packaging and distribution of goods
+59,Textile and leather technology
+61,Clothing industry
+65,Agriculture
+67,Food technology
+71,Chemical technology
+73,Mining and minerals
+75,Petroleum and related technologies
+77,Metallurgy
+79,Wood technology
+81,Glass and ceramics industries
+83,Rubber and plastic industries
+85,Paper technology
+87,Paint and colour industries
+91,Construction materials and building
+93,Civil engineering
+95,Military affairs. Military engineering. Weapons
+97,Domestic and commercial equipment. Entertainment. Sports

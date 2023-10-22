@@ -13,7 +13,8 @@ This directory provides information to assist in the development and use of Gene
 .. note::
 
    This project is under active development. 
-  
+
+.
 
 Contents
 --------

@@ -1,14 +1,14 @@
 .. meta::
-   :title: Voyager Search Academy
-   :description: Voyager Search Academy  an open community advancing Generative Earth Intelligence for understanding and decision-making. 
-   :keywords: voyager search, voyagersearch, data governance, data provenance, data profiling, data lineage
+   :title: Voyager Search Academy | Terms | Glossary
+   :description: Voyager Search Academy Terms
+   :keywords: voyager search, voyagersearch, terms, data governance, data provenance, data profiling, data lineage
 
-Voyager Search Academy!
+Voyager Search | Glossary
 ===================================
 
 Welcome to the Voyager Search Academy.
 
-This directory provides information to assist in the development and use of Generative Earth Intelligence.  
+This reference resource provides terms and definitions.  
 
 .. note::
 
@@ -21,11 +21,9 @@ Contents
 .. toctree::
    :maxdepth: 10
    :numbered:
-   :caption: 🗺️ Introduction
+   :caption: 🗺️ Glossary
   
-   /search.rst
-   /api.rst
-   /usage.rst
+   /glossary.rst
 
 .. toctree::
    :maxdepth: 10

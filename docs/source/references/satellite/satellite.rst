@@ -12,7 +12,7 @@ Reference Details
 ~~~~~~~~~
 
 +------------------------+------------------------------------------------------------------------------------------+
-| TITLE.                 | List of Space Based Remote Sensing Satellites                                            |                                 |
+| TITLE                  | List of Space Based Remote Sensing Satellites                                            |                    
 +========================+==========================================================================================+
 | DESCRIPTION            | The purpose of this list is to provide a list of Acronyms {provide additional text}      |
 |                        | The purpose of this list is to provide a list of Acronyms {provide additional text}.     |

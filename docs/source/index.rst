@@ -25,6 +25,8 @@ Contents
    /search.rst
    /api.rst
    /usage.rst
+   /references/tabs.rst
+   /references/satellite/satellite.rst
 
 .. toctree::
    :maxdepth: 10

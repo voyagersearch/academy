@@ -1,0 +1,4227 @@
+ReferenceType,Acronym,SAT ID,Launch,(expected) EOL,Satellite Programme,Agencies,NASA,Orbit,Altitude,Longitude,Inclination,Ect,Sat Status,Payload,Last update,Date
+ACRIMSat,1,36514,41622,Active Cavity Radiometer Irradiance Monitor Satellite,NASA,JAXA,SunSync,696 km,,,10:50 desc,Inactive,ACRIM-III,42212.8196064815,42212
+"ADEOS,2,35294,35611,Advanced Earth Observing Satellite (original name: “Midori”),JAXA,JAXA,SunSync,797 km,,,10:30 desc,Inactive,AVNIR
+ ILAS-I
+ IMG
+ NSCAT
+ OCTS
+ POLDER
+ RIS
+ TOMS,42212.8205787037,42212"
+"ADEOS-2,3,37604,37919,Advanced Earth Observing Satellite (original name: “Midori”),JAXA,ESA,SunSync,812 km,,,10:30 desc,Inactive,AMSR
+ DCS (ADEOS)
+ GLI
+ ILAS-II
+ POLDER
+ SeaWinds,42212.8214930556,42212"
+Aeolus,4,43334,45046,Aeolus,ESA,JAXA,SunSync,320 km,,,06:00 desc,Inactive,ALADIN,45117.4392708333,45117
+"ALOS,5,38741,40655,Advanced Land Observing Satellite,JAXA,JAXA,SunSync,692 km,,,10:30 desc,Inactive,AVNIR-2
+ PALSAR
+ PRISM,43765.9407407407,43765"
+"ALOS-2,6,41783,44895,Advanced Land Observing Satellite,JAXA,JAXA,SunSync,640 km,,,12:00 desc,Operational,CIRC
+ PALSAR-2,44907.3459375,44907"
+ALOS-3,7,44991,44991,Advanced Land Observing Satellite,JAXA,ASAL,SunSync,669 km,,,10:30 desc,Lost at launch,WISH,44992.4786574074,44992
+AlSat-1,8,37588,40405,Algeria Satellite,ASAL,ASAL,SunSync,700 km,,,10:30 asc,Inactive,SLIM6,42212.8226851852,42212
+AlSat-2,9,40371,43434,Algeria Satellite,ASAL,ASAL,SunSync,686 km,,,10:30 asc,Presumably inactive,NAOMI (AlSat),43831.133587963,43831
+"AlSat-2B,10,42639,47452,Algeria Satellite,ASAL,INPE
+ AEB,SunSync,680 km,,,09:30 asc,Operational,NAOMI (AlSat),44858.363125,44858"
+"Amazônia-1,11,44255,45991,Amazônia,INPE
+ AEB,NASA,SunSync,752 km,,,10:30 desc,Operational,AWFI,44390.6080902778,44390"
+"ASCENDS,12,TBD,TBD,Active Sensing of CO2 Emissions over Nights, Days, and Seasons,NASA,NASA,SunSync,450 km,,,10:30 asc,Mission concept,CO2 lidar
+ CO sensor,42936.6354976852,42936"
+ATS-1,13,24447,28825,Application Technology Satellite,NASA,NASA,GEO,35786 km,150 ° W,,,Inactive,SSCC,42661.722037037,42661
+ATS-3,14,24782,28825,Application Technology Satellite,NASA,NASA,GEO,35786 km,45 ° W,,,Inactive,MSSCC,42212.8246180556,42212
+ATS-6,15,27149,29070,Application Technology Satellite,NASA,TÜBITAK-UZAY,GEO,35786 km,94 ° W,,,Inactive,VHRR (ATS),42212.8250810185,42212
+"BILSat,16,37891,38944,BILTEN Satellte,TÜBITAK-UZAY,DLR,SunSync,686 km,,,10:30 asc,Inactive,COBAN
+ MSIS
+ PanCam,42212.8259837963,42212"
+"BIRD,17,37186,39264,Bi-spectral Infra-Red Detection,DLR,NRSCC,SunSync,572 km,,,10:30 desc,Inactive,HORUS
+ HSRS
+ WAOSS-B,42212.8265972222,42212"
+"Beijing-1,18,38652,40147,Beijing,NRSCC,NASA
+ CNES,SunSync,699 km,,,08:15 asc,Presumably inactive,CMT
+ SLIM6,43826.8574421296,43826"
+"CALIPSO,19,38835,45139,Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations,NASA
+ CNES,ISRO,SunSync,689 km,,,13:45 asc,Inactive,CALIOP
+ IIR
+ WFC,45194.2907986111,45194"
+CartoSat-1 (IRS-P5),20,38477,43590,Satellite for Cartography,ISRO,ISRO,SunSync,618 km,,,10:15 desc,Inactive,PAN (CartoSat-1),43833.8500925926,43833
+CartoSat-2,21,39092,43690,Satellite for Cartography,ISRO,ISRO,SunSync,635 km,,,09:30 desc,Inactive,PAN (CartoSat-2A/B),43833.8534953704,43833
+CartoSat-2A,22,39566,44895,Satellite for Cartography,ISRO,ISRO,SunSync,635 km,,,09:32 desc,Operational,PAN (CartoSat-2A/B),44858.3652546296,44858
+CartoSat-2B,23,40371,44895,Satellite for Cartography,ISRO,ISRO,SunSync,640 km,,,09:30 desc,Operational,PAN (CartoSat-2A/B),44858.3667361111,44858
+"CartoSat-3,24,43796,45260,Satellite for Cartography,ISRO,CAST
+ AEB
+ CRESDA
+ INPE,SunSync,450 km,,,09:30 desc,Operational,MX
+ PAN (CartoSat-3),43886.9205208333,43886"
+"CBERS-1,25,36447,37906,China-Brazil Earth Resources Satellite,CAST
+ AEB
+ CRESDA
+ INPE,CAST
+ AEB
+ CRESDA
+ INPE,SunSync,778 km,,,10:30 desc,Inactive,DCS (CBERS)
+ HRCC
+ IRMSS
+ WFI,42212.8276736111,42212"
+"CBERS-2,26,37915,39401,China-Brazil Earth Resources Satellite,CAST
+ AEB
+ CRESDA
+ INPE,CAST
+ AEB
+ CRESDA
+ INPE,SunSync,778 km,,,10:30 desc,Inactive,DCS (CBERS)
+ HRCC
+ IRMSS
+ WFI,42212.8281944444,42212"
+"CBERS-2B,27,39344,40314,China-Brazil Earth Resources Satellite,CAST
+ AEB
+ CRESDA
+ INPE,CAST
+ AEB
+ CRESDA
+ INPE,SunSync,778 km,,,10:30 desc,Inactive,DCS (CBERS)
+ HRCC
+ HRPC
+ WFI,42212.8286342593,42212"
+"CBERS-3,28,41617,41617,China-Brazil Earth Resources Satellite,CAST
+ AEB
+ CRESDA
+ INPE,CAST
+ AEB
+ CRESDA
+ INPE,SunSync,778 km,,,10:30 desc,Lost at launch,DCS (CBERS)
+ IRMSS-2
+ MUXCAM
+ PANMUX
+ WFI-2,42212.8291782407,42212"
+"CBERS-4,29,41980,44895,China-Brazil Earth Resources Satellite,CAST
+ AEB
+ CRESDA
+ INPE,DLR,SunSync,778 km,,,10:30 asc,Operational,DCS (CBERS)
+ IRMSS-2
+ MUXCAM
+ PANMUX
+ WFI-2,44858.3695717593,44858"
+"CHAMP,30,36722,40440,Challenging Mini-Satellite Payload,DLR,NASA,DRIFT,470 km,,87°,,Inactive,ASC
+ BlackJack (CHAMP)
+ DIDM
+ LRR (DLR)
+ MIAS
+ STAR,42240.7887962963,42240"
+"CLARREO-1A,31,TBD,TBD,Climate Absolute Radiance and Refractivity Observatory,NASA,NASA,DRIFT,609 km,,90°,,Mission concept,GNSS-RO
+ IR spectrometer,44735.6795023148,44735"
+"CloudSat,32,38835,45626,CloudSat,NASA,KMA
+ KARI
+ ME (NIER)
+ MLTM,SunSync,689 km,,,13:30 asc,Operational,CPR (CloudSat),44830.4162847222,44830"
+"COMS,33,40355,44287,Communication, Oceanography and Meteorology Satellite,KMA
+ KARI
+ ME (NIER)
+ MLTM,KMA
+ KARI
+ ME (NIER)
+ MLTM,GEO,35786 km,128.2 ° E,,,Inactive,GOCI
+ MI,45110.6474537037,45110"
+"GEO-KOMPSAT-2A,34,43438,47087,Communication, Oceanography and Meteorology Satellite,KMA
+ KARI
+ ME (NIER)
+ MLTM,KMA
+ KARI
+ ME (NIER)
+ MLTM,GEO,35786 km,128.2 ° E,,,Operational,AMI
+ KSEM/CM
+ KSEM/MG (SOSMAG)
+ KSEM/PD,45124.454837963,45124"
+"GEO-KOMPSAT-2B,35,43879,47817,Communication, Oceanography and Meteorology Satellite,KMA
+ KARI
+ ME (NIER)
+ MLTM,DoD
+ NASA,GEO,35786 km,128.2 ° E,,,Operational,GEMS
+ GOCI-II,44978.6392361111,44978"
+"Coriolis,36,37627,44165,Coriolis,DoD
+ NASA,NSPO
+ NOAA
+ UCAR,SunSync,838 km,,,06:10 desc,Inactive,SMEI
+ WindSat,44641.3707060185,44641"
+"COSMIC-1,37,38821,43957,Constellation Observing System for Meteorology, Ionosphere & Climate,NSPO
+ NOAA
+ UCAR,ESA,DRIFT,800 km,,72°,,Inactive,CERTO/TBB
+ IGOR (COSMIC)
+ TIP,44336.9633101852,44336"
+"CryoSat,38,38633,38633,CryoSat,ESA,ESA,SunSync,717 km,,92°,,Inactive,DORIS
+ LRR (ESA)
+ SIRAL,44266.684849537,44266"
+"CryoSat-2,39,40276,46721,CryoSat,ESA,ASI,DRIFT,717 km,,92°,,Operational,DORIS
+ LRR (ESA)
+ SIRAL,44882.7590625,44882"
+CSG-1,40,43817,45991,COSMO-SkyMed Second Generation,ASI,ASI,SunSync,619 km,,,05:46 asc,Operational,CSG-SAR,44621.7272916667,44621
+CSG-2,41,44592,47087,COSMO-SkyMed Second Generation,ASI,ASI,SunSync,619 km,,,05:46 asc,Operational,CSG-SAR,44830.3529976852,44830
+CSK-1,42,39241,44895,COSMO-SkyMed,ASI,ASI,SunSync,629.5 km,,,05:46 asc,Operational,SAR-2000,44858.3739236111,44858
+CSK-2,43,39425,44895,COSMO-SkyMed,ASI,ASI,SunSync,629.5 km,,,05:46 asc,Operational,SAR-2000,44858.3741319444,44858
+CSK-3,44,39746,44895,COSMO-SkyMed,ASI,ASI,SunSync,629.5 km,,,05:46 asc,Operational,SAR-2000,44858.3743055556,44858
+CSK-4,45,40488,44895,COSMO-SkyMed,ASI,Elecnor-Deimos,SunSync,629.5 km,,,05:46 asc,Operational,SAR-2000,44858.3744791667,44858
+Deimos-1,46,40023,43434,Deimos,Elecnor-Deimos,NASA,SunSync,660 km,,,10:30 asc,Presumably inactive,SLIM6,43831.1352893519,43831
+"DESDynI,47,TBD,TBD,Deformation, Ecosystem Structure, and Dynamics of Ice,NASA,DoD
+ NOAA,SunSync,400 km,,,06:00 desc,Mission concept,InSAR
+ VCL,43271.9765740741,43271"
+"DMSP-F01,48,28014,29115,Defense Meteorological Satellite Program - Block 5D-1,DoD
+ NOAA,DoD
+ NOAA,SunSync,820 km,,,06:20 desc,Inactive,OLS
+ SEM/SSB/X-2
+ SEM/SSJ4
+ SSH,44991.4742013889,44991"
+"DMSP-F02,49,28280,28568,Defense Meteorological Satellite Program - Block 5D-1,DoD
+ NOAA,DoD
+ NOAA,SunSync,832 km,,,10:00 desc,Inactive,OLS
+ SEM/SSB/X-2
+ SEM/SSI/ES-2
+ SEM/SSJ4
+ SSH,44991.4740972222,44991"
+"DMSP-F03,50,28610,29190,Defense Meteorological Satellite Program - Block 5D-1,DoD
+ NOAA,DoD
+ NOAA,SunSync,810 km,,,06:20 desc,Inactive,OLS
+ SEM/SSB/X-2
+ SEM/SSJ4
+ SSH,44991.473912037,44991"
+"DMSP-F04,51,29012,29442,Defense Meteorological Satellite Program - Block 5D-1,DoD
+ NOAA,DoD
+ NOAA,SunSync,840 km,,,10:00 desc,Inactive,OLS
+ SEM/SSI/ES-2
+ SEM/SSJ4
+ SSH
+ SSM/T,44991.4736342593,44991"
+"DMSP-F05,52,29416,29416,Defense Meteorological Satellite Program - Block 5D-1,DoD
+ NOAA,DoD
+ NOAA,SunSync,820 km,,,06:20 desc,Inactive,OLS
+ SEM/SSB/X-2
+ SEM/SSI/ES-2
+ SEM/SSJ4,44498.2928819444,44498"
+"DMSP-F06,53,30306,35744,Defense Meteorological Satellite Program - Block 5D-2,DoD
+ NOAA,DoD
+ NOAA,SunSync,824 km,,,06:20 desc,Inactive,OLS
+ SEM/SSB/X-2
+ SEM/SSI/ES-2
+ SEM/SSJ4,42213.4192361111,42213"
+"DMSP-F07,54,30638,32279,Defense Meteorological Satellite Program - Block 5D-2,DoD
+ NOAA,DoD
+ NOAA,SunSync,835 km,,,10:10 desc,Inactive,OLS
+ SEM/SSB/X-2
+ SEM/SSI/ES-2
+ SEM/SSJ4
+ SEM/SSM
+ SSM/T,42213.4196990741,42213"
+"DMSP-F08,55,31946,38991,Defense Meteorological Satellite Program - Block 5D-2,DoD
+ NOAA,DoD
+ NOAA,SunSync,856 km,,,06:10 desc,Inactive,OLS
+ SEM/SSB/X-2
+ SEM/SSI/ES-2
+ SEM/SSJ4
+ SSM/I
+ SSM/T,42213.4203703704,42213"
+"DMSP-F09,56,32176,34547,Defense Meteorological Satellite Program - Block 5D-2,DoD
+ NOAA,DoD
+ NOAA,SunSync,832 km,,,09:30 desc,Inactive,OLS
+ SEM/SSI/ES-2
+ SEM/SSJ4
+ SSM/T,42213.4209837963,42213"
+"DMSP-F10,57,33208,35727,Defense Meteorological Satellite Program - Block 5D-2,DoD
+ NOAA,DoD
+ NOAA,SunSync,790 km,,,07:30 desc,Inactive,OLS
+ SEM/SSB/X-2
+ SEM/SSI/ES-2
+ SEM/SSJ4
+ SSM/I
+ SSM/T,42213.4215393519,42213"
+"DMSP-F11,58,33570,36745,Defense Meteorological Satellite Program - Block 5D-2,DoD
+ NOAA,DoD
+ NOAA,SunSync,853 km,,,05:00 desc,Inactive,OLS
+ SEM/SSB/X-2
+ SEM/SSI/ES-2
+ SEM/SSJ4
+ SSM/I
+ SSM/T
+ SSM/T-2,42213.4221990741,42213"
+"DMSP-F12,59,34575,39734,Defense Meteorological Satellite Program - Block 5D-2,DoD
+ NOAA,DoD
+ NOAA,SunSync,850 km,,,03:35 desc,Inactive,OLS
+ SEM/SSB/X-2
+ SEM/SSI/ES-2
+ SEM/SSJ4
+ SEM/SSM
+ SSM/I
+ SSM/T
+ SSM/T-2,42213.4227893519,42213"
+"DMSP-F13,60,34782,42038,Defense Meteorological Satellite Program - Block 5D-2,DoD
+ NOAA,DoD
+ NOAA,SunSync,850 km,,,05:51 desc,Inactive,OLS
+ SEM/SSB/X-2
+ SEM/SSI/ES-2
+ SEM/SSJ4
+ SEM/SSM
+ SSM/I
+ SSM/T,42213.4234375,42213"
+"DMSP-F14,61,35524,43872,Defense Meteorological Satellite Program - Block 5D-2,DoD
+ NOAA,DoD
+ NOAA,SunSync,852 km,,,05:00 desc,Inactive,OLS
+ SEM/SSI/ES-2
+ SEM/SSJ4
+ SEM/SSM
+ SSM/I
+ SSM/T
+ SSM/T-2,45082.4335185185,45082"
+"DMSP-F15,62,36506,44165,Defense Meteorological Satellite Program - Block 5D-3,DoD
+ NOAA,DoD
+ NOAA,SunSync,850 km,,,14:50 asc,Inactive,OLS
+ SEM/SSI/ES-2
+ SEM/SSJ4
+ SESS/SSM-Boom
+ SSM/I
+ SSM/T
+ SSM/T-2,44487.4278935185,44487"
+"DMSP-F16,63,37912,44895,Defense Meteorological Satellite Program - Block 5D-3,DoD
+ NOAA,DoD
+ NOAA,SunSync,848 km,,,06:20 desc,Operational,OLS
+ SESS/SSI/ES-3
+ SESS/SSJ5 
+ SESS/SSM-Boom
+ SESS/SSULI
+ SESS/SSUSI
+ SSMIS,45082.4356712963,45082"
+"DMSP-F17,64,39025,45626,Defense Meteorological Satellite Program - Block 5D-3,DoD
+ NOAA,DoD
+ NOAA,SunSync,848 km,,,06:35 desc,Operational,OLS
+ SESS/SSI/ES-3
+ SESS/SSJ5 
+ SESS/SSM-Boom
+ SESS/SSULI
+ SESS/SSUSI
+ SSMIS,45211.3294328704,45211"
+"DMSP-F18,65,40104,45626,Defense Meteorological Satellite Program - Block 5D-3,DoD
+ NOAA,DoD
+ NOAA,SunSync,850 km,,,04:30 desc,Operational,OLS
+ SESS/SSI/ES-3
+ SESS/SSJ5 
+ SESS/SSM-Boom
+ SESS/SSULI
+ SESS/SSUSI
+ SSMIS,45211.3291203704,45211"
+"DMSP-F19,66,41732,42411,Defense Meteorological Satellite Program - Block 5D-3,DoD
+ NOAA,EIAST,SunSync,850 km,,,06:36 desc,Inactive,OLS
+ SESS/SSI/ES-3
+ SESS/SSJ5 
+ SESS/SSM-Boom
+ SESS/SSULI
+ SESS/SSUSI
+ SSMIS,43937.7134837963,43937"
+"DubaiSat-1,68,40023,42499,DubaiSat,EIAST,ESA
+ JAXA,SunSync,686 km,,,10:30 desc,Inactive,DMAC,42950.0221296296,42950"
+"EarthCARE,71,45260,46356,Earth Clouds, Aerosol and Radiation Explorer,ESA
+ JAXA,RosHydroMet
+ Roscosmos,SunSync,394 km,,,14:00 desc,Planned,ATLID
+ BBR
+ CPR (Earth-CARE)
+ MSI,44959.6962615741,44959"
+"Electro-GOMS,72,34638,36845,Electro,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,GEO,35786 km,76.5 ° E,,,Inactive,DCS (Electro)
+ RMS-platform
+ RMS-solar
+ RMS/MAG
+ STR (Electro),42213.4286111111,42213"
+"Electro-L N1,73,40563,42338,Electro,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,GEO,35786 km,29.6 ° W,,,Inactive,DCS (Electro)
+ GEOS&R (Electro)
+ GGAK-E/DIR-E
+ GGAK-E/GALS-E
+ GGAK-E/SKIF-6
+ GGAK-E/SKL-E
+ GGAK-E/VUSS-E
+ MSU-GS,42934.5249189815,42934"
+"Electro-L N2,74,42349,45626,Electro,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,GEO,35786 km,14.5 ° W,,,Operational,DCS (Electro)
+ GEOS&R (Electro)
+ GGAK-E/DIR-E
+ GGAK-E/GALS-E
+ GGAK-E/SKIF-6
+ GGAK-E/SKL-E
+ GGAK-E/VUSS-E
+ MSU-GS,44537.4338078704,44537"
+"Electro-M N1,75,45626,49278,Electro,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,GEO,35786 km,14.5 ° W,,,Planned,DCS (Electro)
+ ERBR
+ GEOS&R (Electro)
+ GGAK-E/DIR-E
+ GGAK-E/FM-E
+ GGAK-E/GALS-E
+ GGAK-E/ISP-2M
+ GGAK-E/SKIF-6
+ GGAK-E/VUSS-E
+ IRFS-GS
+ LM
+ MSU-GSM,44491.5868055556,44491"
+"Electro-M N2,76,45991,49643,Electro,RosHydroMet
+ Roscosmos,DLR,GEO,35786 km,76 ° E,,,Planned,DCS (Electro)
+ ERBR
+ GEOS&R (Electro)
+ GGAK-E/DIR-E
+ GGAK-E/FM-E
+ GGAK-E/GALS-E
+ GGAK-E/ISP-2M
+ GGAK-E/SKIF-6
+ GGAK-E/VUSS-E
+ IRFS-GS
+ LM
+ MSU-GSM,44491.5871527778,44491"
+EnMAP,77,44652,45991,Environmental Mapping and Analysis Programme,DLR,ESA,SunSync,653 km,,,11:00 desc,Operational,HSI (EnMAP),44991.5885069444,44991
+"Envisat,78,37316,41007,Environmental Satellite,ESA,NASA,SunSync,774 km,,,10:00 desc,Inactive,AATSR
+ ASAR
+ DORIS
+ GOMOS
+ LRR (ESA)
+ MERIS
+ MIPAS
+ MWR (Envisat)
+ RA-2
+ SCIAMACHY-limb
+ SCIAMACHY-nadir,43767.8917013889,43767"
+"Aqua,79,37380,45626,Earth Observation System,NASA,NASA,SunSync,705 km,,,13:30 asc,Operational,AIRS
+ AMSR-E
+ AMSU-A
+ CERES
+ HSB
+ MODIS,44823.5684837963,44823"
+"Aura,80,38183,45626,Earth Observation System,NASA,NASA,SunSync,705 km,,,13:40 asc,Operational,HIRDLS
+ MLS (EOS-Aura)
+ OMI 
+ TES-limb
+ TES-nadir,44823.5763425926,44823"
+"Terra,81,36512,44895,Earth Observation System,NASA,EUMETSAT
+ ESA,SunSync,705 km,,,10:30 desc,Operational,ASTER
+ CERES
+ MISR
+ MODIS
+ MOPITT,44641.3685648148,44641"
+"Metop-SG-A2,83,48182,50739,EPS Second Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,SunSync,835 km,,,09:30 desc,Planned,3MI
+ IASI-NG
+ METimage
+ MWS
+ RO
+ Sentinel-5,45138.355150463,45138"
+"Metop-SG-A3,84,50739,53296,EPS Second Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,SunSync,835 km,,,09:30 desc,Planned,3MI
+ IASI-NG
+ METimage
+ MWS
+ RO
+ Sentinel-5,45138.355787037,45138"
+"Metop-SG-B1,85,45626,48548,EPS Second Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,SunSync,835 km,,,09:30 desc,Planned,A-DCS
+ ICI 
+ MWI (MetOp-SG)
+ NGRM
+ RO
+ SCA (Scatterometer),45138.3561342593,45138"
+"Metop-SG-B2,86,48182,51104,EPS Second Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,SunSync,835 km,,,09:30 desc,Planned,A-DCS
+ ICI 
+ MWI (MetOp-SG)
+ RO
+ SCA (Scatterometer),45138.3566666667,45138"
+"Metop-SG-B3,87,50739,53661,EPS Second Generation,EUMETSAT
+ ESA,NASA,SunSync,835 km,,,09:30 desc,Planned,A-DCS
+ ICI 
+ MWI (MetOp-SG)
+ RO
+ SCA (Scatterometer),45138.356875,45138"
+"ERBS,88,30960,38639,Earth Radiation Budget Satellite,NASA,ESA,DRIFT,610 km,,57°,,Inactive,ERBE
+ SAGE-II,42212.8585416667,42212"
+"ERS-1,89,33436,36595,European Remote-sensing Satellite,ESA,ESA,SunSync,785 km,,,10:30 desc,Inactive,AMI-SAR
+ AMI-SCAT
+ ATSR
+ LRR (ESA)
+ PRARE
+ RA,44694.5493171296,44694"
+"ERS-2,90,34810,40730,European Remote-sensing Satellite,ESA,NOAA
+ NASA,SunSync,785 km,,,10:30 desc,Inactive,AMI-SAR
+ AMI-SCAT
+ ATSR-2
+ GOME
+ LRR (ESA)
+ MWR (Envisat)
+ PRARE
+ RA,43768.0987962963,43768"
+"ESSA-1,91,24141,24539,TIROS Operational System,NOAA
+ NASA,NOAA
+ NASA,SunSync,770 km,,,09:30 desc,Inactive,FPR
+ VCS-WA,42212.8601851852,42212"
+"ESSA-2,92,24166,25857,TIROS Operational System,NOAA
+ NASA,NOAA
+ NASA,SunSync,1390 km,,,09:30 desc,Inactive,APT,42212.8605208333,42212"
+"ESSA-3,93,24382,25174,TIROS Operational System,NOAA
+ NASA,NOAA
+ NASA,SunSync,1440 km,,,09:30 desc,Inactive,AVCS
+ FPR,42212.8609027778,42212"
+"ESSA-4,94,24498,24963,TIROS Operational System,NOAA
+ NASA,NOAA
+ NASA,SunSync,1380 km,,,09:30 desc,Inactive,APT,42212.8612731482,42212"
+"ESSA-5,95,24582,25619,TIROS Operational System,NOAA
+ NASA,NOAA
+ NASA,SunSync,1390 km,,,09:30 desc,Inactive,AVCS
+ FPR,42212.8618055556,42212"
+"ESSA-6,96,24786,25540,TIROS Operational System,NOAA
+ NASA,NOAA
+ NASA,SunSync,1450 km,,,09:30 desc,Inactive,APT,42212.8621180556,42212"
+"ESSA-7,97,25066,25637,TIROS Operational System,NOAA
+ NASA,NOAA
+ NASA,SunSync,1450 km,,,09:30 desc,Inactive,AVCS
+ FPR,42212.8679166667,42212"
+"ESSA-8,98,25187,27831,TIROS Operational System,NOAA
+ NASA,NOAA
+ NASA,SunSync,1440 km,,,09:30 desc,Inactive,APT,42212.8691087963,42212"
+"ESSA-9,99,25260,26615,TIROS Operational System,NOAA
+ NASA,NSPO
+ UCAR,SunSync,1470 km,,,09:30 desc,Inactive,AVCS
+ FPR,42212.8696643519,42212"
+"FORMOSAT-2,100,38128,42601,FORMOSAT,NSPO
+ UCAR,CMA
+ NRSCC,SunSync,891 km,,,09:30 desc,Inactive,ISUAL
+ RSI,42948.0746990741,42948"
+"FY-1A,101,32393,32432,Feng-Yun - 1,CMA
+ NRSCC,CMA
+ NRSCC,SunSync,900 km,,,15:30 asc,Inactive,MVISR
+ SEM/HEPD
+ SEM/IMS,44274.9470601852,44274"
+"FY-1B,102,33119,33455,Feng-Yun - 1,CMA
+ NRSCC,CMA
+ NRSCC,SunSync,900 km,,,07:50 desc,Inactive,MVISR
+ SEM/HEPD
+ SEM/IMS,43384.6375578704,43384"
+"FY-1C,103,36290,38103,Feng-Yun - 1,CMA
+ NRSCC,CMA
+ NRSCC,SunSync,862 km,,,07:00 desc,Inactive,MVISR
+ SEM/HEPD
+ SEM/IMS,43080.0333217593,43080"
+"FY-1D,104,37391,41000,Feng-Yun - 1,CMA
+ NRSCC,CMA
+ NRSCC,SunSync,866 km,,,09:00 desc,Inactive,MVISR
+ SEM/HEPD
+ SEM/IMS,43080.0336689815,43080"
+"FY-2A,105,35591,35893,Feng-Yun - 2,CMA
+ NRSCC,CMA
+ NRSCC,GEO,35786 km,105 ° E,,,Inactive,DCS (FY)
+ S-VISSR (FY-2A/B)
+ SEM (FY-2),43615.8761689815,43615"
+"FY-2B,106,36702,38230,Feng-Yun - 2,CMA
+ NRSCC,CMA
+ NRSCC,GEO,35786 km,105 ° E,,,Inactive,DCS (FY)
+ S-VISSR (FY-2A/B)
+ SEM (FY-2),43615.8766319445,43615"
+"FY-2C,107,38279,40140,Feng-Yun - 2,CMA
+ NRSCC,CMA
+ NRSCC,GEO,35786 km,105 ° E,,,Inactive,DCS (FY)
+ S-VISSR (FY-2C/D/E)
+ SEM (FY-2),43615.8772569444,43615"
+"FY-2D,108,39059,42185,Feng-Yun - 2,CMA
+ NRSCC,CMA
+ NRSCC,GEO,35786 km,86.5 ° E,,,Inactive,DCS (FY)
+ S-VISSR (FY-2C/D/E)
+ SEM (FY-2),43615.8777546296,43615"
+"FY-2E,109,39805,43465,Feng-Yun - 2,CMA
+ NRSCC,CMA
+ NRSCC,GEO,35786 km,86.5 ° E,,,Inactive,DCS (FY)
+ S-VISSR (FY-2C/D/E)
+ SEM (FY-2),43796.1986574074,43796"
+"FY-2F,110,40921,44652,Feng-Yun - 2,CMA
+ NRSCC,CMA
+ NRSCC,GEO,35786 km,112 ° E,,,Inactive,DCS (FY)
+ S-VISSR (FY-2F/G/H)
+ SEM (FY-2)
+ SXM,45054.3604282407,45054"
+"FY-2G,111,42004,44895,Feng-Yun - 2,CMA
+ NRSCC,CMA
+ NRSCC,GEO,35786 km,99.5 ° E,,,Operational,DCS (FY)
+ S-VISSR (FY-2F/G/H)
+ SEM (FY-2)
+ SXM,45124.3653703704,45124"
+"FY-2H,112,43256,44895,Feng-Yun - 2,CMA
+ NRSCC,CMA
+ NRSCC,GEO,35786 km,79 ° E,,,Operational,DCS (FY)
+ S-VISSR (FY-2F/G/H)
+ SEM (FY-2)
+ SXM,45117.4376736111,45117"
+"FY-3A,113,39595,42009,Feng-Yun - 3,CMA
+ NRSCC,CMA
+ NRSCC,SunSync,834 km,,,09:05 desc,Inactive,ERM-1
+ IRAS
+ MERSI-1
+ MWHS-1
+ MWRI-1
+ MWTS-1
+ SBUS
+ SEM/HEPD
+ SEM/IMS
+ SIM-1
+ TOU
+ VIRR (FY-3),44902.3714930556,44902"
+"FY-3B,114,40486,44539,Feng-Yun - 3,CMA
+ NRSCC,CMA
+ NRSCC,SunSync,836 km,,,14:45 asc,Inactive,ERM-1
+ IRAS
+ MERSI-1
+ MWHS-1
+ MWRI-1
+ MWTS-1
+ SBUS
+ SEM/HEPD
+ SEM/IMS
+ SIM-1
+ TOU
+ VIRR (FY-3),44902.3719560185,44902"
+"FY-3C,115,41540,44895,Feng-Yun - 3,CMA
+ NRSCC,CMA
+ NRSCC,SunSync,836 km,,,08:20 desc,Operational,ERM-1
+ GNOS
+ IRAS
+ MERSI-1
+ MWHS-2
+ MWRI-1
+ MWTS-2
+ SBUS
+ SEM/HEPD
+ SEM/IMS
+ SIM-1
+ TOU
+ VIRR (FY-3),45124.373287037,45124"
+"FY-3D,116,43053,45260,Feng-Yun - 3,CMA
+ NRSCC,CMA
+ NRSCC,SunSync,836 km,,,13:40 asc,Operational,GAS
+ GNOS
+ HIRAS
+ MERSI-2
+ MWHS-2
+ MWRI-1
+ MWTS-2
+ SEM/HEPD
+ SWS/IPM
+ SWS/SEM/IMS
+ SWS/WAI,45124.3778472222,45124"
+"FY-3E,117,44381,47087,Feng-Yun - 3,CMA
+ NRSCC,CMA
+ NRSCC,SunSync,836 km,,,05:40 desc,Operational,GNOS-2
+ HIRAS-2
+ MERSI-LL
+ MWHS-2
+ MWTS-3
+ SIM-2
+ SSIM
+ SWS/SEM/FGM
+ SWS/SEM/HEPD
+ SWS/SEM/IMS
+ SWS/Tri-IPM
+ WindRAD
+ XEUVI,45159.3406018519,45159"
+"FY-3H,118,45260,47087,Feng-Yun - 3,CMA
+ NRSCC,CMA
+ NRSCC,SunSync,836 km,,,14:00 asc,Planned,GAS-2
+ GNOS-2
+ HIRAS-2
+ MERSI-3
+ MWHS-2
+ MWRI-2
+ MWTS-3
+ SWS/IPM
+ SWS/WAI,45190.6251157407,45190"
+"FY-3F,119,45141,48182,Feng-Yun - 3,CMA
+ NRSCC,CMA
+ NRSCC,SunSync,836 km,,,10:00 desc,Commissioning,ERM-2
+ GNOS-2
+ HIRAS-2
+ MERSI-3
+ MWHS-2
+ MWRI-2
+ MWTS-3
+ OMS-limb
+ OMS-nadir
+ SIM-2,45184.4403703704,45184"
+"FY-4A,120,42714,44895,Feng-Yun - 4,CMA
+ NRSCC,CMA
+ NRSCC,GEO,35786 km,104.7 ° E,,,Operational,AGRI
+ DCS (FY)
+ GIIRS
+ LMI
+ SEP-fields
+ SEP/HEPS,45131.4323958333,45131"
+"FY-4B,121,44349,46721,Feng-Yun - 4,CMA
+ NRSCC,CMA
+ NRSCC,GEO,35786 km,133 ° E,,,Operational,AGRI
+ DCS (FY)
+ FGM (FY4)
+ GHI
+ GIIRS-2
+ SEP-fields
+ SEP/HEPS
+ SEP/LEPS
+ SEP/MEPS,45131.4355324074,45131"
+"FY-4C,122,45626,47817,Feng-Yun - 4,CMA
+ NRSCC,CMA
+ NRSCC,GEO,35786 km,86.5 ° E,,,Planned,AGRI
+ DCS (FY)
+ GIIRS-2
+ LMI
+ MUSI
+ SEP-fields
+ SEP/HEPS
+ SEP/LEPS
+ SEP/MEPS
+ SUVI (FY-4)
+ SXEUV
+ SXUS,45054.3626273148,45054"
+"FY-4D,123,45991,48548,Feng-Yun - 4,CMA
+ NRSCC,CMA
+ NRSCC,GEO,35786 km,105 ° E,,,Planned,AGRI
+ DCS (FY)
+ GIIRS-2
+ LMI
+ MUSI
+ SEP-fields
+ SEP/HEPS
+ SEP/LEPS
+ SEP/MEPS
+ SUVI (FY-4)
+ SXEUV
+ SXUS,45212.5359143519,45212"
+"FY-4E,124,46356,48913,Feng-Yun - 4,CMA
+ NRSCC,JAXA,GEO,35786 km,86.5 ° E,,,Planned,AGRI
+ DCS (FY)
+ GIIRS-2
+ LMI
+ MUSI
+ SEP-fields
+ SEP/HEPS
+ SEP/LEPS
+ SEP/MEPS
+ SUVI (FY-4)
+ SXEUV
+ SXUS,45212.5371990741,45212"
+GCOM-C,127,43092,44895,Global Change Observation Mission,JAXA,JAXA,SunSync,798 km,,,10:30 asc,Operational,SGLI,44858.4053356481,44858
+"GCOM-W,130,41046,44895,Global Change Observation Mission,JAXA,DoD
+ NASA,SunSync,700 km,,,13:30 asc,Operational,AMSR2,44858.4055787037,44858"
+"GEOSat,133,31118,32904,Geodetic Satellite,DoD
+ NASA,DoD
+ NASA,DRIFT,785 km,,108°,,Inactive,GRA,42212.9793171296,42212"
+"GFO,134,35836,39743,Geodetic Satellite,DoD
+ NASA,NASA,DRIFT,784 km,,108°,,Inactive,GFO-RA
+ LRA (NASA)
+ TRSR
+ WVR,42212.9810416667,42212"
+"Glory,135,40606,40606,Glory,NASA,ESA,SunSync,705 km,,,13:30 asc,Lost at launch,APS
+ CC
+ TIM,42212.9828240741,42212"
+"GOCE,136,39889,41568,Gravity Field and Steady-State Ocean Circulation Explorer,ESA,NOAA
+ NASA,SunSync,230 km,,,06:00 asc,Inactive,EGG
+ LRR (ESA)
+ SSTI,42212.9860185185,42212"
+"GOES-1,137,27683,31113,Geostationary Operational Environmental Satellite - 1st generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,135 ° W,,,Inactive,DCIS
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ VISSR,42213.4527777778,42213"
+"GOES-2,138,28292,34151,Geostationary Operational Environmental Satellite - 1st generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,75 ° W,,,Inactive,DCIS
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ VISSR,42213.4607986111,42213"
+"GOES-3,139,28657,34151,Geostationary Operational Environmental Satellite - 1st generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,135 ° W,,,Inactive,DCIS
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ VISSR,42213.4613194444,42213"
+"GOES-4,140,29473,32469,Geostationary Operational Environmental Satellite - 1st generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,135 ° W,,,Inactive,DCIS
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ VAS,42213.4619097222,42213"
+"GOES-5,141,29728,33072,Geostationary Operational Environmental Satellite - 1st generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,75 ° W,,,Inactive,DCIS
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ VAS,42213.4626041667,42213"
+"GOES-6,142,30434,32690,Geostationary Operational Environmental Satellite - 1st generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,135 ° W,,,Inactive,DCIS
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ VAS,42213.4634027778,42213"
+"GOES-7,143,31834,35075,Geostationary Operational Environmental Satellite - 1st generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,75 ° W,,,Inactive,DCIS
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ VAS,42213.4643055556,42213"
+"GOES-8,144,34437,38112,Geostationary Operational Environmental Satellite - 2nd generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,75 ° W,,,Inactive,DCIS
+ GEOS&R 
+ IMAGER (GOES 8-11)
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ SOUNDER,44275.921712963,44275"
+"GOES-9,145,34842,37763,Geostationary Operational Environmental Satellite - 2nd generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,135 ° W,,,Inactive,DCIS
+ GEOS&R 
+ IMAGER (GOES 8-11)
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ SOUNDER,44275.9225,44275"
+"GOES-10,146,35545,39052,Geostationary Operational Environmental Satellite - 2nd generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,135 ° W,,,Inactive,DCIS
+ GEOS&R 
+ IMAGER (GOES 8-11)
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ SOUNDER,44275.9240393519,44275"
+"GOES-11,147,36649,40882,Geostationary Operational Environmental Satellite - 2nd generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,135 ° W,,,Inactive,DCIS
+ GEOS&R 
+ IMAGER (GOES 8-11)
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ SOUNDER,44275.9253240741,44275"
+"GOES-12,148,37095,40308,Geostationary Operational Environmental Satellite - 2nd generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,75 ° W,,,Inactive,DCIS
+ GEOS&R 
+ IMAGER (GOES 12-15)
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ SOUNDER
+ SXI,44275.9259722222,44275"
+"GOES-13,149,38861,43738,Geostationary Operational Environmental Satellite - 2nd generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,61.5 ° E,,,Inactive,DCIS
+ GEOS&R 
+ IMAGER (GOES 12-15)
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ SOUNDER
+ SXI,45194.2763310185,45194"
+"GOES-14,150,39991,46356,Geostationary Operational Environmental Satellite - 2nd generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,108 ° W,,,Stand-by,DCIS
+ GEOS&R 
+ IMAGER (GOES 12-15)
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ SOUNDER
+ SXI,45110.5726851852,45110"
+"GOES-15,151,40241,45077,Geostationary Operational Environmental Satellite - 2nd generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,61.5 ° E,,,Inactive,DCIS
+ GEOS&R 
+ IMAGER (GOES 12-15)
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ SOUNDER
+ SXI,45194.2921990741,45194"
+"GOES-16,152,42693,48182,Geostationary Operational Environmental Satellite - 3rd generation,NOAA
+ NASA,JAXA
+ MOE,GEO,35786 km,75.2 ° W,,,Operational,ABI
+ DCIS
+ EXIS
+ GEOS&R 
+ GLM
+ SEISS/EHIS
+ SEISS/MPS
+ SEISS/SGPS
+ SEM/MAG
+ SUVI,44998.9272685185,44998"
+"GOSAT,154,39836,45260,Greenhouse gas Observing Satellite,JAXA
+ MOE,NASA
+ JAXA,SunSync,666 km,,,13:00 desc,Operational,TANSO-CAI
+ TANSO-FTS,45152.3628009259,45152"
+"GPM Core Observatory,156,41697,46356,Global Precipitation Measurement mission,NASA
+ JAXA,NASA
+ DLR,DRIFT,407 km,,65°,,Operational,DPR
+ GMI (core),45152.579837963,45152"
+"GRACE (2 sats),158,37332,43035,Gravity Recovery and Climate Experiment,NASA
+ DLR,NASA
+ DLR,DRIFT,337 km,,89°,,Inactive,BlackJack (GRACE)
+ HAIRS
+ LRR (DLR)
+ SCA (GRACE)
+ SuperSTAR,44970.3596990741,44970"
+"GRACE-FO (2 sats),159,43242,44895,Gravity Recovery and Climate Experiment,NASA
+ DLR,JMA
+ JAXA,DRIFT,490 km,,89°,,Operational,HAIRS
+ LRR (DLR)
+ SCA (GRACE)
+ SuperSTAR
+ Tri-G (GRACE-FO),44967.6152199074,44967"
+"Himawari-1 (GMS-1),160,28320,32689,Himawari 1st generation (Geostationary Meteorological Satellite),JMA
+ JAXA,JMA
+ JAXA,GEO,35786 km,140 ° E,,,Inactive,DCS (Himawari)
+ SEM (GMS)
+ VISSR (Himawari 1-4),44266.6530902778,44266"
+"Himawari-2 (GMS-2),161,29809,32101,Himawari 1st generation (Geostationary Meteorological Satellite),JMA
+ JAXA,JMA
+ JAXA,GEO,35786 km,140 ° E,,,Inactive,DCS (Himawari)
+ SEM (GMS)
+ VISSR (Himawari 1-4),44266.6534027778,44266"
+"Himawari-3 (GMS-3),162,30897,34872,Himawari 1st generation (Geostationary Meteorological Satellite),JMA
+ JAXA,JMA
+ JAXA,GEO,35786 km,140 ° E,,,Inactive,DCS (Himawari)
+ SEM (GMS)
+ VISSR (Himawari 1-4),44266.6541550926,44266"
+"Himawari-4 (GMS-4),163,32757,36580,Himawari 1st generation (Geostationary Meteorological Satellite),JMA
+ JAXA,JMA
+ JAXA,GEO,35786 km,140 ° E,,,Inactive,DCS (Himawari)
+ SEM (GMS)
+ VISSR (Himawari 1-4),44266.6547916667,44266"
+"Himawari-5 (GMS-5),164,34776,37763,Himawari 1st generation (Geostationary Meteorological Satellite),JMA
+ JAXA,JMA
+ JCAB,GEO,35786 km,140 ° E,,,Inactive,DCS (Himawari)
+ VISSR (Himawari-5),44266.6551273148,44266"
+"Himawari-6 (MTSAT-1R),165,38409,42342,Himawari 2nd generation (Multifunction Transport Satellite),JMA
+ JCAB,JMA
+ JCAB,GEO,35786 km,140 ° E,,,Inactive,DCS (Himawari)
+ JAMI,44266.6556597222,44266"
+"Himawari-7 (MTSAT-2),166,38766,42500,Himawari 2nd generation (Multifunction Transport Satellite),JMA
+ JCAB,JMA,GEO,35786 km,145 ° E,,,Inactive,DCS (Himawari)
+ IMAGER (MTSAT-2),44266.6559606481,44266"
+"Himawari-8,167,41919,47452,Himawari 3rd generation,JMA,CRESDA
+ CAST,GEO,35786 km,140.7 ° E,,,Stand-by,AHI
+ DCS (Himawari),45201.3067361111,45201"
+"HJ-1A,169,39697,43069,Huan Jing,CRESDA
+ CAST,CRESDA
+ CAST,SunSync,650 km,,,10:30 desc,Inactive,HSI
+ WVC,43827.8423611111,43827"
+"HJ-1B,170,39697,43069,Huan Jing,CRESDA
+ CAST,CRESDA
+ CAST,SunSync,650 km,,,10:30 desc,Presumably inactive,IRMSS (HJ)
+ WVC,43827.8416319444,43827"
+"HJ-1C,171,41231,44895,Huan Jing,CRESDA
+ CAST,NSOAS
+ CAST,SunSync,502 km,,,06:00 desc,Unclear,SAR-S,44905.9143402778,44905"
+"HY-1A,172,37391,38076,Hai Yang 1,NSOAS
+ CAST,NSOAS
+ CAST,SunSync,795 km,,,10:30 desc,Inactive,COCTS
+ CZI,43993.4477430556,43993"
+"HY-1B,173,39183,42413,Hai Yang 1,NSOAS
+ CAST,NSOAS
+ CAST,SunSync,798 km,,,10:30 desc,Inactive,COCTS
+ CZI,44091.4927777778,44091"
+"HY-1C,174,43350,45260,Hai Yang 1,NSOAS
+ CAST,NSOAS
+ CAST,SunSync,785 km,,,10:30 desc,Operational,AIS
+ COCTS
+ CZI
+ SCS
+ UVI(HY),43993.6356712963,43993"
+"HY-1D,175,43992,45991,Hai Yang 1,NSOAS
+ CAST,NSOAS
+ CAST,SunSync,798 km,,,13:30 asc,Operational,AIS
+ COCTS
+ CZI
+ SCS
+ UVI(HY),44260.602974537,44260"
+"HY-2A,176,40771,44530,Hai Yang 2,NSOAS
+ CAST,NASA,SunSync,975 km,,,06:00 desc,Presumably inactive,ALT (sso)
+ CMR
+ DORIS
+ HSCAT
+ LRA (NASA)
+ MWRI (HY-2),44679.6284143519,44679"
+"ICESat,177,37633,40404,Ice, Cloud and land Elevation Satellite,NASA,NASA,DRIFT,600 km,,94°,,Inactive,GLAS
+ LRA (NASA)
+ TRSR,42213.0124074074,42213"
+"ICESat-2,178,43358,44895,Ice, Cloud and land Elevation Satellite,NASA,ISRO,DRIFT,481 km,,94°,,Operational,ATLAS
+ LRA (NASA)
+ TRSR,44882.758599537,44882"
+"IMS-1,179,39566,41172,Indian Mini-Satellite,ISRO,CDTI
+ ESA,SunSync,632 km,,,09:30 desc,Inactive,HySI-T
+ Mx-T,43179.5204861111,43179"
+"SEOSat/Ingenio,180,44152,44152,Spanish Earth Observation Satellite (also Ingenio),CDTI
+ ESA,ISRO,SunSync,668 km,,,10:30 desc,Lost at launch,MS (Ingenio)
+ PAN (Ingenio)
+ UVAS,44363.4911805556,44363"
+"INSAT-1A,181,30051,30200,Indian National Satellite - 1,ISRO,ISRO,GEO,35786 km,74 ° E,,,Inactive,DCS (INSAT)
+ VHRR (INSAT),42213.5166319445,42213"
+"INSAT-1B,182,30558,34165,Indian National Satellite - 1,ISRO,ISRO,GEO,35786 km,74 ° E,,,Inactive,DCS (INSAT)
+ VHRR (INSAT),42213.5171296296,42213"
+"INSAT-1C,183,32346,32834,Indian National Satellite - 1,ISRO,ISRO,GEO,35786 km,93.5 ° E,,,Inactive,DCS (INSAT)
+ VHRR (INSAT),42213.5175115741,42213"
+"INSAT-1D,184,33036,37390,Indian National Satellite - 1,ISRO,ISRO,GEO,35786 km,74 ° E,,,Inactive,DCS (INSAT)
+ VHRR (INSAT),42213.5179398148,42213"
+"INSAT-2A,185,33795,37406,Indian National Satellite - 2,ISRO,ISRO,GEO,35786 km,74 ° E,,,Inactive,DCS (INSAT)
+ SAS&R
+ VHRR (INSAT),42213.5183912037,42213"
+"INSAT-2B,186,34173,38169,Indian National Satellite - 2,ISRO,ISRO,GEO,35786 km,93.5 ° E,,,Inactive,DCS (INSAT)
+ SAS&R
+ VHRR (INSAT),42213.518912037,42213"
+INSAT-2C,187,35040,37361,Indian National Satellite - 2,ISRO,ISRO,GEO,35786 km,93.5 ° E,,,Inactive,,42213.5194212963,42213
+"INSAT-2D,188,35585,35707,Indian National Satellite - 2,ISRO,ISRO,GEO,35786 km,93.5 ° E,,,Inactive,DCS (INSAT)
+ SAS&R
+ VHRR (INSAT),42213.519849537,42213"
+"INSAT-2E,189,36253,41014,Indian National Satellite - 2,ISRO,IMD
+ ISRO,GEO,35786 km,83 ° E,,,Inactive,CCD
+ DCS (INSAT)
+ SAS&R
+ VHRR (INSAT),42213.5205208333,42213"
+"INSAT-3A,190,37721,42613,Indian National Satellite - 3,IMD
+ ISRO,IMD
+ ISRO,GEO,35786 km,93.5 ° E,,,Inactive,CCD
+ DCS (INSAT)
+ SAS&R
+ VHRR (INSAT),42933.7147453704,42933"
+"INSAT-3B,191,36607,40484,Indian National Satellite - 3,IMD
+ ISRO,IMD
+ ISRO,GEO,35786 km,83 ° E,,,Inactive,,42755.4481365741,42755"
+"INSAT-3C,192,37280,41608,Indian National Satellite - 3,IMD
+ ISRO,IMD
+ ISRO,GEO,35786 km,74 ° E,,,Inactive,,42933.7209143519,42933"
+"INSAT-3D,193,41480,44895,Indian National Satellite - 3,IMD
+ ISRO,IMD
+ ISRO,GEO,35786 km,82 ° E,,,Operational,DCS (INSAT)
+ IMAGER (INSAT)
+ SAS&R
+ SOUNDER (INSAT),44858.4161111111,44858"
+"INSAT-3DR,194,42621,45991,Indian National Satellite - 3,IMD
+ ISRO,ISRO,GEO,35786 km,74 ° E,,,Operational,DCS (INSAT)
+ IMAGER (INSAT)
+ SAS&R
+ SOUNDER (INSAT),44641.6174652778,44641"
+"IRS-1A,196,32219,33786,Indian Remote-sensing Satellite,ISRO,ISRO,SunSync,904 km,,,10:30 desc,Inactive,LISS-1
+ LISS-2,42213.523599537,42213"
+"IRS-1B,197,33479,37073,Indian Remote-sensing Satellite,ISRO,ISRO,SunSync,904 km,,,10:30 desc,Inactive,LISS-1
+ LISS-2,42213.5241782407,42213"
+"IRS-1C,198,35061,38616,Indian Remote-sensing Satellite,ISRO,ISRO,SunSync,817 km,,,10:30 desc,Inactive,LISS-3 (IRS-1)
+ PAN (IRS)
+ WiFS,42213.5247569445,42213"
+"IRS-1D,199,35702,40193,Indian Remote-sensing Satellite,ISRO,ISRO,SunSync,778 km,,,10:30 desc,Inactive,LISS-3 (IRS-1)
+ PAN (IRS)
+ WiFS,42213.5253125,42213"
+"IRS-1E (IRS-P1),200,34232,34232,Indian Remote-sensing Satellite,ISRO,ISRO,SunSync,904 km,,,10:30 desc,Lost at launch,LISS-1
+ MEOSS,42213.5262962963,42213"
+IRS-P2,201,34622,35688,Indian Remote-sensing Satellite,ISRO,ISRO,SunSync,817 km,,,10:30 desc,Inactive,LISS-2M,42213.5267592593,42213
+"IRS-P3,202,35145,38275,Indian Remote-sensing Satellite,ISRO,NOAA
+ NASA,SunSync,817 km,,,10:30 desc,Inactive,IXAE
+ MOS
+ WiFS (IRS-P3),42213.5272569444,42213"
+"ITOS-1 (TIROS-M),203,25591,26102,NOAA 3rd generation / Improved TIROS Operational System,NOAA
+ NASA,NASA
+ CNES
+ EUMETSAT
+ NOAA,SunSync,1470 km,,,14:30 asc,Inactive,APT
+ AVCS
+ FPR
+ SPM
+ SR,42213.5294212963,42213"
+"JASON-1,204,37232,41456,Joint Altimetry Satellite Oceanography Network,NASA
+ CNES
+ EUMETSAT
+ NOAA,NASA
+ CNES
+ EUMETSAT
+ NOAA,DRIFT,1324 km,,66°,,Inactive,DORIS
+ JMR
+ LRA (NASA)
+ Poseidon-2
+ TRSR,43767.8791319444,43767"
+"JASON-2,205,39619,43739,Joint Altimetry Satellite Oceanography Network,NASA
+ CNES
+ EUMETSAT
+ NOAA,NASA
+ CNES
+ EUMETSAT
+ NOAA,DRIFT,1309.5 km,,66°,,Inactive,AMR
+ CARMEN
+ DORIS
+ LPT
+ LRA (NASA)
+ Poseidon-3
+ TRSR,44336.7295486111,44336"
+"JASON-3,206,42386,45260,Joint Altimetry Satellite Oceanography Network,NASA
+ CNES
+ EUMETSAT
+ NOAA,JAXA,DRIFT,1336 km,,66°,,Operational,AMR
+ CARMEN
+ DORIS
+ LPT
+ LRA (NASA)
+ Poseidon-3B
+ TRSR,44994.7025,44994"
+"JERS,207,33645,36079,Japanese Earth Resources Satellite,JAXA,NOAA
+ NASA,SunSync,568 km,,,10:45 desc,Inactive,OPS (JERS)
+ SAR (JERS),42213.5312847222,42213"
+"NOAA-20,208,43057,46356,Joint Polar Satellite System,NOAA
+ NASA,NOAA
+ NASA,SunSync,834 km,,,13:25 asc,Operational,ATMS
+ CERES
+ CrIS
+ OMPS-nadir
+ VIIRS,45152.5897916667,45152"
+"NOAA-21,209,44875,47452,Joint Polar Satellite System,NOAA
+ NASA,ISRO
+ IMD,SunSync,824 km,,,13:30 asc,Operational,ATMS
+ CrIS
+ OMPS-limb
+ OMPS-nadir
+ VIIRS,45152.5894560185,45152"
+"Kalpana-1,210,37511,42978,Kalpana,ISRO
+ IMD,Roscosmos
+ RosHydroMet,GEO,35786 km,74 ° E,,,Inactive,DCS (INSAT)
+ VHRR (INSAT),43379.5379282407,43379"
+"KANOPUS-V1,211,41112,44013,KANOPUS Vulkan,Roscosmos
+ RosHydroMet,Roscosmos
+ RosHydroMet,SunSync,510 km,,,10:30 asc,Inactive,MSS (KANOPUS)
+ MSU-200
+ PSS,44573.8493865741,44573"
+"KANOPUS-V-IK-1,212,42930,44895,KANOPUS Vulkan,Roscosmos
+ RosHydroMet,KARI,SunSync,510 km,,,10:30 asc,Operational,MSS (KANOPUS)
+ MSU-IK-SR
+ PSS,44858.4180902778,44858"
+"KOMPSAT-1,213,36514,39478,Korea Multi-Purpose Satellite,KARI,KARI,SunSync,685 km,,,10:50 asc,Inactive,EOC
+ OSMI
+ SPS/HEPD
+ SPS/IMS,42213.5355324074,42213"
+KOMPSAT-2,214,38926,44895,Korea Multi-Purpose Satellite,KARI,KARI,SunSync,685 km,,,10:50 asc,Operational,MSC,44858.4121412037,44858
+KOMPSAT-3,215,41046,44895,Korea Multi-Purpose Satellite,KARI,KARI,SunSync,675 km,,,13:30 asc,Operational,AEISS,44858.4144675926,44858
+"KOMPSAT-5,216,41508,44895,Korea Multi-Purpose Satellite,KARI,ASI
+ NASA,SunSync,550 km,,,06:00 asc,Operational,AOPOD
+ COSI
+ LRR (DLR),44858.4148726852,44858"
+"LAGEOS-1,217,27884,45991,Laser Geodynamics Satellite,ASI
+ NASA,ASI
+ NASA,DRIFT,5900 km,,109.8°,,Operational,LRA (ASI),43462.6622453704,43462"
+"LAGEOS-2,218,33899,51835,Laser Geodynamics Satellite,ASI
+ NASA,USGS
+ NASA,DRIFT,5780 km,,52.6°,,Operational,LRA (ASI),43462.6630092593,43462"
+"Landsat-1 (ERTS),219,26503,28492,Landsat,USGS
+ NASA,USGS
+ NASA,SunSync,907 km,,,10:00 desc,Inactive,DCS (Landsat)
+ MSS
+ RBV,42213.7772337963,42213"
+"Landsat-2,220,27416,30007,Landsat,USGS
+ NASA,USGS
+ NASA,SunSync,908 km,,,10:00 desc,Inactive,DCS (Landsat)
+ MSS
+ RBV,42213.7778819444,42213"
+"Landsat-3,221,28554,30406,Landsat,USGS
+ NASA,USGS
+ NASA,SunSync,915 km,,,10:00 desc,Inactive,DCS (Landsat)
+ MSS
+ RBV,42213.7785532407,42213"
+"Landsat-4,222,30148,33938,Landsat,USGS
+ NASA,USGS
+ NASA,SunSync,705 km,,,10:00 desc,Inactive,GPS (NASA)
+ MSS
+ TM,42213.7849189815,42213"
+"Landsat-5,223,30742,40865,Landsat,USGS
+ NASA,USGS
+ NASA,SunSync,705 km,,,09:45 desc,Inactive,GPS (NASA)
+ MSS
+ TM,42213.7905902778,42213"
+"Landsat-6,224,34247,34247,Landsat,USGS
+ NASA,USGS
+ NASA,SunSync,705 km,,,09:45 desc,Lost at launch,ETM,42213.7913541667,42213"
+"Landsat-7,225,36265,45626,Landsat,USGS
+ NASA,ASI
+ NASA,SunSync,705 km,,,08:30 desc,Operational,ETM+,45131.3576388889,45131"
+"LARES-1,226,40952,54757,Laser Geodynamics Satellite,ASI
+ NASA,USGS
+ NASA,DRIFT,1450 km,,69.5°,,Operational,LRA (ASI),44621.7251157407,44621"
+"Landsat-8,227,41316,44895,Landsat Data Continuity Mission,USGS
+ NASA,ISRO
+ CNES,SunSync,705 km,,,10:11 desc,Operational,OLI
+ TIRS,45131.3584490741,45131"
+"Megha-Tropiques,228,40828,44561,Megha-Tropiques,ISRO
+ CNES,RosHydroMet
+ Roscosmos,DRIFT,867 km,,20°,,Inactive,MADRAS
+ ROSA
+ SAPHIR
+ ScaRaB,44739.6143981482,44739"
+"Meteor-1-1,229,25288,25594,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,560 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7179976852,41318"
+"Meteor-1-2,230,25482,25755,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,530 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7182175926,41318"
+"Meteor-1-3,231,25644,25919,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,680 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7184375,41318"
+"Meteor-1-4,232,25686,25961,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,560 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7186458333,41318"
+"Meteor-1-5,233,25742,26015,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,840 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.718912037,41318"
+"Meteor-1-6,234,25856,26129,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,440 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7191319444,41318"
+"Meteor-1-7,235,25953,26226,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,540 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7195486111,41318"
+"Meteor-1-8,236,26040,26315,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,250 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7198148148,41318"
+"Meteor-1-9,237,26130,26405,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,350 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7201041667,41318"
+"Meteor-1-10,238,26296,26571,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,870 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7204050926,41318"
+"Meteor-1-11,239,26388,26663,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,870 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7207175926,41318"
+"Meteor-1-12,240,26480,26753,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,880 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7210069444,41318"
+"Meteor-1-13,241,26598,26871,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,860 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7212615741,41318"
+"Meteor-1-14,242,26743,27018,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,850 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7214930556,41318"
+"Meteor-1-15,243,26813,27088,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,860 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7217361111,41318"
+"Meteor-1-16,244,27093,27368,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,850 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.722025463,41318"
+"Meteor-1-17,245,27143,27418,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,870 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7222916667,41318"
+"Meteor-1-19,246,27330,27729,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,860 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7613194444,41318"
+"Meteor-1-20,247,27380,27654,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,860 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7228240741,41318"
+"Meteor-1-21,248,27485,27942,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,870 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41663.8268981481,41663"
+"Meteor-1-22,249,27655,28095,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,850 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7233217593,41318"
+"Meteor-1-23,250,27753,28028,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,860 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7236111111,41318"
+"Meteor-1-24,251,27857,28132,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,860 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7238657407,41318"
+"Meteor-1-26,252,28048,28321,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,860 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),41318.7622222222,41318"
+"Meteor-1-27,253,28220,28495,Meteor-1,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,860 km,,81.2°,,Inactive,AC
+ IR (Meteor-1)
+ TV (Meteor-1),44991.5170486111,44991"
+"Meteor-2-1,254,27586,28136,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,860 km,,81.3°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7252430556,41318"
+"Meteor-2-2,255,28131,28677,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,880 km,,81.3°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7254976852,41318"
+"Meteor-2-3,256,28473,29020,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,860 km,,81.2°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7256944444,41318"
+"Meteor-2-4,257,28915,29465,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,850 km,,81.2°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7258564815,41318"
+"Meteor-2-5,258,29159,29706,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,870 km,,81.2°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7260532407,41318"
+"Meteor-2-6,259,29473,30019,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,860 km,,81.2°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7262615741,41318"
+"Meteor-2-7,260,29720,30269,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,860 km,,81.3°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7264351852,41318"
+"Meteor-2-8,261,30035,30584,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,940 km,,82.5°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7266087963,41318"
+"Meteor-2-9,262,30299,30847,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,840 km,,81.3°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7268055556,41318"
+"Meteor-2-10,263,30617,31165,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,810 km,,81.2°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.727025463,41318"
+"Meteor-2-11,264,30868,31417,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,950 km,,82.5°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7272337963,41318"
+"Meteor-2-12,265,31084,31599,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,940 km,,82.5°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7274074074,41318"
+"Meteor-2-13,266,31407,31954,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,950 km,,82.5°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7276041667,41318"
+"Meteor-2-14,267,31559,32108,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,950 km,,82.5°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7278240741,41318"
+"Meteor-2-15,268,31782,32329,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,950 km,,82.5°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7280208333,41318"
+"Meteor-2-16,269,32007,32557,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,950 km,,82.5°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7282291667,41318"
+"Meteor-2-17,270,32172,33084,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,950 km,,82.5°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7284375,41318"
+"Meteor-2-18,271,32567,33113,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,940 km,,82.5°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.728599537,41318"
+"Meteor-2-19,272,33051,33599,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,950 km,,82.5°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7287847222,41318"
+"Meteor-2-20,273,33144,33691,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,950 km,,82.5°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.7291782407,41318"
+"Meteor-2-21,274,34212,34758,Meteor-2,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,950 km,,82.5°,,Inactive,IR (Meteor-2)
+ RMK-2
+ SM (Meteor-2)
+ TV (Meteor-2),41318.729375,41318"
+"Meteor-3-1,276,31344,32074,Meteor-3,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,1200 km,,82.5°,,Inactive,Klimat
+ MR-900B
+ MR-2000M
+ RMK-2
+ SM (Meteor-3),41318.7153009259,41318"
+"Meteor-3-2,277,32350,33080,Meteor-3,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,1200 km,,82.5°,,Inactive,Klimat
+ MR-900B
+ MR-2000M
+ RMK-2
+ SM (Meteor-3),41318.7156597222,41318"
+"Meteor-3-3,278,32805,33535,Meteor-3,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,1240 km,,82.5°,,Inactive,Klimat
+ MR-900B
+ MR-2000M
+ RMK-2
+ SM (Meteor-3),41318.7160069444,41318"
+"Meteor-3-4,279,33352,34083,Meteor-3,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,1200 km,,82.5°,,Inactive,Klimat
+ MR-900B
+ MR-2000M
+ RMK-2
+ SM (Meteor-3),41318.7164467593,41318"
+"Meteor-3-5,280,33465,34196,Meteor-3,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,1200 km,,82.5°,,Inactive,Klimat
+ MR-900B
+ MR-2000M
+ RMK-2
+ SM (Meteor-3)
+ TOMS,41318.7168402778,41318"
+"Meteor-3-6,281,34359,35089,Meteor-3,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,1210 km,,82.5°,,Inactive,Klimat
+ MR-900B
+ MR-2000M
+ PRARE
+ RMK-2
+ SM (Meteor-3)
+ ScaRaB,41318.7171990741,41318"
+"Meteor-3M,282,37235,38812,Meteor-3M,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,SunSync,1020 km,,,09:15 asc,Inactive,GGAK-M/KGI-4C
+ GGAK-M/MSGI-MKA
+ Klimat
+ MIVZA
+ MR-2000M1
+ MSU-E
+ MTVZA
+ OCS
+ SAGE-III
+ SFM-2,42213.7999768519,42213"
+"Meteor-M N1,283,40073,41905,Meteor-3M,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,SunSync,826 km,,,09:30 desc,Inactive,GGAK-E/GALS-E (Meteor)
+ GGAK-E/SKIF-6 (Meteor)
+ GGAK-M/RIMS-M
+ IKOR-M
+ KMSS
+ MSU-MR
+ MTVZA-GY
+ SSPD
+ Severjanin-M,44305.5695949074,44305"
+"Meteor-M N2,284,41828,44895,Meteor-3M,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,SunSync,820 km,,,09:30 asc,Operational,GGAK-E/GALS-E (Meteor)
+ GGAK-E/SKIF-6 (Meteor)
+ GGAK-M/RIMS-M
+ IKFS-2
+ IKOR-M
+ KMSS
+ MSU-MR
+ MTVZA-GY
+ SSPD
+ Severjanin-M,44964.8490162037,44964"
+"Meteor-MP N1,286,45626,48182,Meteor-3M,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,SunSync,830 km,,,15:30 asc,Planned,ARMA-MP
+ ASAR (MP)
+ GGAK-E/GALS-E (Meteor)
+ GGAK-E/SKIF-6 (Meteor)
+ GGAK-M/RIMS-M
+ GORIZONT-MP
+ IKFS-3
+ MSU-MR-MP
+ MTVZA-GY-MP
+ SCAT-MP
+ SSPD
+ TGSP,45117.3488425926,45117"
+"Meteor-MP N2,287,45991,48548,Meteor-3M,RosHydroMet
+ Roscosmos,EUMETSAT
+ EC
+ ESA,SunSync,830 km,,,09:30 desc,Planned,ARMA-MP
+ ASAR (MP)
+ GGAK-E/GALS-E (Meteor)
+ GGAK-E/SKIF-6 (Meteor)
+ GGAK-M/RIMS-M
+ GORIZONT-MP
+ IKFS-3
+ IKOR-M
+ MSU-MR-MP
+ MTVZA-GY-MP
+ SCAT-MP
+ SSPD
+ TGSP,45117.3537847222,45117"
+"MTG-I1,289,44908,47452,Meteosat Third Generation (MTG) - “I” imaging, “S” sounding,EUMETSAT
+ EC
+ ESA,EUMETSAT
+ EC
+ ESA,GEO,35786 km,3.5 ° W,,,Commissioning,DCS (Meteosat)
+ FCI
+ GEOS&R 
+ LI
+ NGRM,45208.3234375,45208"
+"MTG-I2,290,45991,48913,Meteosat Third Generation (MTG) - “I” imaging, “S” sounding,EUMETSAT
+ EC
+ ESA,EUMETSAT
+ EC
+ ESA,GEO,35786 km,,,,Planned,DCS (Meteosat)
+ FCI
+ GEOS&R 
+ LI
+ NGRM,45042.301087963,45042"
+"MTG-I3,291,48182,51104,Meteosat Third Generation (MTG) - “I” imaging, “S” sounding,EUMETSAT
+ EC
+ ESA,EUMETSAT
+ EC
+ ESA,GEO,35786 km,,,,Planned,DCS (Meteosat)
+ FCI
+ GEOS&R 
+ LI
+ NGRM,44881.7372106482,44881"
+"MTG-I4,292,49643,52565,Meteosat Third Generation (MTG) - “I” imaging, “S” sounding,EUMETSAT
+ EC
+ ESA,EUMETSAT
+ EC
+ ESA,GEO,35786 km,,,,Planned,DCS (Meteosat)
+ FCI
+ GEOS&R 
+ LI
+ NGRM,44881.7396296296,44881"
+"MTG-S1,293,45260,48548,Meteosat Third Generation (MTG) - “I” imaging, “S” sounding,EUMETSAT
+ EC
+ ESA,EUMETSAT
+ EC
+ ESA,GEO,35786 km,,,,Planned,IRS
+ NGRM
+ Sentinel-4,45138.3543287037,45138"
+"MTG-S2,294,48913,51835,Meteosat Third Generation (MTG) - “I” imaging, “S” sounding,EUMETSAT
+ EC
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,,,,Planned,IRS
+ NGRM
+ Sentinel-4,44881.7504861111,44881"
+"Meteosat-1,295,28452,29183,Meteosat First Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,,,,Inactive,DCS (Meteosat)
+ MVIRI,44266.5688888889,44266"
+"Meteosat-2,296,29756,33574,Meteosat First Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,,,,Inactive,DCS (Meteosat)
+ MVIRI,44266.5697569444,44266"
+"Meteosat-3,297,32309,33451,Meteosat First Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,,,,Inactive,DCS (Meteosat)
+ MVIRI,44266.5701736111,44266"
+"Meteosat-4,298,32573,35011,Meteosat First Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,,,,Inactive,DCS (Meteosat)
+ MVIRI,44266.5715277778,44266"
+"Meteosat-5,299,33299,35947,Meteosat First Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,,,,Inactive,DCS (Meteosat)
+ MVIRI,44266.5718981482,44266"
+"Meteosat-6,300,34293,39199,Meteosat First Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,,,,Inactive,DCS (Meteosat)
+ MVIRI,44266.5725694444,44266"
+"Meteosat-7 (IODC),301,39056,42767,Meteosat First Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,58 ° E,,,Inactive,DCS (Meteosat)
+ MVIRI,44271.0531828704,44271"
+"Meteosat-8,302,37496,42555,Meteosat Second Generation (MSG),EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,3.7 ° E,,,Inactive,DCS (Meteosat)
+ GEOS&R 
+ GERB
+ SEVIRI,44266.5746759259,44266"
+"Meteosat-9,303,38707,44652,Meteosat Second Generation (MSG),EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,3.5 ° E,,,Inactive,DCS (Meteosat)
+ GEOS&R 
+ GERB
+ SEVIRI,44851.5783680556,44851"
+"Meteosat-10,304,41095,47452,Meteosat Second Generation (MSG),EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,0.0 °,,,Operational,DCS (Meteosat)
+ GEOS&R 
+ GERB
+ SEVIRI,45014.396712963,45014"
+"Meteosat-11,305,42200,48548,Meteosat Second Generation (MSG),EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,9.5 ° E,,,Operational,DCS (Meteosat)
+ GEOS&R 
+ GERB
+ SEVIRI,45019.5783333333,45019"
+"Metop-A,306,39009,44515,EUMETSAT Polar System,EUMETSAT
+ ESA,EUMETSAT
+ ESA,SunSync,827 km,,,07:50 desc,Inactive,A-DCS
+ AMSU-A
+ ASCAT
+ AVHRR/3
+ GOME-2
+ GRAS
+ HIRS/4
+ IASI
+ MHS
+ S&RSAT
+ SEM/MEPED
+ SEM/TED,44914.4880092593,44914"
+"Metop-B,307,41169,45260,EUMETSAT Polar System,EUMETSAT
+ ESA,EUMETSAT
+ ESA,SunSync,827 km,,,09:31 desc,Operational,A-DCS
+ AMSU-A
+ ASCAT
+ AVHRR/3
+ GOME-2
+ GRAS
+ HIRS/4
+ IASI
+ MHS
+ S&RSAT
+ SEM/MEPED
+ SEM/TED,45138.3718055556,45138"
+"Metop-C,308,43411,46356,EUMETSAT Polar System,EUMETSAT
+ ESA,NASA
+ UCAR,SunSync,817 km,,,09:31 desc,Operational,A-DCS
+ AMSU-A
+ ASCAT
+ AVHRR/3
+ GOME-2
+ GRAS
+ IASI
+ MHS
+ SEM/MEPED
+ SEM/TED,44914.4846643519,44914"
+"OrbView-1/MicroLab,309,34790,36619,Orbview-1 (former: MicroLab),NASA
+ UCAR,Roscosmos,DRIFT,785 km,,70°,,Inactive,GPS/MET
+ OTD,42240.7905439815,42240"
+"Monitor-E,310,38590,39675,Monitor - Experimental,Roscosmos,JAXA,SunSync,540 km,,,10:30 asc,Inactive,MS (Monitor)
+ PAN (Monitor-E),42213.8277777778,42213"
+"MOS-1,311,31827,35032,Marine Observatory Satellite,JAXA,JAXA,SunSync,908 km,,,10:15 desc,Inactive,MESSR
+ MSR
+ VTIR,42213.8287615741,42213"
+"MOS-1B,312,32911,35180,Marine Observatory Satellite,JAXA,NASRDA,SunSync,908 km,,,10:35 desc,Inactive,MESSR
+ MSR
+ VTIR,41327.7170833333,41327"
+NigeriaSat-1,313,37891,40862,NigeriaSat,NASRDA,NASRDA,SunSync,686 km,,,10:30 asc,Inactive,SLIM6,42213.8295717593,42213
+"NigeriaSat-2,314,40772,44895,NigeriaSat,NASRDA,NASA,SunSync,718 km,,,10:30 asc,Operational,MRI
+ VHRI,44858.4336689815,44858"
+"Nimbus-1,315,23617,23643,Nimbus,NASA,NASA,SunSync,634 km,,,12:00 desc,Inactive,APT
+ AVCS
+ HRIR,42213.8321296296,42213"
+"Nimbus-2,316,24242,25220,Nimbus,NASA,NASA,SunSync,1140 km,,,11:30 desc,Inactive,APT
+ AVCS
+ HRIR
+ MRIR,42213.8334027778,42213"
+"Nimbus-3,317,25306,26320,Nimbus,NASA,NASA,SunSync,1100 km,,,12:00 desc,Inactive,HRIR
+ IDCS
+ IRIS-B
+ IRLS
+ MRIR
+ MUSE
+ SIRS-A,42213.8343634259,42213"
+"Nimbus-4,318,25666,29494,Nimbus,NASA,NASA,SunSync,1100 km,,,12:00 desc,Inactive,BUV
+ FWS
+ IDCS
+ IRIS-D
+ IRLS
+ MUSE
+ SCR (Nimbus-4)
+ SIRS-B
+ THIR,42213.8440740741,42213"
+"Nimbus-5,319,26643,30404,Nimbus,NASA,NASA,SunSync,1100 km,,,12:00 desc,Inactive,ESMR (Nimbus-5)
+ ITPR
+ NEMS
+ SCMR
+ SCR (Nimbus-5)
+ THIR,42213.8448148148,42213"
+"Nimbus-6,320,27557,30404,Nimbus,NASA,NASA,SunSync,1100 km,,,12:00 desc,Inactive,ERB
+ ESMR (Nimbus-6)
+ HIRS
+ LRIR
+ PMR
+ SCAMS
+ THIR
+ TWERLE,42213.8454513889,42213"
+"Nimbus-7,321,28787,34547,Nimbus,NASA,NASA
+ USGS,SunSync,947 km,,,12:00 desc,Inactive,CZCS
+ ERB
+ LIMS
+ SAM-II
+ SAMS
+ SBUV
+ SMMR
+ THIR
+ TOMS,42213.846087963,42213"
+"NMP-EO-1,322,36851,42824,New Millennium Program - Earth Observing -1,NASA
+ USGS,NOAA
+ NASA,SunSync,691 km,,,09:45 desc,Inactive,ALI
+ Hyperion
+ LAC,42935.5599305556,42935"
+"NOAA-1,323,25913,26164,NOAA 3rd generation / Improved TIROS Operational System,NOAA
+ NASA,NOAA
+ NASA,SunSync,1450 km,,,13:30 asc,Inactive,APT
+ AVCS
+ FPR
+ SPM
+ SR,42213.8477430556,42213"
+"NOAA-2,324,26585,27424,NOAA 3rd generation / Improved TIROS Operational System,NOAA
+ NASA,NOAA
+ NASA,SunSync,1450 km,,,14:30 asc,Inactive,SPM
+ SR
+ VHRR (NOAA)
+ VTPR,42213.8574537037,42213"
+"NOAA-3,325,26974,28003,NOAA 3rd generation / Improved TIROS Operational System,NOAA
+ NASA,NOAA
+ NASA,SunSync,1500 km,,,14:30 asc,Inactive,SPM
+ SR
+ VHRR (NOAA)
+ VTPR,42213.8579282407,42213"
+"NOAA-4,326,27348,28812,NOAA 3rd generation / Improved TIROS Operational System,NOAA
+ NASA,NOAA
+ NASA,SunSync,1450 km,,,14:30 asc,Inactive,SPM
+ SR
+ VHRR (NOAA)
+ VTPR,42213.8584375,42213"
+"NOAA-5,327,27970,29052,NOAA 3rd generation / Improved TIROS Operational System,NOAA
+ NASA,NOAA
+ NASA,SunSync,1510 km,,,14:30 asc,Inactive,SPM
+ SR
+ VHRR (NOAA)
+ VTPR,42213.8592013889,42213"
+"NOAA-6,328,29033,31867,National Oceanic and Atmospheric Administration - 4th generation,NOAA
+ NASA,NOAA
+ NASA,SunSync,840 km,,,07:30 desc,Inactive,AVHRR
+ Argos
+ HIRS/2
+ MSU
+ SEM/MEPED
+ SEM/TED
+ SSU,42213.8599189815,42213"
+"NOAA-7,329,29760,31570,National Oceanic and Atmospheric Administration - 4th generation,NOAA
+ NASA,NOAA,SunSync,860 km,,,14:30 asc,Inactive,AVHRR/2
+ Argos
+ HIRS/2
+ MSU
+ SEM/MEPED
+ SEM/TED
+ SSU,42213.8606597222,42213"
+"NOAA-8,330,30403,31410,NOAA 4th generation / Polar Operational Environmental Satellites,NOAA,NOAA,SunSync,820 km,,,07:30 desc,Inactive,AVHRR
+ Argos
+ HIRS/2
+ MSU
+ S&RSAT
+ SEM/MEPED
+ SEM/TED
+ SSU,42213.8614583333,42213"
+"NOAA-9,331,31028,35839,NOAA 4th generation / Polar Operational Environmental Satellites,NOAA,NOAA,SunSync,850 km,,,14:30 asc,Inactive,AVHRR/2
+ Argos
+ ERBE (NOAA)
+ HIRS/2
+ MSU
+ S&RSAT
+ SBUV/2
+ SEM/MEPED
+ SEM/TED
+ SSU,42213.8622106482,42213"
+"NOAA-10,332,31672,37133,NOAA 4th generation / Polar Operational Environmental Satellites,NOAA,NOAA,SunSync,810 km,,,07:30 desc,Inactive,AVHRR
+ Argos
+ ERBE (NOAA)
+ HIRS/2
+ MSU
+ S&RSAT
+ SBUV/2
+ SEM/MEPED
+ SEM/TED,43913.7302777778,43913"
+"NOAA-11,333,32410,38154,NOAA 4th generation / Polar Operational Environmental Satellites,NOAA,NOAA,SunSync,843 km,,,14:10 asc,Inactive,AVHRR/2
+ Argos
+ HIRS/2
+ MSU
+ S&RSAT
+ SBUV/2
+ SSU,44274.3019675926,44274"
+"NOAA-12,334,33372,39304,NOAA 4th generation / Polar Operational Environmental Satellites,NOAA,NOAA,SunSync,804 km,,,05:10 desc,Inactive,AVHRR/2
+ Argos
+ HIRS/2
+ MSU
+ SEM/MEPED
+ SEM/TED,43913.7308217593,43913"
+"NOAA-13,335,34190,34202,NOAA 4th generation / Polar Operational Environmental Satellites,NOAA,NOAA,SunSync,820 km,,,14:00 asc,Inactive,AVHRR/2
+ Argos
+ HIRS/2
+ MSU
+ S&RSAT
+ SBUV/2
+ SEM/MEPED
+ SEM/TED,44274.0343865741,44274"
+"NOAA-14,336,34698,39225,NOAA 4th generation / Polar Operational Environmental Satellites,NOAA,NOAA,SunSync,844 km,,,09:30 desc,Inactive,AVHRR/2
+ Argos
+ HIRS/2
+ MSU
+ S&RSAT
+ SBUV/2
+ SEM/MEPED
+ SEM/TED
+ SSU,43798.9489467593,43798"
+"NOAA-15,337,35928,45260,NOAA 5th generation / Polar Operational Environmental Satellites,NOAA,NOAA,SunSync,813 km,,,07:29 desc,Operational,AMSU-A
+ AMSU-B
+ AVHRR/3
+ DCS/2
+ HIRS/3
+ S&RSAT
+ SEM/MEPED
+ SEM/TED,45211.3298263889,45211"
+"NOAA-16,338,36790,41799,NOAA 5th generation / Polar Operational Environmental Satellites,NOAA,NOAA,SunSync,849 km,,,09:01 desc,Inactive,AMSU-A
+ AMSU-B
+ AVHRR/3
+ DCS/2
+ HIRS/3
+ S&RSAT
+ SBUV/2
+ SEM/MEPED
+ SEM/TED,43763.733287037,43763"
+"NOAA-17,339,37431,41374,NOAA 5th generation / Polar Operational Environmental Satellites,NOAA,NOAA,SunSync,810 km,,,07:03 desc,Inactive,AMSU-A
+ AMSU-B
+ AVHRR/3
+ DCS/2
+ HIRS/3
+ S&RSAT
+ SBUV/2
+ SEM/MEPED
+ SEM/TED,43763.7686805556,43763"
+"NOAA-18,340,38492,45260,NOAA 5th generation / Polar Operational Environmental Satellites,NOAA,NOAA,SunSync,854 km,,,10:34 desc,Operational,AMSU-A
+ AVHRR/3
+ DCS/2
+ HIRS/4
+ MHS
+ S&RSAT
+ SBUV/2
+ SEM/MEPED
+ SEM/TED,45211.3304166667,45211"
+"NOAA-19,341,39850,45260,NOAA 5th generation / Polar Operational Environmental Satellites,NOAA,NOAA
+ NASA,SunSync,870 km,,,08:22 desc,Operational,A-DCS
+ AMSU-A
+ AVHRR/3
+ HIRS/4
+ MHS
+ S&RSAT
+ SBUV/2
+ SEM/MEPED
+ SEM/TED,45211.3301736111,45211"
+"SNPP,342,40844,45626,Joint Polar Satellite System,NOAA
+ NASA,ISRO,SunSync,833 km,,,13:25 asc,Operational,ATMS
+ CERES
+ CrIS
+ OMPS-limb
+ OMPS-nadir
+ VIIRS,45156.570462963,45156"
+"OceanSat-1 (IRS-P4),343,36306,40398,Satellite for the Ocean,ISRO,ISRO,SunSync,723 km,,,12:00 desc,Inactive,MSMR
+ OCM (OceanSat-1),43767.6624768519,43767"
+"OceanSat-2,344,40079,44895,Satellite for the Ocean,ISRO,ISRO,SunSync,730 km,,,11:53 desc,Inactive,OCM (OceanSat-2)
+ OSCAT
+ ROSA (OceanSat),45131.3814814815,45131"
+"OceanSat-3 (EOS-06),345,44891,47452,Satellite for the Ocean,ISRO,NASA,SunSync,723 km,,,12:00 desc,Commissioning,Argos-4
+ OCM (OceanSat-3)
+ OSCAT-3
+ SSTM,45110.6302777778,45110"
+OCO,346,39868,39868,Orbiting Carbon Observatory,NASA,NASA,SunSync,705 km,,,13:15 asc,Lost at launch,OCO,42213.8665856481,42213
+"OCO-2,347,41822,45991,Orbiting Carbon Observatory,NASA,SNSA
+ CNES
+ CSA,SunSync,705 km,,,13:30 asc,Operational,OCO,44361.4825925926,44361"
+"Odin,348,36942,44895,Odin,SNSA
+ CNES
+ CSA,NSAU
+ Roscosmos
+ RosHydroMet,SunSync,552 km,,,06:42 desc,Operational,OSIRIS
+ SMR,44858.4364699074,44858"
+"Okean-O-1,349,36358,36784,Okean-O,NSAU
+ Roscosmos
+ RosHydroMet,NSAU
+ Roscosmos
+ RosHydroMet,DRIFT,648 km,,82.5°,,Inactive,Delta-2D
+ Kondor-2
+ MSU-M
+ MSU-SK (Okean)
+ MSU-V
+ R225
+ R600
+ RLSBO
+ Trasser,42213.8683680556,42213"
+"Okean-O1-1,350,31622,32353,Okean Operational 1,NSAU
+ Roscosmos
+ RosHydroMet,NSAU
+ Roscosmos
+ RosHydroMet,DRIFT,660 km,,82.5°,,Inactive,Kondor
+ MSU-SK (Okean)
+ MWR
+ RLSBO
+ RM-08 (Okean),43760.0760763889,43760"
+"Okean-O1-2,351,31974,32705,Okean Operational 1,NSAU
+ Roscosmos
+ RosHydroMet,NSAU
+ Roscosmos
+ RosHydroMet,DRIFT,660 km,,82.5°,,Inactive,Kondor
+ MSU-SK (Okean)
+ MWR
+ RLSBO
+ RM-08 (Okean),43760.0765972222,43760"
+"Okean-O1-3,352,32329,33059,Okean Operational 1,NSAU
+ Roscosmos
+ RosHydroMet,NSAU
+ Roscosmos
+ RosHydroMet,DRIFT,660 km,,82.5°,,Inactive,Kondor
+ MSU-SK (Okean)
+ MWR
+ RLSBO
+ RM-08 (Okean)
+ Trasser,43760.0772916667,43760"
+"Okean-O1-4,353,32668,32668,Okean Operational 1,NSAU
+ Roscosmos
+ RosHydroMet,NSAU
+ Roscosmos
+ RosHydroMet,DRIFT,660 km,,82.5°,,Inactive,Kondor
+ MSU-SK (Okean)
+ MWR
+ RLSBO
+ RM-08 (Okean),43760.0777199074,43760"
+"Okean-O1-5,354,32932,33662,Okean Operational 1,NSAU
+ Roscosmos
+ RosHydroMet,NSAU
+ Roscosmos
+ RosHydroMet,DRIFT,660 km,,82.5°,,Inactive,Kondor
+ MSU-SK (Okean)
+ MWR
+ RLSBO
+ RM-08 (Okean),43760.0781365741,43760"
+"Okean-O1-6,355,33393,34124,Okean Operational 1,NSAU
+ Roscosmos
+ RosHydroMet,NSAU
+ Roscosmos
+ RosHydroMet,DRIFT,660 km,,82.5°,,Inactive,Kondor
+ MSU-SK (Okean)
+ MWR
+ RLSBO
+ RM-08 (Okean),43760.0784837963,43760"
+"Okean-O1-7,356,34618,35349,Okean Operational 1,NSAU
+ Roscosmos
+ RosHydroMet,DNSC
+ CNES
+ NASA,DRIFT,660 km,,82.5°,,Inactive,Kondor
+ MSU-SK (Okean)
+ MWR
+ RLSBO
+ RM-08 (Okean),43760.0788425926,43760"
+"Ørsted,357,36214,41639,Ørsted (Oersted),DNSC
+ CNES
+ NASA,NASA
+ CNES,DRIFT,750 km,,96.5°,,Inactive,ASC
+ CPD
+ FVM
+ OVM
+ TRSR (Ørsted),42938.7246527778,42938"
+"PACE,358,45260,46356,Pre-ACE (ACE = Aerosol-Cloud Ecosystems),NASA
+ CNES,CNES,SunSync,676 km,,,12:00 desc,Planned,OCI
+ Polarimeters,45190.6391203704,45190"
+"PARASOL,359,38339,41626,Polarisation et Anisotropie des Réflectances au sommet de l'Atmosphère, couplées avec un Satellite d'Observation emportant un Lidar,CNES,MDE
+ CDTI,SunSync,700 km,,,15:20 asc,Inactive,POLDER,42213.8994097222,42213"
+"SEOSAR/Paz,360,43153,44895,Satélite Español de Observación SAR (also Paz),MDE
+ CDTI,CNES,SunSync,514 km,,,06:00 asc,Operational,LRR (DLR)
+ ROHPP
+ SAR-X (Paz (SEOSAR)),44868.6147337963,44868"
+Pléiades-1A,361,40894,45260,Pléiades,CNES,CNES,SunSync,705 km,,,10:30 desc,Operational,HiRI,44858.4381018519,44858
+Pléiades-1B,362,41245,45260,Pléiades,CNES,ASI,SunSync,694 km,,,10:30 desc,Operational,HiRI,44858.4387268519,44858
+"PRISMA,363,43546,45260,PRecursore IperSpettrale della Missione Applicativa,ASI,ESA,SunSync,615 km,,,10:30 desc,Operational,HYC
+ PAN,43652.0422106482,43652"
+"PROBA-1,364,37186,44895,Project for On-Board Autonomy,ESA,NASA,SunSync,615 km,,,07:30 desc,Operational,CHRIS
+ SREM-dose
+ SREM-particles,44862.397650463,44862"
+QuikSCAT,365,36330,40140,Quick Scatterometer Mission,NASA,CSA,SunSync,803 km,,,06:00 asc,Inactive,SeaWinds,43760.7014699074,43760
+RadarSat-1,366,35007,41362,RadarSat,CSA,CSA,SunSync,798 km,,,06:00 desc,Inactive,SAR (RadarSat-1),43765.5854050926,43765
+"RadarSat-2,367,39430,45260,RadarSat,CSA,Planet
+ DLR
+ RapidEye,SunSync,798 km,,,06:00 desc,Operational,SAR (RadarSat-1),44858.4395833333,44858"
+"RapidEye (5 sats),368,39689,43890,RapidEye,Planet
+ DLR
+ RapidEye,TÜBITAK-UZAY,SunSync,630 km,,,11:00 desc,Presumably inactive,REIS,44563.9278009259,44563"
+RASAT,369,40772,44895,Remote Sensing Satellite,TÜBITAK-UZAY,CSA,SunSync,690 km,,,10:15 asc,Operational,OIS,44858.4469444445,44858
+"RCM-1,370,43628,45991,RadarSat Constellation Mission,CSA,ISRO,SunSync,592 km,,,06:00 desc,Operational,AIS
+ SAR RCM,44837.3419907407,44837"
+"ResourceSat-1 (IRS-P6),373,37911,41615,Satellite for Earth Resources,ISRO,ISRO,SunSync,817 km,,,10:42 desc,Inactive,AWiFS
+ LISS-3 (ResourceSat)
+ LISS-4,44858.4484490741,44858"
+"ResourceSat-2,374,40653,44895,Satellite for Earth Resources,ISRO,Roscosmos,SunSync,817 km,,,10:33 desc,Operational,AWiFS
+ LISS-3 (ResourceSat)
+ LISS-4,44858.4496412037,44858"
+"Resurs-DK,375,38883,42338,Resurs-P,Roscosmos,Roscosmos
+ RosHydroMet,DRIFT,570 km,,70.4°,,Inactive,ARINA
+ Geoton-1
+ PAMELA,43324.4709953704,43324"
+"Resurs-O1-1,376,31323,31727,Resurs Operational - 1,Roscosmos
+ RosHydroMet,Roscosmos
+ RosHydroMet,SunSync,620 km,,,10:15 asc,Inactive,MSU-E (Resurs-O1)
+ MSU-SK (Resurs)
+ SAR-Travers,42214.4650462963,42214"
+"Resurs-O1-2,377,32253,36312,Resurs Operational - 1,Roscosmos
+ RosHydroMet,Roscosmos
+ RosHydroMet,SunSync,650 km,,,10:15 asc,Inactive,MSU-E (Resurs-O1)
+ MSU-SK (Resurs),42214.4656018519,42214"
+"Resurs-O1-3,378,34642,37026,Resurs Operational - 1,Roscosmos
+ RosHydroMet,Roscosmos
+ RosHydroMet,SunSync,675 km,,,10:15 asc,Inactive,MSU-E (Resurs-O1)
+ MSU-SK (Resurs),42214.4660416667,42214"
+"Resurs-O1-4,379,35986,37271,Resurs Operational - 1,Roscosmos
+ RosHydroMet,ISRO,SunSync,835 km,,,10:15 asc,Inactive,MP-900B
+ MSU-E (Resurs-O1)
+ MSU-SK1
+ ScaRaB,42214.4665046296,42214"
+RISAT-1,380,41025,42825,Radar Imaging Satellite,ISRO,ISRO,SunSync,546 km,,,06:00 desc,Inactive,SAR-C (RISAT),43834.5785648148,43834
+"RISAT-2,381,39923,44895,Radar Imaging Satellite,ISRO,CONAE
+ AEB
+ INPE
+ NASA,DRIFT,440 km,,41°,,Operational,SAR-X (RISAT-2),44858.4542013889,44858"
+"SAC-A,382,36133,36387,Satélite de Aplicaciones Cientificas,CONAE
+ AEB
+ INPE
+ NASA,CONAE
+ AEB
+ INPE
+ NASA,DRIFT,395 km,,51.6°,,Inactive,,42214.469849537,42214"
+"SAC-B,383,35373,35373,Satélite de Aplicaciones Cientificas,CONAE
+ AEB
+ INPE
+ NASA,CONAE
+ AEB
+ INPE
+ NASA,DRIFT,550 km,,38°,,Lost at launch,CUBIC
+ GXRE/GRaBS
+ GXRE/SOXS
+ HXRS
+ ISENA,42214.4721527778,42214"
+"SAC-C,384,36851,41501,Satélite de Aplicaciones Cientificas,CONAE
+ AEB
+ INPE
+ NASA,CONAE
+ AEB
+ INPE
+ NASA,SunSync,705 km,,,10:20 desc,Inactive,DCS (SAC)
+ FVM
+ GOLPE
+ HRTC
+ HSTC
+ ICARE
+ IST
+ MMRS
+ OVM,42214.4729282407,42214"
+"SAC-D,385,40704,42162,Satélite de Aplicaciones Cientificas,CONAE
+ AEB
+ INPE
+ NASA,CONAE,SunSync,661 km,,,06:00 desc,Inactive,Aquarius
+ DCS (SAC)
+ HSC
+ ICARE
+ MWR (SAC-D)
+ NIRST
+ ROSA,42740.0474884259,42740"
+SAOCOM-1A,386,43381,44895,SAtélite Argentino de Observación COn Microondas,CONAE,CONAE,SunSync,620 km,,,06:00 asc,Operational,SAR-L,43765.5395601852,43765
+SAOCOM-1B,387,44073,45626,SAtélite Argentino de Observación COn Microondas,CONAE,CONAE,SunSync,620 km,,,06:00 asc,Operational,SAR-L,44390.6087731481,44390
+SAOCOM-2A,388,45626,47452,SAtélite Argentino de Observación COn Microondas,CONAE,CONAE,SunSync,620 km,,,06:00 asc,Planned,SAR-L,44525.6349537037,44525
+"SAOCOM-2B,389,45991,47817,SAtélite Argentino de Observación COn Microondas,CONAE,CNES
+ ISRO,SunSync,620 km,,,06:00 asc,Planned,SAR-L,44525.6356597222,44525"
+"SARAL,390,41330,45260,Satellite with ARgos and ALtiKa,CNES
+ ISRO,INPE
+ AEB,SunSync,800 km,,,05:56 asc,Operational,A-DCS
+ AltiKa
+ DORIS
+ LRA (CNES),45051.5637615741,45051"
+"SCD-1,391,34009,44895,Satélite de Coleta de Dados,INPE
+ AEB,INPE
+ AEB,DRIFT,750 km,,25°,,Operational,DCS (CBERS),44858.4640856482,44858"
+"SCD-2,392,36090,44895,Satélite de Coleta de Dados,INPE
+ AEB,CSA
+ NASA,DRIFT,750 km,,25°,,Operational,DCS (CBERS),44858.4642592593,44858"
+"SCISAT-1,393,37846,45260,Science Satellite / Atmospheric Chemistry Experiment,CSA
+ NASA,NASA,DRIFT,650 km,,73.9°,,Operational,ACE-FTS
+ MAESTRO,44837.3541550926,44837"
+"SeaSat,394,28668,28773,SeaSat,NASA,GeoEye,DRIFT,785 km,,108°,,Inactive,ALT (SeaSat)
+ LRR (NASA)
+ SAR
+ SASS
+ SMMR
+ VIRR (Seasat),42214.4773842593,42214"
+"OrbView-2/SeaStar,395,35643,40523,OrbView-2 (former: SeaStar),GeoEye,ESA
+ EC,SunSync,705 km,,,12:00 desc,Inactive,SeaWiFS,42213.8746990741,42213"
+"Sentinel-1A,396,41732,44895,Sentinel-1,ESA
+ EC,ESA
+ EC,SunSync,693 km,,,06:00 desc,Operational,SAR-C (Sentinel-1),44858.5540509259,44858"
+"Sentinel-1B,397,42485,44165,Sentinel-1,ESA
+ EC,ESA
+ EC,SunSync,693 km,,,06:00 desc,Inactive,SAR-C (Sentinel-1),44774.3653356481,44774"
+"Sentinel-2A,398,42178,44895,Sentinel-2,ESA
+ EC,ESA
+ EC,SunSync,786 km,,,10:30 desc,Operational,MSI (Sentinel-2A),44858.5553240741,44858"
+"Sentinel-2B,399,42801,45260,Sentinel-2,ESA
+ EC,ESA
+ EC
+ EUMETSAT,SunSync,786 km,,,10:30 desc,Operational,MSI (Sentinel-2A),43796.7488657407,43796"
+"Sentinel-3A,400,42416,44895,Sentinel-3,ESA
+ EC
+ EUMETSAT,ESA
+ NSO,SunSync,814.5 km,,,10:00 desc,Operational,DORIS
+ GPS (ESA)
+ LRR (ESA)
+ MWR (Sentinel-3)
+ OLCI 
+ SLSTR
+ SRAL,44064.5572337963,44064"
+"Sentinel-5P,402,43021,45260,Sentinel-5 precursor,ESA
+ NSO,NSAU
+ Roscosmos
+ RosHydroMet,SunSync,824 km,,,13:30 asc,Operational,TROPOMI,45092.7140393519,45092"
+"SICH-1,403,34942,37239,Okean Operational 1,NSAU
+ Roscosmos
+ RosHydroMet,NSAU
+ Roscosmos
+ RosHydroMet,DRIFT,650 km,,82.5°,,Inactive,Kondor
+ MSU-SK (Okean)
+ MWR
+ RLSBO
+ RM-08 (Okean),43760.0792939815,43760"
+"SICH-1M,404,38345,38822,Okean Operational 1,NSAU
+ Roscosmos
+ RosHydroMet,NSAU,DRIFT,650 km,,82.5°,,Inactive,MSU-EU
+ MTVZA-OK (MW)
+ MTVZA-OK (optical)
+ RLSBO
+ RM-08 (Okean),43760.0795949074,43760"
+"SICH-2,405,40772,41255,SICH 2,NSAU,NASA,SunSync,700 km,,,10:50 desc,Inactive,IREI
+ MBEI
+ Potential,42740.0462152778,42740"
+SMAP,406,42035,46356,Soil Moisture Active-Passive,NASA,NASA,SunSync,685 km,,,06:00 desc,Operational,SMAP,44830.4315509259,44830
+"SMM,407,29265,32836,Solar Maximum Mission,NASA,ESA
+ CDTI
+ CNES,DRIFT,510 km,,28.5°,,Inactive,ACRIM-I
+ CP
+ GRS
+ HXIS
+ HXRBS
+ UVSP
+ XRP,42214.4957175926,42214"
+"SMOS,408,40119,45626,Soil Moisture and Ocean Salinity,ESA
+ CDTI
+ CNES,NASA
+ NOAA,SunSync,755 km,,,06:00 asc,Operational,GPS (ESA)
+ MIRAS
+ STA,44900.3424074074,44900"
+"SMS-1,409,27166,29607,Synchronous Meteorological Satellite,NASA
+ NOAA,NASA
+ NOAA,GEO,35786 km,75 ° W,,,Inactive,DCIS
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ VISSR,42214.4968171296,42214"
+"SMS-2,410,27431,30168,Synchronous Meteorological Satellite,NASA
+ NOAA,NASA,GEO,35786 km,135 ° W,,,Inactive,DCIS
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ VISSR,42214.4973611111,42214"
+"SORCE,411,37646,43886,Solar Radiation and Climate Experiment,NASA,CNES
+ Spot Image,DRIFT,640 km,,40°,,Inactive,SIM
+ SOLSTICE
+ TIM 
+ XPS,43933.4362037037,43933"
+"SPOT-1,412,31465,37835,Satellite Pour l’Observation de la Terre,CNES
+ Spot Image,CNES
+ Spot Image,SunSync,822 km,,,10:30 desc,Inactive,HRV,42214.5031944444,42214"
+"SPOT-2,413,32895,39995,Satellite Pour l’Observation de la Terre,CNES
+ Spot Image,CNES
+ Spot Image,SunSync,822 km,,,10:30 desc,Inactive,DORIS
+ HRV,42214.5063194444,42214"
+"SPOT-3,414,34238,35383,Satellite Pour l’Observation de la Terre,CNES
+ Spot Image,CNES
+ Spot Image,SunSync,822 km,,,10:30 desc,Inactive,DORIS
+ HRV
+ POAM,42214.5067824074,42214"
+"SPOT-4,415,35878,41285,Satellite Pour l’Observation de la Terre,CNES
+ Spot Image,CNES
+ Spot Image,SunSync,832 km,,,10:30 desc,Inactive,DORIS
+ HRVIR
+ PASTEC
+ POAM
+ Végétation,42740.0562847222,42740"
+"SPOT-5,416,37380,42090,Satellite Pour l’Observation de la Terre,CNES
+ Spot Image,Spot Image,SunSync,832 km,,,10:30 desc,Inactive,DORIS
+ HRG
+ HRS
+ Végétation,42214.5106018519,42214"
+SPOT-6,417,41161,44895,Satellite Pour l’Observation de la Terre - Follow-on,Spot Image,Spot Image,SunSync,695 km,,,10:30 desc,Operational,NAOMI (SPOT),44858.5561226852,44858
+SPOT-7,418,41820,45260,Satellite Pour l’Observation de la Terre - Follow-on,Spot Image,CNES,SunSync,695 km,,,10:30 desc,Operational,NAOMI (SPOT),42950.0547569444,42950
+STARLETTE,419,27431,54757,Satellite de Taille Adaptée avec Réflecteurs Laser pour les Etudes de la Terre,CNES,CNES,DRIFT,812 km,,49.8°,,Operational,LR,42214.5186342593,42214
+STELLA,420,34242,54757,Satellite de Taille Adaptée avec Réflecteurs Laser pour les Etudes de la Terre,CNES,SANSA,DRIFT,800 km,,98.6°,,Operational,LR,42214.5190972222,42214
+"SumbandilaSat,421,40073,40739,SumbandilaSat,SANSA,ESA
+ CNES
+ CSA,SunSync,504 km,,,09:00 desc,Inactive,MSI (Sansa),42214.5243518519,42214"
+"SWARM-C,422,41600,45626,The Earth’s Magnetic Field and Environment Explorers,ESA
+ CNES
+ CSA,ESA
+ CNES
+ CSA,DRIFT,460 km,,87.35°,,Operational,ACC
+ ASM
+ EFI (SWARM)
+ GPS (ESA)
+ LRR (DLR)
+ STR (SWARM)
+ VFM,45007.7291087963,45007"
+"SWARM-B,423,41600,45626,The Earth’s Magnetic Field and Environment Explorers,ESA
+ CNES
+ CSA,NASA
+ CNES,DRIFT,530 km,,87.75°,,Operational,ACC
+ ASM
+ EFI (SWARM)
+ GPS (ESA)
+ LRR (DLR)
+ STR (SWARM)
+ VFM,45007.7289351852,45007"
+"SWOT,424,44911,45991,Surface Water and Ocean Topography,NASA
+ CNES,DoD,DRIFT,891 km,,78°,,Operational,DORIS
+ GPS (NASA)
+ KaRIN
+ LRA (NASA)
+ MW radiometer
+ Poseidon-3C,45117.4302199074,45117"
+TacSat-2,425,39063,39437,Tactical Satellite,DoD,DLR,DRIFT,418 km,,40°,,Inactive,IGOR (TacSat-2),42214.5261805556,42214
+"TanDEM-X,426,40350,45991,TerraSAR,DLR,DLR,SunSync,515 km,,,06:00 desc,Operational,SAR-X
+ TOR,44212.831099537,44212"
+"TerraSAR-X,427,39248,45260,TerraSAR,DLR,DLR,SunSync,515 km,,,06:00 desc,Operational,SAR-X
+ TOR,44212.7566782407,44212"
+Tandem-L,428,46721,51104,TerraSAR,DLR,GISTDA,SunSync,745 km,,,06:00 desc,Considered,L-SAR,45169.380162037,45169
+"THEOS-1,429,39722,45626,Thailand Earth Observation System,GISTDA,NASA,SunSync,822 km,,,10:00 desc,Operational,MS (THEOS)
+ PAN (THEOS),45124.3326388889,45124"
+"TIMED,430,37232,44895,Thermosphere, Ionosphere, Mesosphere Energetics and Dynamics mission,NASA,NASA,DRIFT,625 km,,74°,,Operational,GUVI
+ SABER
+ SEE
+ TIDI,45082.3802199074,45082"
+"TIROS-1,431,22007,22084,Television and Infra-Red Observation Satellite,NASA,NASA,DRIFT,720 km,,48.4°,,Inactive,VCS-NA
+ VCS-WA,42214.5397453704,42214"
+"TIROS-2,432,22243,22639,Television and Infra-Red Observation Satellite,NASA,NASA,DRIFT,670 km,,48.6°,,Inactive,FPR
+ MRIR
+ VCS-NA
+ VCS-WA,42214.5413773148,42214"
+"TIROS-3,433,22474,22704,Television and Infra-Red Observation Satellite,NASA,NASA,DRIFT,780 km,,47.9°,,Inactive,FPR
+ MRIR
+ VCS-WA,42214.5419675926,42214"
+"TIROS-4,434,22679,22846,Television and Infra-Red Observation Satellite,NASA,NASA,DRIFT,770 km,,48.3°,,Inactive,FPR
+ MRIR
+ VCS-MA
+ VCS-WA,42214.5424537037,42214"
+"TIROS-5,435,22816,23342,Television and Infra-Red Observation Satellite,NASA,NASA,DRIFT,750 km,,58.1°,,Inactive,VCS-MA
+ VCS-WA,42214.5430324074,42214"
+"TIROS-6,436,22907,23296,Television and Infra-Red Observation Satellite,NASA,NASA,DRIFT,700 km,,58.3°,,Inactive,VCS-MA
+ VCS-WA,42214.5456481481,42214"
+"TIROS-7,437,23181,24992,Television and Infra-Red Observation Satellite,NASA,NASA,DRIFT,680 km,,58.2°,,Inactive,FPR
+ LP
+ MRIR
+ VCS-WA,42214.5463310185,42214"
+"TIROS-8,438,23366,24654,Television and Infra-Red Observation Satellite,NASA,NASA,DRIFT,730 km,,58.5°,,Inactive,APT
+ VCS-WA,42214.546875,42214"
+TIROS-9,439,23764,25001,Television and Infra-Red Observation Satellite,NASA,NASA,SunSync,1350 km,,,09:30 desc,Inactive,VCS-WA,42214.547337963,42214
+"TIROS-10,440,23925,24654,Television and Infra-Red Observation Satellite,NASA,NOAA
+ NASA,SunSync,790 km,,,09:30 desc,Inactive,VCS-WA,42214.5404976852,42214"
+"TIROS-N,441,28776,29644,National Oceanic and Atmospheric Administration - 4th generation,NOAA
+ NASA,NASA,SunSync,850 km,,,14:30 asc,Inactive,AVHRR
+ Argos
+ HIRS/2
+ MSU
+ SEM/MEPED
+ SEM/TED
+ SSU,42214.548125,42214"
+"TOMS Earth Probe,442,35248,39053,Total Ozone Mapping Spectrometer - Earth Probe,NASA,NASA
+ CNES,SunSync,750 km,,,12:00 desc,Inactive,TOMS,42214.5486574074,42214"
+"TOPEX-Poseidon,443,33826,38634,Topography Experiment + Poseidon,NASA
+ CNES,UKSA,DRIFT,1336 km,,66°,,Inactive,DORIS
+ GPSDR
+ LRA (NASA)
+ NRA
+ SSALT
+ TMR,42214.5493402778,42214"
+"TopSat,444,38652,39677,TopSat,UKSA,NASA
+ JAXA,SunSync,686 km,,,10:30 asc,Inactive,RALCam-1,42214.5497800926,42214"
+"TRMM,445,35761,42102,Tropical Rainfall Measuring Mission,NASA
+ JAXA,NASA,DRIFT,402 km,,35°,,Inactive,CERES
+ LIS
+ PR
+ TMI 
+ VIRS,43768.7666087963,43768"
+"UARS,446,33493,38700,Upper Atmosphere Research Satellite,NASA,SSTL
+ UKSA,DRIFT,570 km,,57°,,Inactive,ACRIM-II
+ CLAES
+ HALOE
+ HRDI
+ ISAMS
+ MLS 
+ PEM/AXIS
+ PEM/EPS 
+ PEM/VMAG
+ SOLSTICE
+ SUSIM
+ WINDII,42214.557974537,42214"
+"UK-DMC-1,447,37891,40862,UK contribution to the Disaster Monitoring Constellation,SSTL
+ UKSA,SSTL
+ UKSA,SunSync,686 km,,,10:30 asc,Inactive,SLIM6,42214.558912037,42214"
+"UK-DMC-2,448,40023,43434,UK contribution to the Disaster Monitoring Constellation,SSTL
+ UKSA,CNES
+ ISA,SunSync,686 km,,,10:30 asc,Presumably inactive,SLIM6,43831.1367013889,43831"
+"VENµS,449,42949,44895,Vegetation and Environment monitoring on a New Micro-Satellite,CNES
+ ISA,NSPO
+ NOAA
+ UCAR,SunSync,720 km,,,10:30 desc,Operational,VSSC,44858.5635069445,44858"
+"COSMIC-2,450,43641,45991,Constellation Observing System for Meteorology, Ionosphere & Climate,NSPO
+ NOAA
+ UCAR,NSPO
+ NOAA
+ UCAR,DRIFT,520 km,,24°,,Operational,RFB
+ TGRS (COSMIC-2)
+ VIDI,45082.4405787037,45082"
+"TRITON,451,45208,47087,Constellation Observing System for Meteorology, Ionosphere & Climate,NSPO
+ NOAA
+ UCAR,Roscosmos,SunSync,600 km,,,,Commissioning,GPSR,45210.7362268519,45210"
+"Resurs-P1,452,41450,44469,Resurs-P,Roscosmos,NTU,SunSync,473 km,,,10:30 desc,Inactive,GSA
+ Geoton-L1
+ ShMSA-SR
+ ShMSA-VR,44796.422037037,44796"
+X-Sat,453,40653,43434,X-Sat,NTU,NASA,SunSync,820 km,,,10:20 desc,Presumably inactive,IRIS (X-Sat),43831.1371296296,43831
+"ACE,454,35667,45991,Advanced Composition Explorer,NASA,JAXA,L1,1.5e+06 km,,,,Operational,CRIS (ACE)
+ EPAM
+ MAG (ACE)
+ SEPICA 
+ SIS
+ SWEPAM
+ SWICS
+ SWIMS
+ ULEIS,45082.4311226852,45082"
+"Solar-B (Hinode),455,38983,45260,Solar,JAXA,NASA,SunSync,680 km,,,06:00 asc,Operational,EIS
+ SOT
+ XRT,45043.4522685185,45043"
+"MMS-A,456,42076,44895,Magnetospheric MultiScale mission,NASA,NASA,MAG,,,28°,,Operational,AFG
+ ASPOC (MMS)
+ DFG
+ DP
+ EDI (MMS)
+ EIS (MSS)
+ FEEPS
+ FPI
+ HPCA
+ SCM (MMS),44858.5687268519,44858"
+"SDO,457,40220,44895,Solar Dynamics Observatory,NASA,ESA
+ NASA,GeoSync,35756 km,105 ° W,29.6°,,Operational,AIA
+ EVE
+ HMI,45019.3544791667,45019"
+"SOHO,458,35035,45626,Solar and Heliospheric Observatory,ESA
+ NASA,NASA,L1,1.5e+06 km,,,,Operational,CDS
+ CELIAS
+ COSTEP
+ EIT
+ ERNE
+ GOLF
+ LASCO
+ MDI
+ SEM (SOHO)
+ SUMER
+ SWAN
+ UVCS
+ VIRGO,45019.3610532407,45019"
+"STEREO-B,459,39016,41913,Solar-TErrestrial RElations Observatory,NASA,NASA,Ecliptic,,,23.44°,,Inactive,IMPACT/MAG
+ IMPACT/SEP
+ IMPACT/STE
+ IMPACT/SWEA
+ PLASTIC
+ S/WAVES
+ SECCHI/COR-1
+ SECCHI/COR-2
+ SECCHI/EUVI
+ SECCHI/HI-1
+ SECCHI/HI-2,43888.9966087963,43888"
+"THEMIS-D,460,39130,44895,Time History of Events and Macroscale Interactions during Substorms,NASA,NASA,MAG,,,6°,,Operational,EFI (THEMIS)
+ ESA
+ FGM (THEMIS)
+ SCM
+ SST,44858.5764699074,44858"
+"TRACE,461,35887,40350,Transition Region and Coronal Explorer,NASA,INPE
+ AEB,SunSync,627 km,,,06:00 asc,Inactive,TRACE,42214.5507407407,42214"
+"Amazônia-1B,464,44895,45991,Amazônia,INPE
+ AEB,RosHydroMet
+ Roscosmos,SunSync,752 km,,,10:30 desc,Planned,AWFI,44905.9040277778,44905"
+"Arctica-M N1,465,44255,47817,Arctica in Molniya orbit,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,Molniya,,,63.4°,,Operational,DCS/A
+ GGAK-E/FM-E
+ GGAK-E/GALS-E (Arctica)
+ GGAK-E/SKIF-6 (Arctica)
+ MSU-GS/A,45117.3182523148,45117"
+"Arctica-M N2,466,44895,48548,Arctica in Molniya orbit,RosHydroMet
+ Roscosmos,USEF
+ METI
+ NEC,Molniya,,,63.4°,,Planned,DCS/A
+ GGAK-E/FM-E
+ GGAK-E/GALS-E (Arctica)
+ GGAK-E/SKIF-6 (Arctica)
+ MSU-GS/A,44516.6439583333,44516"
+"ASNARO-1,467,41949,44895,Advanced Satellite with new system ARchitecture for Observation,USEF
+ METI
+ NEC,USEF
+ METI
+ NEC,SunSync,504 km,,,11:00 desc,Operational,OPS (ASNARO),44858.5814699074,44858"
+"ASNARO-2,468,43117,44895,Advanced Satellite with new system ARchitecture for Observation,USEF
+ METI
+ NEC,ISRO,SunSync,500 km,,,06:00 desc,Operational,XSAR,43765.5580092593,43765"
+"Aditya-1,469,45171,46721,Aditya,ISRO,CSA,L1,1500000 km,,,,Commissioning,ASPEX
+ HEL1OS
+ Magnetometer (Aditya)
+ PAPA
+ SUIT
+ SoLEXS
+ VELC,45173.3369791667,45173"
+"CASSIOPE,470,41546,44547,CASSIOPE,CSA,ESA
+ NASA,MAG,670 km,,80.97°,,Inactive,CER
+ FAI
+ GAP
+ IRM
+ MGF (CASSIOPE)
+ NMS
+ RRI
+ SEI,44587.6201157407,44587"
+"CLUSTER-A,471,36723,45626,Cluster,ESA
+ NASA,ESA
+ NASA,MAG,,,90°,,Operational,ASPOC
+ CIS
+ EDI
+ EFW (CLUSTER)
+ FGM
+ PEACE
+ RAPID
+ STAFF
+ WBD
+ WHISPER,44223.609525463,44223"
+"CLUSTER-C,472,36747,45991,Cluster,ESA
+ NASA,Roscosmos,MAG,,,90°,,Operational,ASPOC
+ CIS
+ EDI
+ EFW (CLUSTER)
+ FGM
+ PEACE
+ RAPID
+ STAFF
+ WBD
+ WHISPER,44223.6106828704,44223"
+"Coronas-Photon,473,39843,40148,Complex Orbital Observations Near-Earth of Activity of the Sun,Roscosmos,RosHydroMet
+ Roscosmos,DRIFT,550 km,,82.5°,,Inactive,BRM
+ Electron-M-PESCA
+ Konus-RF
+ Natalya-2M-particles
+ Natalya-2M-rad
+ PHOKA
+ Penguin-M
+ RT-2
+ SM-8M
+ STEP-F
+ TESIS,42212.8345833333,42212"
+"Electro-L N3,474,43823,47087,Electro,RosHydroMet
+ Roscosmos,JAXA
+ NASA,GEO,35786 km,76 ° E,,,Operational,DCS (Electro)
+ GEOS&R (Electro)
+ GGAK-E/DIR-E
+ GGAK-E/GALS-E
+ GGAK-E/SKIF-6
+ GGAK-E/SKL-E
+ GGAK-E/VUSS-E
+ MSU-GS,44275.5736111111,44275"
+"GEOTAIL,475,33787,44740,GEOTAIL,JAXA
+ NASA,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,MAG,,,29°,,Inactive,CPI
+ EFD
+ EPIC
+ HEP
+ LEP
+ MGF
+ PWI,45117.4411458333,45117"
+"ISS SAGE-III,478,42785,45991,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,EUMETSAT
+ CNES
+ EC
+ ESA
+ NASA
+ NOAA,DRIFT,407 km,,51.6°,,Operational,SAGE-III,44361.6046296296,44361"
+"Sentinel-6A,479,44156,46356,Sentinel-6,EUMETSAT
+ CNES
+ EC
+ ESA
+ NASA
+ NOAA,EUMETSAT
+ CNES
+ EC
+ ESA
+ NASA
+ NOAA,DRIFT,1336 km,,66°,,Operational,AMR-C
+ DORIS
+ GNSS-RO (Sentinel-6)
+ GPS (ESA)
+ HRMR
+ LRA (NASA)
+ NGRM
+ Poseidon-4,44830.6338078704,44830"
+"Sentinel-6B,480,45626,48182,Sentinel-6,EUMETSAT
+ CNES
+ EC
+ ESA
+ NASA
+ NOAA,KARI,DRIFT,1336 km,,66°,,Planned,AMR-C
+ DORIS
+ GNSS-RO (Sentinel-6)
+ GPS (ESA)
+ HRMR
+ LRA (NASA)
+ NGRM
+ Poseidon-4,44803.6625,44803"
+"KOMPSAT-3A,481,42089,44895,Korea Multi-Purpose Satellite,KARI,RosHydroMet
+ Roscosmos,SunSync,528 km,,,13:30 asc,Operational,AEISS
+ IIP,44858.4146643519,44858"
+"Meteor-M N2-1,482,43067,43067,Meteor-3M,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,SunSync,816.4 km,,,15:09 asc,Inactive,GGAK-E/GALS-E (Meteor)
+ GGAK-E/SKIF-6 (Meteor)
+ GGAK-M/RIMS-M
+ IKFS-2
+ IKOR-M
+ KMSS
+ MSU-MR
+ MTVZA-GY
+ S&RSAT
+ SSPD
+ Severjanin-M,44305.5733101852,44305"
+"Meteor-M N2-2,483,43651,45260,Meteor-3M,RosHydroMet
+ Roscosmos,CSA,SunSync,821 km,,,15:00 asc,Operational,GGAK-E/GALS-E (Meteor)
+ GGAK-E/SKIF-6 (Meteor)
+ GGAK-M/RIMS-M
+ IKFS-2
+ IKOR-M
+ KMSS
+ MSU-MR
+ MTVZA-GY
+ SSPD
+ Severjanin-M,44586.5122106482,44586"
+"PCW-1,484,TBD,TBD,Polar Communications and Weather,CSA,CSA,Molniya,,,63.4°,,Mission concept,ISR
+ SWS,43440.1449537037,43440"
+"PCW-2,485,TBD,TBD,Polar Communications and Weather,CSA,CNES,Molniya,,,63.4°,,Mission concept,ISR
+ SWS,43440.150775463,43440"
+"Picard,486,40344,41733,Picard,CNES,NASA,SunSync,725 km,,,06:00 asc,Inactive,PREMOS
+ SODISM
+ SOVAP,42740.048275463,42740"
+"Polar,487,35119,39553,Polar,NASA,NASA,MAG,,,86°,,Inactive,CAMMICE
+ CEPPAD
+ EFI (Polar)
+ HYDRA
+ MFE
+ PIXIE
+ PWI (Polar)
+ TIDE/PSI
+ TIMAS
+ UVI
+ VIS,42213.9086805556,42213"
+"WIND,488,34639,44895,Wind,NASA,CAST
+ CRESDA,L1,1.5e+06 km,,,,Operational,EPACT
+ KONUS
+ MFI
+ PLASMA
+ SMS
+ SWE
+ TGRS
+ WAVES,44858.5875231482,44858"
+"ZY-3-01,489,40917,44530,Zi Yuan - 3,CAST
+ CRESDA,ESA,SunSync,506 km,,,10:30 desc,Unclear,MSC (ZY)
+ TAC,45076.3528125,45076"
+"PROBA-2,490,40119,44895,Project for On-Board Autonomy,ESA,NASA,SunSync,730 km,,,06:00 asc,Operational,DSLP
+ LYRA
+ SWAP
+ TPMU,44858.5475115741,44858"
+"VAP (2 sat),491,41151,43756,Van Allen Probes,NASA,CAST
+ CRESDA,MAG,,,18°,,Inactive,ECT/HOPE
+ ECT/MagEIS
+ ECT/REPT
+ EFW (VAP)
+ EMFISIS
+ RBSPICE
+ RPS,43763.4824768519,43763"
+"ZY-1-2C,492,40899,43434,Zi Yuan 1-2,CAST
+ CRESDA,ACE,SunSync,781 km,,,10:30 desc,Presumably inactive,HRCC-2
+ HRPC-2,43831.1376388889,43831"
+"SSOT,493,40894,44530,Sistema Satellital para Observation de la Tierra,ACE,Maxar
+ GeoEye,SunSync,630 km,,,10:30 desc,Unclear,NAOMI (SSOT),44564.5344791667,44564"
+"GeoEye-1,494,39697,44895,GeoEye,Maxar
+ GeoEye,Maxar
+ DigitalGlobe,SunSync,681 km,,,10:30 desc,Operational,GIS,44858.5893634259,44858"
+"QuickBird,497,37182,42031,WorldView,Maxar
+ DigitalGlobe,Maxar
+ DigitalGlobe,SunSync,482 km,,,10:30 desc,Inactive,BGIS-2000,42213.9116782407,42213"
+"WorldView-1,498,39343,44895,WorldView,Maxar
+ DigitalGlobe,Maxar
+ DigitalGlobe,SunSync,499 km,,,13:30 desc,Operational,WV60,44858.6069675926,44858"
+"WorldView-2,499,40087,44895,WorldView,Maxar
+ DigitalGlobe,Maxar
+ DigitalGlobe,SunSync,770 km,,,10:30 desc,Operational,WV110,44858.6071412037,44858"
+"WorldView-3,500,41864,44895,WorldView,Maxar
+ DigitalGlobe,Maxar
+ GeoEye,SunSync,770 km,,,10:30 desc,Operational,WV110,44858.6073611111,44858"
+"OrbView-3,501,37798,39195,GeoEye,Maxar
+ GeoEye,Maxar
+ GeoEye,SunSync,470 km,,,10:30 desc,Inactive,OHRIS,42213.8752314815,42213"
+"Ikonos,502,36427,42094,GeoEye,Maxar
+ GeoEye,NASA,SunSync,686 km,,,10:30 desc,Inactive,OSA,42950.439849537,42950"
+"ACE (Aer.Clo.Eco.),506,TBD,TBD,Aerosol-Cloud Ecosystems,NASA,ESA,SunSync,,,,,Mission concept,ACE Lidar
+ CPR (CloudSat)
+ OCI
+ Polarimeters,42551.0813541667,42551"
+BIOMASS,508,45260,47087,BIOMASS,ESA,,SunSync,660 km,,,06:00 desc,Planned,SAR-P,44959.6952314815,44959
+CarbonSat,509,TBD,TBD,,,ESA,SunSync,,,,,Mission concept,,41325.6483912037,41325
+FLEX,511,45260,46356,FLuorescence EXplorer,ESA,NASA,SunSync,800 km,,,10:00 desc,Planned,FLORIS,44064.5644097222,44064
+GACM,512,TBD,TBD,Global Atmospheric Composition Mission,NASA,NASA,SunSync,,,,,Mission concept,O3 lidar,43271.9756944444,43271
+GEO-CAPE,513,TBD,TBD,Geostationary Coastal and Air Pollution Events,NASA,NASA,GEO,35786 km,100 ° W,,,Mission concept,,42551.0803472222,42551
+HyspIRI,514,TBD,TBD,Hyperspectral Infra-Red Imager,NASA,NASA,SunSync,TBD km,,,,Mission concept,,42551.079224537,42551
+LIST,515,TBD,TBD,Lidar Surface Topography,NASA,NASA,SunSync,,,,,Mission concept,,43271.9744328704,43271
+PATH,516,TBD,TBD,Precipitation and All-weather Temperature and Humidity,NASA,NASA,GEO,35786 km,,,,Mission concept,GeoSTAR,43271.9738541667,43271
+SCLP,518,TBD,TBD,Snow and Cold Land Processes,NASA,NOAA,SunSync,TBD km,,,TBD,Mission concept,SAR-X/Ku,43271.9730787037,43271
+"XOVWM,519,TBD,TBD,Extended Ocean Vector Winds Mission,NOAA,CMA
+ NRSCC,SunSync,TBD km,,,TBD,Mission concept,,43272.0739583333,43272"
+"FY-3G,520,45032,47087,Feng-Yun - 3,CMA
+ NRSCC,CMA
+ NRSCC,DRIFT,407 km,,50°,,Commissioning,GNOS-2
+ HAOC
+ MERSI-RM
+ MWRI-RM
+ PMAI
+ PMR (FY-3),45149.8493981482,45149"
+"FY-3I,521,45991,48182,Feng-Yun - 3,CMA
+ NRSCC,Roscosmos,DRIFT,407 km,,50°,,Planned,GNOS-2
+ HAOC
+ MERSI-RM
+ MWRI-RM
+ PMR (FY-3)
+ SWS/SEM/NADD,45149.8573611111,45149"
+"Ionosphera-M N1 & N2,522,44895,45991,Ionozond,Roscosmos,Roscosmos,SunSync,820 km,,,TBD,Planned,ESEP
+ GALS/1
+ LAERTES
+ MAYAK
+ NBK/2
+ Ozonometer-TM
+ PES
+ SPER/1
+ ST/1,44796.4250925926,44796"
+"Ionosphera-M N3 & N4,523,44895,45991,Ionozond,Roscosmos,Roscosmos,SunSync,820 km,,,TBD,Planned,ESEP
+ GALS/1
+ LAERTES
+ MAYAK
+ NBK/2
+ Ozonometer-TM
+ PES
+ SPER/1
+ ST/1,44526.7981481482,44526"
+"Zond-M,524,45626,46721,Ionozond,Roscosmos,NOAA
+ NASA,SunSync,600 km,,,TBD,Planned,FM-G
+ LETITsIYA-Camera
+ NBK/2
+ Ozonometer-3
+ RESPEKT
+ RIMS-A
+ SOLIST
+ SRF
+ ST/2
+ STEK
+ SUF,44526.7971064815,44526"
+"DSCOVR,525,42046,44895,Deep Space Climate Observatory,NOAA
+ NASA,ISRO,L1,1.5e+06 km,N/A,N/A,N/A,Operational,EPIC (DSCOVR)
+ ES
+ FC
+ MAG (DSCOVR)
+ NISTAR,45019.364837963,45019"
+"EOS 03,526,44419,44419,Geostationary High Resolution Imager,ISRO,PLA
+ CAST,GEO,35786 km,85.5 ° E,,,Lost at launch,HyS-SWIR
+ HyS-VNIR
+ MX-LWIR
+ MX-VNIR,44421.7909375,44421"
+"TH-1A,527,40414,43069,Tian Hui - 1,PLA
+ CAST,PLA
+ CAST,SunSync,503 km,,,13:30 desc,Presumably inactive,MS (TH)
+ PAN (TH),43828.6671875,43828"
+"TH-1B,528,41035,44895,Tian Hui - 1,PLA
+ CAST,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,SunSync,498 km,,,13:30 desc,Unclear,MS (TH)
+ PAN (TH),44862.414849537,44862"
+"ISS TSIS-1,529,43084,44895,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,EUMETSAT
+ ESA,DRIFT,407 km,,51.6°,,Operational,TSIS,44361.6060416667,44361"
+"Meteosat-3 (ADC),531,33451,34001,Meteosat First Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,50 ° W,,,Inactive,DCS (Meteosat)
+ MVIRI,44266.5706365741,44266"
+"Meteosat-3 (X-ADC),532,34001,35025,Meteosat First Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,75 ° W,,,Inactive,DCS (Meteosat)
+ MVIRI,44266.5713310185,44266"
+"Meteosat-5 (IODC),533,35947,39198,Meteosat First Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,63 ° E,,,Inactive,DCS (Meteosat)
+ MVIRI,44266.5722337963,44266"
+"Meteosat-6 (IODC),534,39199,40648,Meteosat First Generation,EUMETSAT
+ ESA,EUMETSAT
+ ESA,GEO,35786 km,67.5 ° E,,,Inactive,DCS (Meteosat)
+ MVIRI,44266.5728472222,44266"
+"Meteosat-7,535,35675,39056,Meteosat First Generation,EUMETSAT
+ ESA,NOAA
+ NASA,GEO,35786 km,,,,Inactive,DCS (Meteosat)
+ MVIRI,44266.5731597222,44266"
+"GOES-9 (GMS backup),536,37763,38922,Geostationary Operational Environmental Satellite - 2nd generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,155 ° E,,,Inactive,DCIS
+ GEOS&R 
+ IMAGER (GOES 8-11)
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ SOUNDER,44275.923125,44275"
+"GOES-10 (S-America),537,39052,40149,Geostationary Operational Environmental Satellite - 2nd generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,60 ° W,,,Inactive,DCIS
+ GEOS&R 
+ IMAGER (GOES 8-11)
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SEM/XRS-EUV
+ SOUNDER,44275.9246990741,44275"
+"GOES-12 (S-America),538,40308,41502,Geostationary Operational Environmental Satellite - 2nd generation,NOAA
+ NASA,DoD
+ NASA
+ UCAR
+ USAF,GEO,35786 km,60 ° W,,,Inactive,DCIS
+ GEOS&R 
+ IMAGER (GOES 12-15)
+ SEM/EPS
+ SEM/HEPAD
+ SEM/MAG
+ SOUNDER,44275.9265625,44275"
+"C/NOFS,539,39554,42336,Communication/Navigation Outage Forecasting System,DoD
+ NASA
+ UCAR
+ USAF,ABAE
+ CAST,DRIFT,588 km,,13°,,Inactive,CERTO
+ CINDI
+ CORISS
+ DIDM
+ PLP
+ VEFI,42573.7335069444,42573"
+"VRSS-1,540,41181,44530,Venezuelan Remote Sensing Satellite,ABAE
+ CAST,DoD,SunSync,645 km,,,10:30 desc,Unclear,PMC
+ WMC,44564.5424305556,44564"
+"STPSat-3,541,41598,44530,Space Test Program Satellite,DoD,DoD,DRIFT,500 km,,40.5°,,Unclear,SWATS
+ TIM 
+ iMESA-R,44564.5436921296,44564"
+"STPSat-1,542,39150,40093,Space Test Program Satellite,DoD,DoD,DRIFT,550 km,,37.4°,,Inactive,CITRIS
+ SHIMMER,42214.5199189815,42214"
+"STPSat-2,543,40502,43434,Space Test Program Satellite,DoD,NSOAS
+ CNES,DRIFT,647 km,,72°,,Presumably inactive,ODTML,43831.1383101852,43831"
+"CFOSAT,545,43402,44895,Chinese-French Oceanography Satellite,NSOAS
+ CNES,RosHydroMet
+ Roscosmos,SunSync,500 km,,,07:00 desc,Operational,CSCAT
+ SWIM,44938.4158101852,44938"
+"Electro-M N3,546,47087,50739,Electro,RosHydroMet
+ Roscosmos,NASA,GEO,35786 km,165.8 ° E,,,Planned,DCS (Electro)
+ ERBR
+ GEOS&R (Electro)
+ GGAK-E/DIR-E
+ GGAK-E/FM-E
+ GGAK-E/GALS-E
+ GGAK-E/ISP-2M
+ GGAK-E/SKIF-6
+ GGAK-E/VUSS-E
+ IRFS-GS
+ LM
+ MSU-GSM,44491.5903703704,44491"
+"CYGNSS (8 sats),547,42719,44895,Cyclone Global Navigation Satellite System,NASA,ESA
+ NASA,DRIFT,500 km,,35°,,Operational,DDMI,45096.4495023148,45096"
+"Solar Orbiter,548,43871,47452,Solar Orbiter,ESA
+ NASA,TÜBITAK-UZAY,Solar,N/A km,,25°,,Operational,EPD
+ EUI
+ MAG (Solar Orbiter)
+ METIS
+ PHI
+ RPW
+ SPICE
+ STIX
+ SWA
+ SoloHI,44854.5581018519,44854"
+"Göktürk-2,550,41261,44895,Göktürk,TÜBITAK-UZAY,NSOAS
+ CAST,SunSync,679 km,,,10:30 asc,Operational,EOS-C,44858.6169907407,44858"
+"HY-2B,555,43398,44895,Hai Yang 2,NSOAS
+ CAST,NSOAS
+ CAST,SunSync,973 km,,,06:00 desc,Operational,ALT (sso)
+ CMR
+ HSCAT
+ LRA (NASA)
+ MWRI (HY-2),44938.5132638889,44938"
+"HY-2C,556,44095,45626,Hai Yang 2,NSOAS
+ CAST,NSOAS
+ CAST,DRIFT,1336 km,,66°,,Operational,ALT (high)
+ CMR
+ DORIS
+ HSCAT
+ LRA (NASA),44965.7072106482,44965"
+"HY-2D,557,44335,45991,Hai Yang 2,NSOAS
+ CAST,Roscosmos,DRIFT,973 km,,66°,,Operational,ALT (sso)
+ CMR
+ DORIS
+ HSCAT
+ LRA (NASA),44587.6284490741,44587"
+"Resurs-P2,558,41999,43383,Resurs-P,Roscosmos,NASA,SunSync,475 km,,,10:30 desc,Inactive,GSA
+ Geoton-L1
+ Nucleon
+ ShMSA-SR
+ ShMSA-VR,44573.7335069444,44573"
+"CLARREO-2A,559,TBD,TBD,Climate Absolute Radiance and Refractivity Observatory,NASA,NASA,DRIFT,609 km,,90°,,Mission concept,GNSS-RO
+ IR spectrometer,42551.0745486111,42551"
+CLARREO-1B,560,TBD,TBD,Climate Absolute Radiance and Refractivity Observatory,NASA,NASA,DRIFT,609 km,,90°,,Mission concept,SW spectrometer,42551.0741087963,42551
+CLARREO-2B,561,TBD,TBD,Climate Absolute Radiance and Refractivity Observatory,NASA,ESA,DRIFT,609 km,,90°,,Mission concept,SW spectrometer,42551.0752199074,42551
+"PROBA-V,562,41401,44500,Project for On-Board Autonomy,ESA,Maxar
+ GeoEye,SunSync,820 km,,,11:00 asc,Unclear,EPD (PROBA-V)
+ Végétation-P,45208.5808564815,45208"
+"OrbView-4,563,37155,37155,GeoEye,Maxar
+ GeoEye,NASRDA,SunSync,470 km,,,10:30 desc,Lost at launch,OHIS
+ OHRIS,42213.8762152778,42213"
+NigeriaSat-X,564,40772,44895,NigeriaSat,NASRDA,EIAST,SunSync,681 km,,,10:15 asc,Unclear,SLIM6,44858.4353240741,44858
+DubaiSat-2,565,41599,44530,DubaiSat,EIAST,JAXA,SunSync,600 km,,,10:30 desc,Unclear,HiRAIS,44564.5495833333,44564
+"Solar-A (Yohkoh),566,33480,37240,Solar,JAXA,Roscosmos,DRIFT,645 km,,31.3°,,Inactive,BCS
+ HXT
+ SXT
+ WBS,42214.501724537,42214"
+"Coronas-I,567,34395,34530,Complex Orbital Observations Near-Earth of Activity of the Sun,Roscosmos,Roscosmos,DRIFT,550 km,,82.5°,,Inactive,AVS
+ DIFOS
+ DIOGENESS
+ HELICON
+ IRIS (Coronas)
+ RES-C
+ SKL-particles
+ SKL-rad
+ SORS
+ SUFR-Sp-C
+ TEREK-C
+ VUSS,42212.8338194444,42212"
+"Coronas-F,568,37103,38692,Complex Orbital Observations Near-Earth of Activity of the Sun,Roscosmos,KARI,DRIFT,550 km,,82.5°,,Inactive,AVS
+ DIFOS
+ DIOGENESS
+ HELICON
+ IMAP-5
+ IRIS (Coronas)
+ RES-C
+ RESIK
+ RPS-1
+ SKL-particles
+ SKL-rad
+ SORS
+ SPR-N
+ SUFR-Sp-C
+ TEREK-C
+ VUSS,42212.8330439815,42212"
+"STSat-1,569,37891,38640,Science and Technology Satellite,KARI,KARI,SunSync,690 km,,,10:30 asc,Inactive,FIMS
+ SPP-fields
+ SPP-particles,42214.5217824074,42214"
+"STSat-2,570,40050,40050,Science and Technology Satellite,KARI,KARI,MAG,670 km,,80°,,Lost at launch,DREAM
+ LRA (KARI),42214.5223958333,42214"
+"STSat-3,571,41599,44895,Science and Technology Satellite,KARI,NASA,SunSync,700 km,,,17:30 asc,Operational,COMIS
+ MIRIS/MEOC
+ MIRIS/MSOC,44858.619212963,44858"
+IRIS,572,41453,44895,Interface Region Imaging Spectrograph,NASA,NASA,SunSync,649 km,,,06:00 asc,Operational,IRIS (IRIS),44858.6203819444,44858
+"RHESSI,573,37292,43328,Reuven Ramaty High Energy Solar Spectroscopic Imager,NASA,NASA
+ USAF,DRIFT,600 km,,38°,,Inactive,RHESSI,43888.8203356481,43888"
+"TWINS (2 sats),574,38896,43799,Two Wide-angle Imaging Neutral-atom Spectrometers,NASA
+ USAF,NASA,Molniya,,,63.4°,,Inactive,LAD
+ TWINS,44641.3656134259,44641"
+IBEX,575,39740,44895,Interstellar Boundary Explorer,NASA,NASA,MAG,,,11°,,Operational,IBEX,44862.4003125,44862
+"ARTEMIS-P1,576,40739,44895,Acceleration, Reconnection, Turbulence, and Electrodynamics of the Moon's Interaction with the Sun,NASA,NASA,Moon,,,6°,,Operational,EFI (THEMIS)
+ ESA
+ FGM (THEMIS)
+ SCM
+ SST,44862.4024884259,44862"
+"Parker Solar Probe,577,43324,45626,Parker Solar Probe,NASA,KARI,Solar,,,3.4°,,Operational,FIELDS
+ ISIS-EPI
+ SWEAPI
+ WISPR,44641.4570833333,44641"
+"STSat-2C,578,41304,41897,Science and Technology Satellite,KARI,Roscosmos
+ RosHydroMet,MAG,670 km,,80°,,Inactive,LP
+ LRA (KARI)
+ SREM-dose
+ SREM-particles,42214.523125,42214"
+"Meteor-P1,580,27219,27950,Meteor-Priroda,Roscosmos
+ RosHydroMet,Roscosmos
+ RosHydroMet,DRIFT,890 km,,81.2°,,Inactive,IR (Meteor-1)
+ MSU-M
+ MSU-S
+ SHF
+ TV (Meteor-1),41318.8178356482,41318"
+"Meteor-P2,581,27895,28625,Meteor-Priroda,Roscosmos
+ RosHydroMet,Roscosmos
+ RosHydroMet,DRIFT,890 km,,81.2°,,Inactive,IR (Meteor-1)
+ MSU-M
+ MSU-S
+ R10-M
+ SHF
+ SI-1,44991.5281597222,44991"
+"Meteor-P3,582,28335,29065,Meteor-Priroda,Roscosmos
+ RosHydroMet,Roscosmos
+ RosHydroMet,SunSync,640 km,,,10:15 asc,Inactive,MSU-M
+ MSU-S
+ R10-M
+ SHF
+ SI-1,44991.576099537,44991"
+"Meteor-P4,583,28880,29611,Meteor-Priroda,Roscosmos
+ RosHydroMet,Roscosmos
+ RosHydroMet,SunSync,640 km,,,10:15 asc,Inactive,MSU-M
+ MSU-S
+ R10-M
+ SI-1,44991.576412037,44991"
+"Meteor-P5,584,29390,30120,Meteor-Priroda,Roscosmos
+ RosHydroMet,Roscosmos
+ RosHydroMet,SunSync,630 km,,,10:15 asc,Inactive,MSS Fragment
+ MSU-E (Resurs-O1)
+ MSU-M
+ MSU-S
+ MSU-SK (Resurs)
+ R10-M,44991.5776041667,44991"
+"Meteor-P6,585,29777,30507,Meteor-Priroda,Roscosmos
+ RosHydroMet,NASA,SunSync,650 km,,,10:15 asc,Inactive,MSU-M
+ MSU-S
+ R10-M
+ SHF,44991.5780208333,44991"
+HCMM,586,28606,29494,Heat Capacity Mapping Mission,NASA,STI-VAST,SunSync,620 km,,,14:00 asc,Inactive,HCMR,42212.9953935185,42212
+VNREDSat-1,587,41401,44530,Vietnam Natural Resources, Environment and Disaster-monitoring Satellite,STI-VAST,CNSA,SunSync,704 km,,,10:30 desc,Unclear,NAOMI (AlSat),44564.6443865741,44564
+"GF-1,588,41390,44895,Gao Fen,CNSA,CNSA,SunSync,640 km,,,10:30 desc,Operational,PMS
+ WFV,44862.4036458333,44862"
+GF-2,589,41870,44895,Gao Fen,CNSA,NASA,SunSync,631 km,,,10:30 desc,Operational,PMS-2,44862.4046990741,44862
+TEMPO,590,45023,45991,Tropospheric Emissions: Monitoring of Pollution,NASA,DLR,GEO,35786 km,91 ° W,,,Commissioning,TEMPO,45026.3531481482,45026
+"GFZ-1,591,34808,36334,GeoForschungsZentrum-1 Geodesy Satellite,DLR,CNES
+ DLR,DRIFT,398 km,,51.6°,,Inactive,RRA,42212.9816435185,42212"
+"MERLIN,592,46721,47817,Methane Remote Sensing Mission,CNES
+ DLR,ISRO,SunSync,506 km,,,06:00 asc,Planned,IPDA lidar,45169.3791666667,45169"
+"CartoSat-2C,593,42543,44895,Satellite for Cartography,ISRO,ISRO,SunSync,505 km,,,09:28 desc,Operational,EvM
+ HRMX
+ PAN (CartoSat 2C/D,44858.3675810185,44858"
+"CartoSat-2D,594,42781,44895,Satellite for Cartography,ISRO,JAXA,SunSync,515 km,,,09:30 desc,Operational,EvM
+ HRMX
+ PAN (CartoSat 2C/D,44858.3677546296,44858"
+"COMPIRA,595,44895,45991,Coastal and Ocean measurement Mission with Precise and Innovative Radar Altimeter,JAXA,NARSS,DRIFT,TBD km,,51°,,Planned,Altimeter (COMPIRA)
+ SHIOSAI,44905.9046412037,44905"
+"EgyptSat-1,596,39189,40378,EgyptSat,NARSS,NARSS,SunSync,668 km,,,10:30 desc,Inactive,IREI
+ MBEI,42212.8553935185,42212"
+EgyptSat-2,597,41745,42164,EgyptSat,NARSS,NASA,DRIFT,634 km,,,10:30 desc,Inactive,MSI (EgyptSat),44504.5848726852,44504
+"SAMPEX,598,33788,41226,Solar Anomalous and Magnetospheric Particle Explorer,NASA,NASA,DRIFT,590 km,,82°,,Inactive,HILT
+ LEICA
+ MAST
+ PET,42214.4756365741,42214"
+"IMAGE,599,36610,38701,Imager for Magnetopause-to-Aurora Global Exploration,NASA,Kazcosmos,MAG,6782 km,,90°,,Inactive,EUV
+ FUV/GEO
+ FUV/SI
+ FUV/WIC
+ HENA
+ LENA
+ MENA
+ RPI,42213.4859027778,42213"
+KazEOSat-1,600,41759,44530,Kazakhstan Earth Observation Satellite,Kazcosmos,Kazcosmos,SunSync,759 km,,,10:15 desc,Unclear,NAOMI (KazEOSat),44564.6469328704,44564
+KazEOSat-2,601,41809,44530,Kazakhstan Earth Observation Satellite,Kazcosmos,ISRO,SunSync,630 km,,,10:30 asc,Unclear,KEIS,44564.6471759259,44564
+"ResourceSat-2A,602,42711,44895,Satellite for Earth Resources,ISRO,IMD
+ ISRO,SunSync,817 km,,,10:20 desc,Operational,AWiFS
+ LISS-3 (ResourceSat)
+ LISS-4,44858.4490625,44858"
+"INSAT-3DS,603,45230,47452,Indian National Satellite - 3,IMD
+ ISRO,ISRO,GEO,35786 km,74 ° E,,,Planned,DCS (INSAT)
+ IMAGER (INSAT)
+ SAS&R
+ SOUNDER (INSAT),45208.5367939815,45208"
+EOS-04,604,44606,46356,Radar Imaging Satellite,ISRO,ISRO,SunSync,529 km,,,06:00 desc,Operational,SAR-C (RISAT),45131.3686805556,45131
+"ScatSat-1,605,42639,44255,Satellite for the Ocean,ISRO,JAXA
+ MOE,SunSync,732 km,,,08:45 desc,Inactive,OSCAT,44357.6816435185,44357"
+"GOSAT-2,606,43402,45260,Greenhouse gas Observing Satellite,JAXA
+ MOE,CNSA,SunSync,613 km,,,13:00 desc,Operational,TANSO-CAI/2
+ TANSO-FTS/2,45152.3629976852,45152"
+GF-3,607,42591,45260,Gao Fen,CNSA,CNSA,SunSync,758 km,,,06:00 desc,Operational,SAR-C (GF-3),44082.7763194444,44082
+GF-4,608,42366,44895,Gao Fen,CNSA,CNSA,GEO,35786 km,106 ° E,,,Operational,GF-4/13 imager,44082.7755902778,44082
+"GF-5,609,43228,43799,Gao Fen,CNSA,RosHydroMet
+ Roscosmos,SunSync,705 km,,,13:30 asc,Inactive,AHSI
+ AIUS
+ DPC
+ EMI
+ GMI (GF-5)
+ VIMS,44518.5953819445,44518"
+"Electro-L N4,613,44962,48548,Electro,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,GEO,35786 km,165.8 ° E,,,Operational,DCS (Electro)
+ GEOS&R (Electro)
+ GGAK-E/DIR-E
+ GGAK-E/FM-E
+ GGAK-E/GALS-E
+ GGAK-E/ISP-2M
+ GGAK-E/SKIF-6
+ GGAK-E/SKL-E
+ GGAK-E/VUSS-E
+ MSU-GS,45082.5591319444,45082"
+"Meteor-M N2-3,615,45104,46721,Meteor-3M,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,SunSync,820 km,,,09:00 desc,Commissioning,GGAK-E/GALS-E (Meteor)
+ GGAK-E/SKIF-6 (Meteor)
+ GGAK-M/RIMS-M
+ IKFS-2
+ KMSS
+ MSU-MR
+ MTVZA-GY
+ Severjanin-M,45110.4439930556,45110"
+"Meteor-M N2-4,616,45260,47087,Meteor-3M,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,SunSync,820.7 km,,,15:00 asc,Planned,GGAK-E/GALS-E (Meteor)
+ GGAK-E/SKIF-6 (Meteor)
+ GGAK-M/RIMS-M
+ IKFS-2
+ IKOR-M
+ KMSS
+ MSU-MR
+ MTVZA-GY
+ MeteoSAR
+ SSPD,45110.6767013889,45110"
+"Meteor-M N2-5,617,45626,47452,Meteor-3M,RosHydroMet
+ Roscosmos,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,SunSync,820.7 km,,,15:00 desc,Planned,GGAK-E/GALS-E (Meteor)
+ GGAK-E/SKIF-6 (Meteor)
+ GGAK-M/RIMS-M
+ IKFS-2
+ IKOR-M
+ KMSS
+ MSU-MR
+ MTVZA-GY
+ MeteoSAR
+ SSPD,45110.6770486111,45110"
+"ISS RapidScat,621,41903,42601,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,DRIFT,407 km,,51.6°,,Inactive,RapidScat,43768.8037615741,43768"
+"ISS CATS,622,42014,42704,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,DRIFT,407 km,,51.6°,,Inactive,CATS,43462.0575347222,43462"
+"ISS LIS,623,42785,44895,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,DRIFT,407 km,,51.6°,,Operational,LIS (ISS),44361.605150463,44361"
+"ISS OCO-3,624,43589,45991,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,DRIFT,407 km,,51.6°,,Operational,OCO (ISS),44963.5825694444,44963"
+"ISS HICO,625,40081,41906,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,CONAE
+ AEB
+ INPE
+ NASA,DRIFT,407 km,,51.6°,,Inactive,HICO,42213.5283101852,42213"
+"SAC-E/SABIA-MAR A,626,44895,46356,Satélite de Aplicaciones Cientificas,CONAE
+ AEB
+ INPE
+ NASA,CONAE
+ AEB
+ INPE
+ NASA,SunSync,645 km,,,10:30 desc,Planned,DCS (SAC)
+ HSC
+ MUS-nir/swir,44905.9050925926,44905"
+"SAC-E/SABIA-MAR B,627,44895,46721,Satélite de Aplicaciones Cientificas,CONAE
+ AEB
+ INPE
+ NASA,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,SunSync,645 km,,,10:30 desc,Planned,DCS (SAC)
+ HSC
+ MUS-uv/vis/nir,44212.5320601852,44212"
+"ISS DESIS,628,43280,44895,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,Elecnor-Deimos,DRIFT,,,51.6°,,Operational,DESIS,44858.3480439815,44858"
+Deimos-2,629,41809,45260,Deimos,Elecnor-Deimos,Planet,SunSync,620 km,,,10:30 asc,Operational,HiRAIS,42950.0108101852,42950
+SkySat-1,630,41599,44895,Sky Satellite,Planet,Planet,SunSync,587 km,,,10:30 desc,Operational,SkySat,44905.9161689815,44905
+SkySat-2,631,41828,44895,Sky Satellite,Planet,NASA,SunSync,600 km,,,10:30 desc,Operational,SkySat,44905.9164236111,44905
+"ICON,632,43749,45260,Ionospheric Connection Explorer,NASA,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,DRIFT,575 km,,27°,,Operational,EUV (ICON)
+ FUV (ICON)
+ IVM
+ MIGHTI,44855.4292361111,44855"
+"ISS GEDI,633,43439,45260,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,DRIFT,407 km,,51.6°,,Inactive,GEDI Lidar,45096.380162037,45096"
+"ISS ECOSTRESS,634,43280,44895,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,NPOMash,DRIFT,407 km,,51.6°,,Operational,ECOSTRESS,44862.410162037,44862"
+Kondor-E1,635,41992,43434,Kondor-Experimental SAR Spacecraft,NPOMash,CNES,DRIFT,500 km,,74.75°,,Presumably inactive,SAR-10,43831.1387847222,43831
+Diadéme-1,636,24511,54757,Diadéme,CNES,CNES,DRIFT,698 km,,39.9°,,Operational,RRA (CNES),42213.4142476852,42213
+Diadéme-2,637,24518,54757,Diadéme,CNES,DLR,DRIFT,990 km,,39.4°,,Operational,RRA (CNES),42213.4145833333,42213
+"HRWS-SAR,638,47087,49643,TerraSAR,DLR,NASA
+ ISRO,SunSync,515 km,,,06:00 desc,Planned,HRWS-SAR,45169.3731365741,45169"
+"NI-SAR,639,45260,45991,NASA-ISRO Synthetic Aperture Radar,NASA
+ ISRO,Roscosmos,SunSync,747 km,,,06:00 desc,Planned,SAR-L (NISAR)
+ SAR-S (NISAR),45138.3091782407,45138"
+"Resurs-P3,640,42442,42871,Resurs-P,Roscosmos,NSOAS
+ CAST,SunSync,477 km,,,10:30 desc,Inactive,GSA
+ Geoton-L1
+ ShMSA-SR
+ ShMSA-VR,44573.7347800926,44573"
+"HY-3A,641,44895,47087,Hai Yang 3,NSOAS
+ CAST,NSOAS
+ CAST,SunSync,TBD km,,,06:00 desc,Planned,W-SAR,44905.9055092593,44905"
+"HY-3B,642,44895,47087,Hai Yang 3,NSOAS
+ CAST,NSOAS
+ CAST,SunSync,TBD km,,,06:00 desc,Planned,W-SAR,44905.9058101852,44905"
+"HY-3C,643,45260,48182,Hai Yang 3,NSOAS
+ CAST,Roscosmos,GEO,35786 km,TBD,,,Planned,,44491.5966203704,44491"
+Obzor-R N1,644,44895,46721,Operative Monitoring Satellite - Radar,Roscosmos,Roscosmos,SunSync,650 km,,,TBD,Planned,ASAR (MP),44573.7371180556,44573
+Obzor-R N2,645,45260,47087,Operative Monitoring Satellite - Radar,Roscosmos,Roscosmos,SunSync,650 km,,,TBD,Planned,ASAR (MP),44573.7377893519,44573
+Obzor-R N3,646,45626,47452,Operative Monitoring Satellite - Radar,Roscosmos,Roscosmos,SunSync,650 km,,,TBD,Planned,ASAR (MP),44573.7383449074,44573
+Obzor-R N4,647,46356,48913,Operative Monitoring Satellite - Radar,Roscosmos,Roscosmos,SunSync,650 km,,,TBD,Planned,ASAR (MP),44573.7389236111,44573
+Obzor-O N1,648,44895,47452,Operative Monitoring Satellite - Optical,Roscosmos,Roscosmos,SunSync,700 km,,,10:30 desc,Planned,,42749.4520486111,42749
+Obzor-O N2,649,45626,48182,Operative Monitoring Satellite - Optical,Roscosmos,Roscosmos,SunSync,700 km,,,10:30 desc,Planned,,42749.4533912037,42749
+Obzor-O N3,650,45991,48548,Operative Monitoring Satellite - Optical,Roscosmos,Roscosmos,SunSync,700 km,,,10:30 desc,Planned,,42806.5725347222,42806
+"Obzor-O N4,651,46356,48913,Operative Monitoring Satellite - Optical,Roscosmos,CRESDA
+ CAST,SunSync,700 km,,,10:30 desc,Planned,,42806.573587963,42806"
+"SJ-9A,652,41196,44530,Shijian 9,CRESDA
+ CAST,CRESDA
+ CAST,SunSync,645 km,,,10:30 desc,Unclear,MUX (SJ-9)
+ PAN (SJ-9),44564.6551851852,44564"
+"SJ-9B,653,41196,44530,Shijian 9,CRESDA
+ CAST,ESA
+ CNES
+ CSA,SunSync,645 km,,,10:30 desc,Unclear,IRS (SJ-9),44564.6553703704,44564"
+"SWARM-A,658,41600,45626,The Earth’s Magnetic Field and Environment Explorers,ESA
+ CNES
+ CSA,ISRO,DRIFT,460 km,,87.35°,,Operational,ACC
+ ASM
+ EFI (SWARM)
+ GPS (ESA)
+ LRR (DLR)
+ STR (SWARM)
+ VFM,45007.7287384259,45007"
+NEMO-AM,659,45626,47087,Nanosatellite for Earth Monitoring and Observation-Aerosol Monitoring,ISRO,ISRO,SunSync,650 km,,,09:30 desc,Planned,MADPI,45131.376875,45131
+"CartoSat-2E,660,42909,44895,Satellite for Cartography,ISRO,NOAA
+ NASA,SunSync,505 km,,,09:29 desc,Operational,EvM
+ HRMX
+ PAN (CartoSat 2C/D,44858.3679398148,44858"
+"JPSS-3,662,48548,51470,Joint Polar Satellite System,NOAA
+ NASA,NOAA
+ NASA,SunSync,824 km,,,13:30 asc,Planned,ATMS
+ CrIS
+ Libera
+ OMPS-limb
+ OMPS-nadir
+ VIIRS,45190.6529166667,45190"
+"JPSS-4,663,46721,50739,Joint Polar Satellite System,NOAA
+ NASA,NOAA
+ NASA,SunSync,824 km,,,13:30 asc,Planned,ATMS
+ CrIS
+ OMPS-limb
+ OMPS-nadir
+ VIIRS,45190.6524189815,45190"
+"GOES-17,664,43160,47087,Geostationary Operational Environmental Satellite - 3rd generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,104.7 ° W,,,Stand-by,ABI
+ DCIS
+ EXIS
+ GEOS&R 
+ GLM
+ SEISS/EHIS
+ SEISS/MPS
+ SEISS/SGPS
+ SEM/MAG
+ SUVI,45117.5132986111,45117"
+"GOES-18,665,44621,48548,Geostationary Operational Environmental Satellite - 3rd generation,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,137 ° W,,,Operational,ABI
+ DCIS
+ EXIS
+ GEOS&R 
+ GLM
+ SEISS/EHIS
+ SEISS/MPS
+ SEISS/SGPS
+ SEM/MAG
+ SUVI,45019.5749884259,45019"
+"GOES-U,666,45382,50739,Geostationary Operational Environmental Satellite - 3rd generation,NOAA
+ NASA,CNSA,GEO,35786 km,75 ° W,,,Planned,ABI
+ CCOR
+ DCIS
+ EXIS
+ GEOS&R 
+ GLM
+ SEISS/EHIS
+ SEISS/MPS
+ SEISS/SGPS
+ SEM/MAG
+ SUVI,45049.638287037,45049"
+"GF-8,667,42181,44895,Gao Fen,CNSA,SSTL
+ 21AT
+ UKSA,SunSync,475 km,,,10:30 desc,Operational,PMS-2,44082.7740972222,44082"
+"SSTL-S1 1,668,42195,44895,Beijing-2 Constellation,SSTL
+ 21AT
+ UKSA,SSTL
+ 21AT
+ UKSA,SunSync,630 km,,,10:30 asc,Operational,VHRI-100,44862.411875,44862"
+"SSTL-S1 2,669,42195,44895,Beijing-2 Constellation,SSTL
+ 21AT
+ UKSA,SSTL
+ 21AT
+ UKSA,SunSync,630 km,,,10:30 asc,Operational,VHRI-100,44862.412037037,44862"
+"SSTL-S1 3,670,42195,44895,Beijing-2 Constellation,SSTL
+ 21AT
+ UKSA,JMA,SunSync,630 km,,,10:30 asc,Operational,VHRI-100,44862.4123842593,44862"
+"Himawari-9,671,42676,47452,Himawari 3rd generation,JMA,NPOMash,GEO,35786 km,140.7 ° E,,,Operational,AHI
+ DCS (Himawari),45201.3070023148,45201"
+"Kondor-E,672,41452,41608,Kondor-Experimental SAR Spacecraft,NPOMash,PLA
+ CAST,DRIFT,500 km,,74.75°,,Inactive,SAR-10,43765.562349537,43765"
+"TH-1C,673,42303,44895,Tian Hui - 1,PLA
+ CAST,CRESDA,SunSync,498 km,,,13:30 desc,Operational,MS (TH)
+ PAN (TH),44862.4146990741,44862"
+"Jilin-1,674,43621,47452,Jilin,CRESDA,Maxar
+ DigitalGlobe,SunSync,528 km,,,10:30 asc,Operational,Jilin Imager,45166.3134027778,45166"
+"WorldView-4,675,42685,43472,WorldView,Maxar
+ DigitalGlobe,MOST
+ CAS
+ CMA,SunSync,617 km,,,10:30 desc,Inactive,SpaceView-110,44456.6001041667,44456"
+"TANSAT,676,42725,44593,Scientific Exploratory Satellite for Atmospheric CO2,MOST
+ CAS
+ CMA,CAST
+ CRESDA,SunSync,712 km,,,13:30 asc,Inactive,ACGS
+ CAPI,44620.4373611111,44620"
+"ZY-3-02,677,42520,44895,Zi Yuan - 3,CAST
+ CRESDA,CMA
+ NRSCC,SunSync,506 km,,,10:30 desc,Operational,MSC (ZY)
+ TAC,44905.9168634259,44905"
+"FY-3J,678,46356,49278,Feng-Yun - 3,CMA
+ NRSCC,Planet,SunSync,836 km,,,05:00 desc,Planned,GNOS-2
+ HIRAS-2
+ MERSI-LL
+ MWHS-2
+ MWTS-3
+ SIM-2
+ SSIM
+ SWS/SEM/FGM
+ SWS/SEM/HEPD
+ SWS/SEM/IMS
+ SWS/Tri-IPM
+ WindRAD
+ XEUVI,44901.8497800926,44901"
+"SkySat-3,679,42543,44895,Sky Satellite,Planet,NSOAS
+ CAST,SunSync,500 km,,,10:30 desc,Operational,SkySat,44905.9173726852,44905"
+"HY-1E,680,44895,47817,Hai Yang 1,NSOAS
+ CAST,NSOAS
+ CAST,SunSync,798 km,,,13:30 asc,Planned,AIS
+ COCTS
+ CZI,45117.5356944444,45117"
+"HY-1F,681,45260,48182,Hai Yang 1,NSOAS
+ CAST,NSOAS
+ CAST,SunSync,798 km,,,13:30 asc,Planned,AIS
+ COCTS
+ CZI,45117.536099537,45117"
+"HY-2E,682,45260,46721,Hai Yang 2,NSOAS
+ CAST,NSOAS
+ CAST,SunSync,973 km,,,06:00 desc,Planned,ALT (sso)
+ CMR
+ HSCAT
+ LRA (NASA)
+ MWRI (HY-2),44938.4046064815,44938"
+"HY-2F,683,45626,47087,Hai Yang 2,NSOAS
+ CAST,EUMETSAT
+ ESA,DRIFT,1336 km,,66°,,Planned,ALT (high)
+ CMR
+ DORIS
+ HSCAT
+ LRA (NASA),44938.4057986111,44938"
+"Meteosat-8 (IODC),684,42628,44865,Meteosat Second Generation (MSG),EUMETSAT
+ ESA,NSOAS
+ CAST,GEO,35786 km,41.5 ° E,,,Inactive,DCS (Meteosat)
+ GEOS&R 
+ GERB
+ SEVIRI,44932.461724537,44932"
+"HY-2N,685,45626,47452,Hai Yang 2,NSOAS
+ CAST,NSOAS
+ CAST,DRIFT,1336 km,,66°,,Considered,,44965.7081365741,44965"
+"HY-2S,686,45260,46721,Hai Yang 2,NSOAS
+ CAST,NSOAS
+ CAST,SunSync,,,,,Considered,,44965.7083449074,44965"
+"HY-3D,687,45626,48548,Hai Yang 3,NSOAS
+ CAST,NSOAS
+ CAST,GEO,35786 km,TBD,,,Mission concept,,44063.8471064815,44063"
+"HY-2L,688,45626,46356,Hai Yang 2,NSOAS
+ CAST,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,SunSync,500 km,,,07:00 desc,Considered,CSCAT
+ SWIM,44965.7079976852,44965"
+"ISS CLARREO-PF,689,44895,45260,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,NASA,DRIFT,407 km,,51.6°,,Planned,HySICS,44361.6110416667,44361"
+MAIA,690,45260,46356,Multi-Angle Imager for Aerosols,NASA,NASA,SunSync,740 km,,,TBD,Planned,MAIA,44641.6357986111,44641
+"MISTiC Winds,692,TBD,TBD,Midwave Infrared Sounding of Temperature and humidity in a Constellation for Winds,NASA,RosHydroMet
+ Roscosmos,SunSync,705 km,,,13:30 asc,Mission concept,,42551.9053240741,42551"
+"Arctica-M N3,693,45260,48913,Arctica in Molniya orbit,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,Molniya,,,63.4°,,Planned,DCS/A
+ GGAK-E/FM-E
+ GGAK-E/GALS-E (Arctica)
+ GGAK-E/SKIF-6 (Arctica)
+ MSU-GS/A,44516.644375,44516"
+"Arctica-M N4,694,45626,49278,Arctica in Molniya orbit,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,Molniya,,,63.4°,,Planned,DCS/A
+ GGAK-E/FM-E
+ GGAK-E/GALS-E (Arctica)
+ GGAK-E/SKIF-6 (Arctica)
+ MSU-GS/A,44516.6447222222,44516"
+"Arctica-M N5,695,45626,49278,Arctica in Molniya orbit,RosHydroMet
+ Roscosmos,CNSA,Molniya,,,63.4°,,Planned,DCS/A
+ GGAK-E/FM-E
+ GGAK-E/GALS-E (Arctica)
+ GGAK-E/SKIF-6 (Arctica)
+ MSU-GS/A,44516.6450578704,44516"
+GF-9,696,42261,44895,Gao Fen,CNSA,Planet,SunSync,650 km,,,10:30 desc,Operational,PMS-2,44082.774837963,44082
+SkySat-4,697,42629,44895,Sky Satellite,Planet,Planet,SunSync,507 km,,,10:30 desc,Operational,SkySat,44905.9175810185,44905
+SkySat-5,698,42629,44895,Sky Satellite,Planet,Planet,SunSync,507 km,,,10:30 desc,Operational,SkySat,44905.9178240741,44905
+SkySat-6,699,42629,44895,Sky Satellite,Planet,Planet,SunSync,507 km,,,10:30 desc,Operational,SkySat,44905.9179976852,44905
+SkySat-7,700,42629,44895,Sky Satellite,Planet,Planet,SunSync,509 km,,,10:30 desc,Operational,SkySat,44905.9182060185,44905
+SkySat-8,701,43039,44895,Sky Satellite,Planet,Planet,SunSync,500 km,,,13:30 asc,Operational,SkySat,44905.9183912037,44905
+SkySat-9,702,43039,44895,Sky Satellite,Planet,Planet,SunSync,500 km,,,13:30 asc,Operational,SkySat,44905.918599537,44905
+SkySat-10,703,43039,44895,Sky Satellite,Planet,Planet,SunSync,500 km,,,13:30 asc,Operational,SkySat,44905.9187731482,44905
+SkySat-11,704,43039,44895,Sky Satellite,Planet,Planet,SunSync,500 km,,,13:30 asc,Operational,SkySat,44905.9189814815,44905
+SkySat-12,705,43039,44895,Sky Satellite,Planet,Planet,SunSync,500 km,,,13:30 asc,Operational,SkySat,44905.9191550926,44905
+SkySat-13,706,43039,44895,Sky Satellite,Planet,CONIDA,SunSync,500 km,,,13:30 asc,Operational,SkySat,44905.9193981482,44905
+PeruSat-1,707,42629,45991,PeruSat,CONIDA,ASAL,SunSync,705 km,,,10:30 desc,Operational,NAOMI (KazEOSat),42950.5100462963,42950
+AlSat-1B,708,42639,44895,Algeria Satellite,ASAL,ESA,SunSync,690 km,,,10:30 asc,Operational,SLIM6,44862.4191550926,44862
+"XMM-Newton,709,36504,44895,X-ray Multi-Mirror Mission Observatory - Newton,ESA,NASA
+ DoD,DRIFT,40000 km,,40°,,Operational,EPIC (XMM)
+ OM
+ RGS,44862.5793402778,44862"
+"CRRES,710,33079,33523,Combined Release and Radiation Effects Satellite,NASA
+ DoD,ESA
+ EC,DRIFT,3400 km,,18°,,Inactive,MEA,42653.7051388889,42653"
+"Galileo,711,40837,47817,Galileo,ESA
+ EC,SES,DRIFT,23222 km,,56°,,Operational,EMU,42654.8250347222,42654"
+SES-14,712,43125,44530,Société Européenne des Satellites,SES,NASA,GEO,35786 km,47.5 ° W,,,Presumably inactive,GOLD,45082.3884837963,45082
+Explorer-VII,713,21836,22517,Explorer-VII,NASA,TÜBITAK-UZAY,DRIFT,722 km,,50.28°,,Inactive,FPR,42662.7587615741,42662
+Göktürk-1A,714,42709,44895,Göktürk,TÜBITAK-UZAY,JAXA,SunSync,700 km,,,10:30 asc,Operational,HiRI,44858.6171643519,44858
+"Arase (ERG),715,42724,48548,Exploration of energization and Radiation in Geospace,JAXA,SpacEyes
+ CAST,MAG,3000 km,,31°,,Operational,HEP-e
+ LEP-e
+ LEP-i
+ MEP-e
+ MEP-i
+ MGF (ERG)
+ PWE
+ XEP-e,45043.4608449074,45043"
+"SuperView-1,716,42732,44895,SuperView also known as GaoJing,SpacEyes
+ CAST,SpacEyes
+ CAST,SunSync,534 km,,,10:30 desc,Operational,PMS-3,44862.5609375,44862"
+"SuperView-2,717,42732,44895,SuperView also known as GaoJing,SpacEyes
+ CAST,SpacEyes
+ CAST,SunSync,534 km,,,10:30 desc,Operational,PMS-3,44862.5611458333,44862"
+"SuperView-3,718,43109,44895,SuperView also known as GaoJing,SpacEyes
+ CAST,SpacEyes
+ CAST,SunSync,500 km,,,10:30 desc,Operational,PMS-3,43216.5401273148,43216"
+"SuperView-4,719,43109,44895,SuperView also known as GaoJing,SpacEyes
+ CAST,ISRO,SunSync,500 km,,,10:30 desc,Operational,PMS-3,43216.541087963,43216"
+"ResourceSat-3,720,45626,47452,Satellite for Earth Resources,ISRO,ISRO,SunSync,795 km,,,10:30 desc,Planned,ALISS-3
+ ATCOR,45131.3603703704,45131"
+"ResourceSat-3A,721,45991,47452,Satellite for Earth Resources,ISRO,ISRO,SunSync,795 km,,,10:30 desc,Planned,ALISS-3
+ ATCOR,45131.3608217593,45131"
+"OceanSat-3A,722,45626,47452,Satellite for the Ocean,ISRO,USGS
+ NASA,SunSync,723 km,,,12:00 desc,Planned,OCM (OceanSat-3)
+ OSCAT-3
+ SSTM,45035.3941898148,45035"
+"Landsat-9,724,44466,47817,Landsat Data Continuity Mission,USGS
+ NASA,NASA,SunSync,705 km,,,10:00 desc,Operational,OLI
+ TIRS,45131.3590856481,45131"
+TSIS-2,725,45260,46356,Earth Systematic Missions,NASA,NASA,DRIFT,407 km,,51.6°,,Planned,TSIS,45048.5606828704,45048
+"CSIM,726,43437,44592,Compact Spectral Irradiance Monitor,NASA,INPE
+ AEB,DRIFT,587 km,,97.7°,,Inactive,SIM,44641.3756018519,44641"
+"Amazônia-2,728,44895,46721,Amazônia,INPE
+ AEB,Roscosmos
+ RosHydroMet,SunSync,778 km,,,10:30 desc,Planned,AWFI-2,42949.8730092593,42949"
+"KANOPUS-V3,730,43132,44895,KANOPUS Vulkan,Roscosmos
+ RosHydroMet,Roscosmos
+ RosHydroMet,SunSync,510 km,,,10:30 asc,Operational,MSS (KANOPUS)
+ MSU-200
+ PSS,45082.5653472222,45082"
+"KANOPUS-V4,732,43132,44895,KANOPUS Vulkan,Roscosmos
+ RosHydroMet,NSPO
+ UCAR,SunSync,510 km,,,10:30 asc,Operational,MSS (KANOPUS)
+ MSU-200
+ PSS,45082.5658796296,45082"
+"FORMOSAT-1,733,36186,38155,FORMOSAT,NSPO
+ UCAR,NSPO
+ UCAR,DRIFT,600 km,,35°,,Inactive,IPEI
+ OCI (FORMOSAT),42948.4701851852,42948"
+"FORMOSAT-5,734,42971,44895,FORMOSAT,NSPO
+ UCAR,ABAE
+ CAST,SunSync,720 km,,,10:00 desc,Operational,AIP
+ RSI (FORMOSAT-5),44862.5636226852,44862"
+"VRSS-2,735,43017,44895,Venezuelan Remote Sensing Satellite,ABAE
+ CAST,CRTS,SunSync,636 km,,,10:30 desc,Operational,,44862.5673842593,44862"
+Mohammed VI-A,736,43047,44895,Mohammed VI,CRTS,CRTS,SunSync,620 km,,,10:30 desc,Operational,HiRI,44905.9207060185,44905
+Mohammed VI-B,737,43425,44895,Mohammed VI,CRTS,ISRO,SunSync,620 km,,,10:30 desc,Operational,HiRI,43547.7299537037,43547
+"CartoSat-2F,738,43112,44895,Satellite for Cartography,ISRO,Planet,SunSync,505 km,,,09:37 desc,Operational,EvM
+ HRMX
+ PAN (CartoSat 2C/D,43834.6432175926,43834"
+SkySat-14,739,43437,44895,Sky Satellite,Planet,Planet,SunSync,500 km,,,13:30 asc,Operational,SkySat,43547.7362962963,43547
+SkySat-15,740,43437,44895,Sky Satellite,Planet,CNSA,SunSync,500 km,,,13:30 asc,Operational,SkySat,43547.7371643519,43547
+GF-1-02,741,43190,44895,Gao Fen,CNSA,CNSA,SunSync,640 km,,,10:30 desc,Operational,PMS,44862.5692939815,44862
+GF-1-03,742,43190,44895,Gao Fen,CNSA,CNSA,SunSync,640 km,,,10:30 desc,Operational,PMS,44862.5695023148,44862
+"GF-1-04,743,43190,44895,Gao Fen,CNSA,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,SunSync,640 km,,,10:30 desc,Operational,PMS,44862.569837963,44862"
+"ISS ASIM,745,43192,44895,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,CNSA,DRIFT,407 km,,51.6°,,Operational,MMIA
+ MXGS,44862.5719328704,44862"
+"GF-6,746,43253,45991,Gao Fen,CNSA,ISRO,SunSync,640 km,,,10:30 desc,Operational,PMS
+ WFV,44082.7800694444,44082"
+"ResourceSat-3S,747,45626,46721,Satellite for Earth Resources,ISRO,ISRO,SunSync,633 km,,,10:30 desc,Planned,APAN (ResourceSat-3S)
+ LISS-V,45131.361400463,45131"
+"ResourceSat-3SA,748,45991,47817,Satellite for Earth Resources,ISRO,ISRO,SunSync,633 km,,,10:30 desc,Planned,APAN (ResourceSat-3S)
+ LISS-V,45131.3619097222,45131"
+"HRSAT-1A,749,45626,47087,High Resolution Satellite - 1,ISRO,ISRO
+ CNES,SunSync,660 km,,,09:30 desc,Planned,HRSAT-1,45131.3777083333,45131"
+"TRISHNA,750,45991,47817,TRISHA,ISRO
+ CNES,JAXA,SunSync,761 km,,,13:00 asc,Planned,TRISHNA,45131.3794212963,45131"
+"ALOS-4,751,44895,47087,Advanced Land Observing Satellite,JAXA,JAXA
+ MOE,SunSync,640 km,,,12:00 desc,Planned,PALSAR-3,44905.9074652778,44905"
+"GOSAT-GW,752,45260,47817,Greenhouse gas Observing Satellite,JAXA
+ MOE,ESA
+ EC,SunSync,666 km,,,13:30 asc,Planned,AMSR3
+ TANSO-3,45152.5700810185,45152"
+"Sentinel-1C,754,44895,47452,Sentinel-1,ESA
+ EC,ESA
+ EC,SunSync,693 km,,,06:00 desc,Planned,SAR-C (Sentinel-1),44858.5545601852,44858"
+"Sentinel-1D,755,45260,47817,Sentinel-1,ESA
+ EC,ESA
+ EC,SunSync,693 km,,,06:00 desc,Planned,SAR-C (Sentinel-1),44858.5548611111,44858"
+"Sentinel-2C,756,45260,47817,Sentinel-2,ESA
+ EC,ESA
+ EC,SunSync,786 km,,,10:30 desc,Planned,MSI (Sentinel-2A),44265.6679166667,44265"
+"Sentinel-2D,757,45626,48182,Sentinel-2,ESA
+ EC,SNSA,SunSync,786 km,,,10:30 desc,Planned,MSI (Sentinel-2A),44265.6727662037,44265"
+MATS,764,44869,45260,Mesospheric Airglow/Aerosol Tomography and Spectroscopy,SNSA,CNSA,SunSync,585 km,,,06:00 desc,Commissioning,MATS,45159.4104282407,45159
+"GF-11,765,43312,45991,Gao Fen,CNSA,SSTL
+ 21AT
+ UKSA,SunSync,412 km,,,10:30 desc,Operational,PMS-2,44082.7833217593,44082"
+"SSTL-S1 4,766,43359,45626,Beijing-2 Constellation,SSTL
+ 21AT
+ UKSA,SSTL
+ UKSA,SunSync,630 km,,,10:30 asc,Operational,VHRI-100,43462.0320023148,43462"
+"NovaSAR-S,767,43359,45626,NovaSAR-S,SSTL
+ UKSA,NARSS,SunSync,580 km,,,10:30 asc,Operational,S-SAR,43765.5563888889,43765"
+EgyptSat-A,768,43517,45260,EgyptSat,NARSS,ISRO,SunSync,668 km,,,10:30 desc,Operational,MSI (EgyptSat),43609.7036342593,43609
+"HySIS,769,43433,44895,Hyper Spectral Imaging Spectrometer,ISRO,Roscosmos
+ RosHydroMet,SunSync,630 km,,,10:34 desc,Operational,HySIS,43834.5853125,43834"
+"KANOPUS-V5,770,43461,44895,KANOPUS Vulkan,Roscosmos
+ RosHydroMet,Roscosmos
+ RosHydroMet,SunSync,510 km,,,10:30 asc,Operational,MSS (KANOPUS)
+ MSU-200
+ PSS,45082.5663078704,45082"
+"KANOPUS-V6,771,43461,44895,KANOPUS Vulkan,Roscosmos
+ RosHydroMet,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,SunSync,510 km,,,10:30 asc,Operational,MSS (KANOPUS)
+ MSU-200
+ PSS,45082.5667592593,45082"
+"ISS MOLI,772,44895,46356,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,EIAST,DRIFT,407 km,,51.6°,,Planned,MOLI imager
+ MOLI lidar,44905.9078240741,44905"
+"DubaiSat-3,773,43402,44895,DubaiSat,EIAST,CAST
+ AEB
+ CRESDA
+ INPE,SunSync,613 km,,,10:30 desc,Operational,KHCS,44261.5456481481,44261"
+"CBERS-4B,774,43819,44895,China-Brazil Earth Resources Satellite,CAST
+ AEB
+ CRESDA
+ INPE,CNSA,SunSync,778 km,,,10:30 asc,Operational,DCS (CBERS)
+ IRMSS-2
+ MUXCAM
+ PANMUX
+ WFI-2,44746.5926273148,44746"
+GF-7,775,43772,46356,Gao Fen,CNSA,BSG,SunSync,500 km,,,10:30 desc,Operational,PMS-2,44082.7856134259,44082
+BlackSky-1,776,43433,44895,BlackSky Global Commercial Imaging Constellation,BSG,BSG,SunSync,500 km,,,10:30 desc,Operational,SpaceView 24,44905.9215162037,44905
+BlackSky-2,777,43437,44895,BlackSky Global Commercial Imaging Constellation,BSG,ISRO,SunSync,500 km,,,10:30 desc,Operational,SpaceView 24,44905.9216782407,44905
+RISAT-2B,778,43607,45260,Radar Imaging Satellite,ISRO,EIAST,DRIFT,555 km,,37°,,Operational,SAR-X (RISAT-2),44608.6494907407,44608
+Falcon-Eye 1,780,43657,43657,Falcon-Eye,EIAST,EIAST,SunSync,610 km,,,10:30 desc,Inactive,HiRI,43724.7442476852,43724
+Falcon-Eye 2,781,44167,45626,Falcon-Eye,EIAST,ISRO,SunSync,610 km,,,10:30 desc,Operational,HiRI,44261.6038310185,44261
+"RISAT-2BR1,783,43810,45260,Radar Imaging Satellite,ISRO,NOAA
+ NASA,DRIFT,555 km,,37°,,Operational,SAR-X (RISAT-2),44608.6490972222,44608"
+"SWFO-L1,784,45626,47452,Space Weather Follow-On,NOAA
+ NASA,BSG,L1,1.5e+06 km,,,,Planned,CCOR
+ SWIS/MAG
+ SWIS/STIS
+ SWIS/SWiPS,44837.3619328704,44837"
+BlackSky-3,785,43644,44895,BlackSky Global Commercial Imaging Constellation,BSG,Roscosmos,SunSync,500 km,,,10:30 desc,Operational,SpaceView 24,44905.9218634259,44905
+"Resurs-P4,786,44895,46356,Resurs-P,Roscosmos,Roscosmos,SunSync,477 km,,,10:30 desc,Planned,GSA
+ Geoton-L1
+ ShMSA-SR
+ ShMSA-VR,44796.4231828704,44796"
+"Resurs-P5,787,44895,46721,Resurs-P,Roscosmos,BSG,SunSync,477 km,,,10:30 desc,Planned,GSA
+ Geoton-L1
+ ShMSA-SR
+ ShMSA-VR,44573.735787037,44573"
+"BlackSky-4,788,43696,44895,BlackSky Global Commercial Imaging Constellation,BSG,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,SunSync,500 km,,,10:30 desc,Operational,SpaceView 24,44905.9221759259,44905"
+"ISS RainCube,789,43241,44187,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,CAST
+ CRESDA,DRIFT,407 km,,51.6°,,Inactive,RainCube,44564.7919097222,44564"
+"ZY-1-2D,790,43720,45260,Zi Yuan 1-2,CAST
+ CRESDA,ISRO,SunSync,781 km,,,10:30 desc,Operational,,43927.8608564815,43927"
+"GISAT-1R,791,45260,47087,Geostationary High Resolution Imager,ISRO,ISRO,GEO,35786 km,83 ° E,,,Planned,HyS-SWIR
+ HyS-VNIR
+ MX-LWIR
+ MX-VNIR,45131.3761342593,45131"
+HRSAT-1B,792,45626,47087,High Resolution Satellite - 1,ISRO,BSG,SunSync,660 km,,,09:30 desc,Planned,HRSAT-1,45131.378125,45131
+BlackSky-9,794,44331,44331,BlackSky Global Commercial Imaging Constellation,BSG,BSG,SunSync,500 km,,,10:30 desc,Lost at launch,SpaceView 24,44433.8909375,44433
+BlackSky-8,795,44331,44331,BlackSky Global Commercial Imaging Constellation,BSG,BSG,SunSync,500 km,,,10:30 desc,Lost at launch,SpaceView 24,44433.8898263889,44433
+BlackSky-7,796,44277,44895,BlackSky Global Commercial Imaging Constellation,BSG,BSG,SunSync,500 km,,,10:30 desc,Operational,SpaceView 24,44390.6109953704,44390
+BlackSky-5,797,44050,44895,BlackSky Global Commercial Imaging Constellation,BSG,CNSA,SunSync,500 km,,,10:30 desc,Operational,SpaceView 24,44905.9223726852,44905
+"GF-10,798,43742,46356,Gao Fen,CNSA,RosHydroMet
+ Roscosmos,SunSync,613 km,,,10:30 desc,Operational,PMS-2,44082.7885416667,44082"
+"Electro-L N5,800,44895,48548,Electro,RosHydroMet
+ Roscosmos,RosHydroMet
+ Roscosmos,GEO,35786 km,76 ° E,,,Planned,DCS (Electro)
+ GEOS&R (Electro)
+ GGAK-E/DIR-E
+ GGAK-E/FM-E
+ GGAK-E/GALS-E
+ GGAK-E/ISP-2M
+ GGAK-E/SKIF-6
+ GGAK-E/SKL-E
+ GGAK-E/VUSS-E
+ MSU-GS,44061.8155902778,44061"
+"Meteor-M N2-6,801,45991,47817,Meteor-3M,RosHydroMet
+ Roscosmos,ESA
+ EC
+ EUMETSAT,SunSync,820.7 km,,,09:00 asc,Planned,GGAK-E/GALS-E (Meteor)
+ GGAK-E/SKIF-6 (Meteor)
+ GGAK-M/RIMS-M
+ IKFS-2
+ IKOR-M
+ KMSS
+ MSU-MR
+ MTVZA-GY
+ MeteoSAR
+ SSPD,45110.6774652778,45110"
+"Sentinel-3B,802,43215,45626,Sentinel-3,ESA
+ EC
+ EUMETSAT,ESA
+ EC
+ EUMETSAT,SunSync,814.5 km,,,10:00 desc,Operational,DORIS
+ GPS (ESA)
+ LRR (ESA)
+ MWR (Sentinel-3)
+ OLCI 
+ SLSTR
+ SRAL,44064.5576967593,44064"
+"Sentinel-3C,803,45260,48913,Sentinel-3,ESA
+ EC
+ EUMETSAT,ESA
+ EC
+ EUMETSAT,SunSync,810 km,,,10:00 desc,Planned,DORIS
+ GPS (ESA)
+ LRR (ESA)
+ MWR (Sentinel-3)
+ OLCI 
+ SLSTR
+ SRAL,45138.3580208333,45138"
+"Sentinel-3D,804,46721,50374,Sentinel-3,ESA
+ EC
+ EUMETSAT,ISRO,SunSync,810 km,,,10:00 desc,Planned,DORIS
+ GPS (ESA)
+ LRR (ESA)
+ MWR (Sentinel-3)
+ OLCI 
+ SLSTR
+ SRAL,45138.3583217593,45138"
+"EOS-01,805,44142,45626,Radar Imaging Satellite,ISRO,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,DRIFT,555 km,,37°,,Operational,SAR-X (RISAT-2),44608.6485648148,44608"
+"ISS COWVR,806,44551,45260,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,DRIFT,407 km,,51.6°,,Operational,COWVR,44697.4068055556,44697"
+"ISS HISUI,807,43804,44895,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,CNSA,DRIFT,407 km,,51.6°,,Operational,HISUI,44862.5752662037,44862"
+GF-12,808,43796,46356,Gao Fen,CNSA,KARI,SunSync,635 km,,,06:00 desc,Operational,SAR-C (GF-3),44082.7890740741,44082
+KOMPSAT-6,810,45260,47087,Korea Multi-Purpose Satellite,KARI,KARI,SunSync,505 km,,,06:00 asc,Planned,COSI,45124.3611689815,45124
+KOMPSAT-7,811,45260,47087,Korea Multi-Purpose Satellite,KARI,KARI,SunSync,685 km,,,10:50 asc,Planned,AEISS-HR,45124.3615509259,45124
+CAS 500-1,812,44277,45991,Korea Multi-Purpose Satellite,KARI,KARI,SunSync,528 km,,,10:50 asc,Operational,AEISS-HR,45124.3627777778,45124
+CAS 500-2,813,45260,47087,Korea Multi-Purpose Satellite,KARI,NASA,SunSync,528 km,,,10:50 asc,Planned,AEISS-HR,45124.3631828704,45124
+"ARTEMIS-P2,814,40739,44895,Acceleration, Reconnection, Turbulence, and Electrodynamics of the Moon's Interaction with the Sun,NASA,NASA,Moon,,,6°,,Operational,EFI (THEMIS)
+ ESA
+ FGM (THEMIS)
+ SCM
+ SST,44862.4026273148,44862"
+"MMS-B,815,42076,44895,Magnetospheric MultiScale mission,NASA,NASA,MAG,,,28°,,Operational,AFG
+ ASPOC (MMS)
+ DFG
+ DP
+ EDI (MMS)
+ EIS (MSS)
+ FEEPS
+ FPI
+ HPCA
+ SCM (MMS),44858.5688888889,44858"
+"MMS-C,816,42076,44895,Magnetospheric MultiScale mission,NASA,NASA,MAG,,,28°,,Operational,AFG
+ ASPOC (MMS)
+ DFG
+ DP
+ EDI (MMS)
+ EIS (MSS)
+ FEEPS
+ FPI
+ HPCA
+ SCM (MMS),44858.5691898148,44858"
+"MMS-D,817,42076,44895,Magnetospheric MultiScale mission,NASA,NASA,MAG,,,28°,,Operational,AFG
+ ASPOC (MMS)
+ DFG
+ DP
+ EDI (MMS)
+ EIS (MSS)
+ FEEPS
+ FPI
+ HPCA
+ SCM (MMS),44858.5693865741,44858"
+"STEREO-A,818,39016,45260,Solar-TErrestrial RElations Observatory,NASA,NASA,Ecliptic,,,23.44°,,Operational,IMPACT/MAG
+ IMPACT/SEP
+ IMPACT/STE
+ IMPACT/SWEA
+ PLASTIC
+ S/WAVES
+ SECCHI/COR-1
+ SECCHI/COR-2
+ SECCHI/EUVI
+ SECCHI/HI-1
+ SECCHI/HI-2,45019.4056712963,45019"
+"THEMIS-A,819,39130,44895,Time History of Events and Macroscale Interactions during Substorms,NASA,NASA,MAG,,,6°,,Operational,EFI (THEMIS)
+ ESA
+ FGM (THEMIS)
+ SCM
+ SST,44858.576724537,44858"
+"THEMIS-E,820,39130,44895,Time History of Events and Macroscale Interactions during Substorms,NASA,Airbus,MAG,,,6°,,Operational,EFI (THEMIS)
+ ESA
+ FGM (THEMIS)
+ SCM
+ SST,44858.5769212963,44858"
+Pléiades-Neo 3,821,44315,47817,Pléiades Neo,Airbus,Airbus,SunSync,620 km,,,10:30 desc,Operational,Pléiades-Neo,44433.7014699074,44433
+Pléiades-Neo 4,822,44425,47817,Pléiades Neo,Airbus,Airbus,SunSync,620 km,,,10:30 desc,Operational,Pléiades-Neo,44593.6773842593,44593
+Pléiades-Neo 5,823,44916,44916,Pléiades Neo,Airbus,Airbus,SunSync,620 km,,,10:30 desc,Lost at launch,Pléiades-Neo,44916.5826736111,44916
+"Pléiades-Neo 6,824,44916,44916,Pléiades Neo,Airbus,CNES
+ UKSA,SunSync,620 km,,,10:30 desc,Lost at launch,Pléiades-Neo,44916.5822569444,44916"
+"MicroCarb,825,45260,47087,MicroCarb,CNES
+ UKSA,SPIRE,SunSync,650 km,,,10:30 desc,Planned,MicroCarb,44952.8401041667,44952"
+Lemur-2,827,42275,51104,Low Earth Multi-Use Receiver,SPIRE,GeoOptics,SunSync,550 km,,,,Operational,STRATOS,45127.3107291667,45127
+"CICERO,828,42909,45626,Community Initiative for Continuing Earth Radio Occultation,GeoOptics,ICEYE
+ ESA,SunSync,550 km,,,,Operational,CION,44711.3849884259,44711"
+"ICEYE,829,43437,51104,ICEYE,ICEYE
+ ESA,NASA,SunSync,600 km,,,TBD,Operational,ICEYE SAR,45090.6728935185,45090"
+3D-Winds,832,TBD,TBD,Three-Dimensional Tropospheric Winds from Space-Based Lidar,NASA,CNSA,SunSync,TBD km,,,,Mission concept,3D-Winds Lidar,44491.5858564815,44491
+GF-9-02,833,43982,46721,Gao Fen,CNSA,CNSA,SunSync,650 km,,,10:30 desc,Operational,PMS-2,44257.9823148148,44257
+GF-9-03,834,43999,46721,Gao Fen,CNSA,Planet,SunSync,650 km,,,10:30 desc,Operational,PMS-2,44257.9828240741,44257
+SkySat-16,835,43995,45626,Sky Satellite,Planet,Planet,SunSync,500 km,,,13:30 asc,Operational,SkySat,44364.7505671296,44364
+SkySat-17,837,43995,45626,Sky Satellite,Planet,Planet,SunSync,500 km,,,13:30 asc,Operational,SkySat,44364.7509259259,44364
+"SkySat-18,838,43995,45626,Sky Satellite,Planet,EUMETSAT
+ ESA,SunSync,500 km,,,13:30 asc,Operational,SkySat,44364.7514236111,44364"
+"Metop-SG-A1,840,45626,48182,EPS Second Generation,EUMETSAT
+ ESA,CAST
+ CRESDA,SunSync,835 km,,,09:30 desc,Planned,3MI
+ IASI-NG
+ METimage
+ MWS
+ NGRM
+ RO
+ Sentinel-5,45042.3004976852,45042"
+"ZY-3-03,863,44037,45626,Zi Yuan - 3,CAST
+ CRESDA,Planet,SunSync,506 km,,,10:30 desc,Operational,MSC (ZY)
+ TAC,44260.9583217593,44260"
+SkySat-19,865,44061,45626,Sky Satellite,Planet,Planet,SunSync,500 km,,,13:30 asc,Operational,SkySat,44364.7518518519,44364
+SkySat-20,866,44061,45626,Sky Satellite,Planet,Planet,SunSync,500 km,,,13:30 asc,Operational,SkySat,44364.7522337963,44364
+SkySat-21,867,44061,45626,Sky Satellite,Planet,CNSA,SunSync,500 km,,,13:30 asc,Operational,SkySat,44364.7527430556,44364
+GF-9-04,869,44049,46721,Gao Fen,CNSA,NASA,SunSync,640 km,,,10:30 desc,Operational,PMS-2,44257.9833912037,44257
+PREFIRE,875,44895,45991,Polar Radiant Energy in the Far-InfraRed Experiment,NASA,ESA,DRIFT,560 km,,90°,,Planned,TIRS (PREFIRE),45131.2914583333,45131
+FORUM,876,46356,47817,Far-infrared Outgoing Radiation Understanding and Monitoring,ESA,CNSA,SunSync,835 km,,,09:30 desc,Planned,FSI,44601.5521180556,44601
+GF-9-05,877,44066,46721,Gao Fen,CNSA,CNSA,SunSync,640 km,,,10:30 desc,Operational,PMS-2,44257.9840162037,44257
+"GF-11-02,879,44081,46721,Gao Fen,CNSA,CRESDA
+ CAST,SunSync,415 km,,,10:30 desc,Operational,PMS-2,44257.9921759259,44257"
+"HJ-2A,880,44101,45626,Huan Jing,CRESDA
+ CAST,CRESDA
+ CAST,SunSync,650 km,,,10:30 desc,Operational,HSI-2
+ IRMSS-2 (HJ)
+ WVC-2,44260.9102083333,44260"
+"HJ-2B,882,44101,45626,Huan Jing,CRESDA
+ CAST,CNSA,SunSync,650 km,,,10:30 desc,Operational,HSI-2
+ IRMSS-2 (HJ)
+ WVC-2,44260.9109375,44260"
+GF-13,884,44115,46721,Gao Fen,CNSA,CNSA,GEO,35786 km,118 ° E,,,Operational,GF-4/13 imager,45005.3547916667,45005
+"GF-14,885,44171,46721,Gao Fen,CNSA,ESA
+ EC
+ EUMETSAT,SunSync,488 km,,,10:30 desc,Operational,PMS-2,44363.6620833333,44363"
+"CIMR,886,46721,48548,Copernicus Sentinel Expansion Missions,ESA
+ EC
+ EUMETSAT,ESA
+ NASA,SunSync,820 km,,,06:00 desc,Considered,CIMR,44803.5995601852,44803"
+"CLUSTER-B,887,36723,45626,Cluster,ESA
+ NASA,ESA
+ NASA,MAG,,,90°,,Operational,ASPOC
+ CIS
+ EDI
+ EFW (CLUSTER)
+ FGM
+ PEACE
+ RAPID
+ STAFF
+ WBD
+ WHISPER,44223.6091435185,44223"
+"CLUSTER-D,888,36747,45991,Cluster,ESA
+ NASA,GISTDA,MAG,,,90°,,Operational,ASPOC
+ CIS
+ EDI
+ EFW (CLUSTER)
+ FGM
+ PEACE
+ RAPID
+ STAFF
+ WBD
+ WHISPER,44223.6129513889,44223"
+"THEOS-2 Main,889,45208,48548,Thailand Earth Observation System,GISTDA,GISTDA,SunSync,621 km,,,09:30 desc,Commissioning,MS (THEOS-2)
+ PAN (THEOS-2),45208.5499421296,45208"
+THEOS-2 Small,890,45230,45991,Thailand Earth Observation System,GISTDA,BSG,SunSync,590 km,,,10:30 asc,Planned,CERIA,45124.340474537,45124
+BlackSky-6,891,44050,44895,BlackSky Global Commercial Imaging Constellation,BSG,CNSA,SunSync,490 km,,,10:30 desc,Operational,SpaceView 24,44905.9227662037,44905
+GF-12-02,892,44285,47087,Gao Fen,CNSA,Capella,SunSync,635 km,,,06:00 desc,Operational,SAR-C (GF-3),44433.7196759259,44433
+"Capella,893,43437,51104,Capella,Capella,CMA
+ NRSCC,SunSync,500 km,,,10:30 desc,Operational,Capella SAR,45188.3707523148,45188"
+"FY-4M1,894,45626,47087,Feng-Yun - 4,CMA
+ NRSCC,NASA,GEO,35786 km,TBD,,,Planned,MWS (GEO),45145.6417013889,45145"
+TROPICS-02,895,44724,44724,Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats,NASA,NASA,DRIFT,550 km,,30°,,Lost at launch,TMS,45057.3494675926,45057
+TROPICS-03,896,44724,44724,Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats,NASA,PlanetiQ,DRIFT,550 km,,30°,,Lost at launch,TMS,45057.3499074074,45057
+GNOMES-1,901,44073,44165,GNSS Navigation and Occultation Measurement Satellites,PlanetiQ,CNSA,SunSync,600 km,,,TBD,Inactive,Pyxis-RO,44706.6243518519,44706
+GF-11-03,902,44520,46721,Gao Fen,CNSA,BSG,SunSync,450 km,,,10:30 desc,Operational,PMS-2,44593.6783101852,44593
+BlackSky-10,903,44518,45260,BlackSky Global Commercial Imaging Constellation,BSG,BSG,SunSync,500 km,,,10:30 desc,Operational,SpaceView 24,44572.4759143519,44572
+BlackSky-11,904,44518,45260,BlackSky Global Commercial Imaging Constellation,BSG,BSG,SunSync,500 km,,,10:30 desc,Operational,SpaceView 24,44572.4762731481,44572
+BlackSky-12,905,44532,45260,BlackSky Global Commercial Imaging Constellation,BSG,BSG,SunSync,500 km,,,10:30 desc,Operational,SpaceView 24,44572.4765509259,44572
+BlackSky-13,906,44532,45260,BlackSky Global Commercial Imaging Constellation,BSG,BSG,SunSync,500 km,,,10:30 desc,Operational,SpaceView 24,44572.4768402778,44572
+BlackSky-14,907,44539,45260,BlackSky Global Commercial Imaging Constellation,BSG,BSG,DRIFT,430 km,,42°,,Operational,SpaceView 24,44572.4771180556,44572
+BlackSky-15,908,44539,45260,BlackSky Global Commercial Imaging Constellation,BSG,CNSA,DRIFT,430 km,,42°,,Operational,SpaceView 24,44572.4773958333,44572
+"GF-5-02,910,44446,46721,Gao Fen,CNSA,Planet,SunSync,705 km,,,13:30 asc,Operational,AHSI
+ AIUS
+ DPC
+ EMI
+ GMI (GF-5)
+ VIMS,44550.3415740741,44550"
+"FLOCK,911,41648,51104,Planetscope,Planet,ESA
+ EC
+ EUMETSAT,SunSync,475 km,,,10:30 desc,Operational,FLOCK,44932.4387731482,44932"
+"CHIME,912,47087,48913,Copernicus Sentinel Expansion Missions,ESA
+ EC
+ EUMETSAT,ESA
+ EC
+ EUMETSAT,SunSync,786 km,,,10:30 desc,Considered,CHIME,44704.649537037,44704"
+"CO2M-A,913,45626,48548,Copernicus Sentinel Expansion Missions,ESA
+ EC
+ EUMETSAT,ESA
+ EC
+ EUMETSAT,SunSync,735 km,,,11:30 desc,Planned,CLIM
+ CO2I and NO2I
+ MAP,45138.3623611111,45138"
+"CRISTAL,914,46356,48913,Copernicus Sentinel Expansion Missions,ESA
+ EC
+ EUMETSAT,ESA
+ EC
+ EUMETSAT,DRIFT,717 km,,92°,,Considered,AMR-CR
+ GPS (ESA)
+ HRMR
+ IRIS (CRISTAL)
+ LRR (ESA),44803.6457638889,44803"
+"LSTM,915,47087,48913,Copernicus Sentinel Expansion Missions,ESA
+ EC
+ EUMETSAT,ESA
+ EC
+ EUMETSAT,SunSync,640 km,,,13:30 asc,Considered,LSTM,44704.6499189815,44704"
+"ROSE-L,916,46721,48548,Copernicus Sentinel Expansion Missions,ESA
+ EC
+ EUMETSAT,ESA
+ BIRA,SunSync,693 km,,,06:00 desc,Considered,ROSE-L,44648.5533449074,44648"
+"ALTIUS,917,45626,46721,Atmospheric Limb Tracker for Investigation of the Upcoming Stratosphere,ESA
+ BIRA,EUMETSAT
+ ESA,SunSync,668 km,,,10:00 desc,Planned,ALTIUS,44984.3608796296,44984"
+"Meteosat-9 (IODC),918,44743,45626,Meteosat Second Generation (MSG),EUMETSAT
+ ESA,CNSA,GEO,35786 km,45.5 ° E,,,Operational,DCS (Meteosat)
+ GEOS&R 
+ GERB
+ SEVIRI,45138.3657291667,45138"
+"CSAR-1,920,44522,47087,Gao Fen,CNSA,ESA
+ UKSA,SunSync,740 km,,,06:00 desc,Operational,AIS
+ SAR-C (GF-3),44938.4539351852,44938"
+"TRUTHS,921,47087,50739,Traceable Radiometry Underpinning Terrestrial- and Helio- Studies,ESA
+ UKSA,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,DRIFT,610 km,,90°,,Planned,CSAR
+ HIS,44893.397349537,44893"
+"ISS TEMPEST-D,922,43241,44369,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,DRIFT,400 km,,51.6°,,Inactive,MM Radiometer,45082.3693634259,45082"
+"ISS TEMPEST-1,923,44551,45626,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,DRIFT,400 km,,51.6°,,Operational,MM Radiometer,44830.5999189815,44830"
+"ISS GARI,924,44551,44936,International Space Station,NASA
+ CSA
+ DLR
+ ESA
+ JAXA
+ Roscosmos,BSG,DRIFT,407 km,,51.6°,,Operational,GARI,44565.810775463,44565"
+BlackSky-16,925,44653,45260,BlackSky Global Commercial Imaging Constellation,BSG,BSG,DRIFT,430 km,,42°,,Operational,SpaceView 24,44697.4079861111,44697
+BlackSky-17,926,44653,45260,BlackSky Global Commercial Imaging Constellation,BSG,NSAU,DRIFT,430 km,,42°,,Operational,SpaceView 24,44697.4081134259,44697
+"SICH-2-30,927,44574,46356,SICH 2,NSAU,NASA
+ NRL,SunSync,700 km,,,10:50 desc,Operational,IREI
+ MBEI
+ Potential,44697.4089814815,44697"
+"PUNCH,928,45626,46721,Polarimeter to UNify the Corona and Heliosphere,NASA
+ NRL,Synspective,SunSync,570 km,,,06:00 asc,Planned,NFI
+ STEAM
+ WFI (PUNCH),44994.6650578704,44994"
+StriX-α,929,44180,47452,StriX,Synspective,Synspective,SunSync,500 km,,97.3°,10:00 asc,Operational,X-SAR,44830.3449884259,44830
+"StriX-β,930,44620,48182,StriX,Synspective,ESA
+ Airbus,SunSync,500 km,,97.3°,10:00 desc,Operational,X-SAR,44830.3460763889,44830"
+"EDRS-C,931,43683,48913,European Data Relay System,ESA
+ Airbus,ESA,GEO,35786 km,31 ° E,,,Operational,NGRM,44627.4857986111,44627"
+"Vigil-L5,932,47087,50739,ESA Space Situational Awareness programme,ESA,NASA,L4-L5,,,,,Planned,CCOR-Vigil
+ EUVI-Vigil
+ HI1-Vigil
+ HI2-Vigil
+ PMI,44994.6436574074,44994"
+TROPICS-01 (Pathfinder),933,44377,44895,Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats,NASA,ESA,SunSync,550 km,,,13:30 asc,Operational,TMS,45001.8238888889,45001
+AWS PFM,934,45260,47087,Arctic Weather Satellite,ESA,Satellogic,SunSync,600 km,,,TBD,Planned,EPS Sterna Radiometer,45152.5650694444,45152
+ÑuSat,935,42520,51104,ÑuSat Earth Observation Microsatellite Constellation,Satellogic,CNSA,DRIFT,500 km,,,,Operational,ÑuSat-Imager,45090.6777314815,45090
+"CSAR-2,936,44657,47452,Gao Fen,CNSA,CNSA,SunSync,740 km,,,06:00 desc,Operational,AIS
+ SAR-C (GF-3),44938.4580555556,44938"
+"DQ-1,937,44666,47452,Gao Fen,CNSA,SpacEyes
+ CAST,SunSync,705 km,,,13:00 asc,Operational,ACDL
+ DPC-2
+ EMI-2
+ POSP
+ WSI,44991.5898726852,44991"
+"SuperView Neo-1 01,938,44680,46721,SuperView also known as GaoJing,SpacEyes
+ CAST,SpacEyes
+ CAST,SunSync,495 km,,,,Operational,PMS-3,44684.6629398148,44684"
+"SuperView Neo-1 02,939,44680,46721,SuperView also known as GaoJing,SpacEyes
+ CAST,ASI,SunSync,495 km,,,,Operational,PMS-3,44684.6623842593,44684"
+CSG-3,940,45260,47087,COSMO-SkyMed Second Generation,ASI,ASI,SunSync,,,,,Planned,CSG-SAR,44685.3754861111,44685
+CSG-4,941,46356,48913,COSMO-SkyMed Second Generation,ASI,CNSA,SunSync,,,,,Planned,CSG-SAR,44685.377337963,44685
+"DQ-2,946,45626,48548,Gao Fen,CNSA,PlanetiQ,SunSync,705 km,,,13:00 asc,Planned,ACDL
+ DPC-2
+ EMI-2
+ POSP
+ WSI,44704.377349537,44704"
+GNOMES-2,947,44377,45991,GNSS Navigation and Occultation Measurement Satellites,PlanetiQ,PlanetiQ,SunSync,525 km,,,TBD,Operational,Pyxis-RO,44706.6231365741,44706
+GNOMES-3,948,44652,46356,GNSS Navigation and Occultation Measurement Satellites,PlanetiQ,NOAA,SunSync,645 km,,,TBD,Operational,Pyxis-RO,44706.6235648148,44706
+QuickSounder,949,45991,47452,NOAA Low Earth Orbiting Observation Program,NOAA,GeoOptics,SunSync,,,,,Planned,ATMS,45110.6514351852,45110
+CICERO-2,950,44706,49278,Community Initiative for Continuing Earth Radio Occultation,GeoOptics,UMBRA,SunSync,,,,,Operational,CION-2,44746.3333564815,44746
+UMBRA,951,44165,49278,UMBRA Lab inc.,UMBRA,GHGSat,SunSync,500 km,,,,Operational,UMBRA-SAR,45048.454525463,45048
+"GHGSat,952,42543,47452,Greenhouse Gas Satellite,GHGSat,DoD,SunSync,500 km,,97.5°,,Operational,C&A
+ GHGSat-Spectrometer,45048.4596875,45048"
+"WSF-M1,953,45291,47452,Weather System Follow-on,DoD,KARI,SunSync,833 km,,,,Planned,ECP
+ MWI (WSF-M),44939.7620949074,44939"
+MIMAN,954,44733,45626,Monochrome Imaging for Monitoring Aerosol by Nanosatellite (Cubesatyonsei),KARI,CNSA,SunSync,710 km,,,04:00 asc,Operational,MIMAN,44851.3413310185,44851
+"GF-12-03,956,44739,47087,Gao Fen,CNSA,LANL
+ NASA,SunSync,635 km,,,06:00 desc,Operational,SAR-C (GF-3),44914.5933333333,44914"
+"NACHOS-1,957,44611,45626,Nano-satellite Atmospheric Chemistry Hyperspectral Observation System,LANL
+ NASA,LANL
+ NASA,DRIFT,400 km,,51.6°,,Operational,NACHOS-Imager,44746.4078356482,44746"
+"NACHOS-2,958,44744,45991,Nano-satellite Atmospheric Chemistry Hyperspectral Observation System,LANL
+ NASA,NASA,DRIFT,500 km,,51.6°,,Operational,NACHOS-Imager,44991.59125,44991"
+"CTIM-FD,961,44744,45626,Compact Total Irradiance Monitor-Flight Demonstration,NASA,SpacEyes
+ CAST,DRIFT,500 km,,44.9°,,Operational,CTIM-FD,45082.4740162037,45082"
+"SuperView Neo-2 01,962,44757,46356,SuperView also known as GaoJing,SpacEyes
+ CAST,SpacEyes
+ CAST,SunSync,495 km,,,07:00 desc,Operational,SAR (Superview),44830.3484027778,44830"
+"SuperView Neo-2 02,963,44757,46356,SuperView also known as GaoJing,SpacEyes
+ CAST,Synspective,SunSync,495 km,,,07:00 desc,Operational,SAR (Superview),44830.3492013889,44830"
+"StriX-1,964,44819,48182,StriX,Synspective,NOAA
+ CNES,SunSync,574 km,,97.3°,10:00 desc,Operational,X-SAR,44991.5917361111,44991"
+"Argos-4,965,44841,46356,Argos Data Collection System,NOAA
+ CNES,NASA,SunSync,750 km,,,06:00 desc,Operational,Argos-4,44914.6016435185,44914"
+TROPICS-04,966,45054,45626,Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats,NASA,NASA,DRIFT,550 km,,30°,,Commissioning,TMS,45054.3070486111,45054
+TROPICS-05,967,45054,45626,Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats,NASA,NASA,DRIFT,550 km,,30°,,Commissioning,TMS,45054.3078703704,45054
+TROPICS-06,968,45072,45626,Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats,NASA,NASA,DRIFT,550 km,,30°,,Commissioning,TMS,45072.2995717593,45072
+TROPICS-07,969,45072,45626,Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats,NASA,CSA,DRIFT,550 km,,30°,,Commissioning,TMS,45072.2998032407,45072
+"RCM-2,970,43628,45991,RadarSat Constellation Mission,CSA,CSA,SunSync,592 km,,,06:00 desc,Operational,AIS
+ SAR RCM,44837.3424537037,44837"
+"RCM-3,971,43628,45991,RadarSat Constellation Mission,CSA,CAS,SunSync,592 km,,,06:00 desc,Operational,AIS
+ SAR RCM,44837.3553819444,44837"
+"ASO-S (Kuafu-1),972,44842,45991,Advanced Space-based Solar Observatory,CAS,CRESDA
+ CAST,SunSync,744 km,,,06:00 desc,Operational,FMG
+ HXI
+ LST,45068.4212615741,45068"
+"HJ-2E,973,44847,47452,Huan Jing,CRESDA
+ CAST,CRESDA
+ CAST,SunSync,500 km,,,07:00 desc,Operational,SAR-S,44991.592974537,44991"
+"HJ-2F,974,45146,47817,Huan Jing,CRESDA
+ CAST,DLR,SunSync,,,,,Commissioning,SAR-S,45148.3203703704,45148"
+"CO2Image,975,45991,47087,Carbon Dioxide Image,DLR,UKSA
+ NRL,SunSync,500 km,,,11:00 asc,Considered,COSIS,44858.342974537,44858"
+"CIRCE,978,44935,45626,Coordinated Ionospheric Reconstruction CubeSat Experiment,UKSA
+ NRL,ESA
+ EC
+ EUMETSAT,DRIFT,555 km,,90°,,Lost at launch,INMS
+ RadMon
+ TOPCAT-II
+ Tri-TIP,44936.4603125,44936"
+"CO2M-B,979,45991,48548,Copernicus Sentinel Expansion Missions,ESA
+ EC
+ EUMETSAT,CNSA,SunSync,735 km,,,11:30 desc,Planned,CLIM
+ CO2I and NO2I
+ MAP,45138.3621180556,45138"
+"GF-5-01A,980,44903,47452,Gao Fen,CNSA,CNSA,SunSync,705 km,,,13:30 asc,Operational,AHSI
+ AIUS
+ DPC
+ EMI
+ GMI (GF-5)
+ VIMS,45117.4310532407,45117"
+GF-11-04,981,44922,46721,Gao Fen,CNSA,DoD,SunSync,450 km,,,10:30 desc,Operational,PMS-2,45117.4324884259,45117
+"WSF-M2,983,46721,49278,Weather System Follow-on,DoD,NASA,SunSync,833 km,,,,Planned,ECP
+ MWI (WSF-M),44939.7615625,44939"
+"IMAP,984,45626,46721,Interstellar Mapping and Acceleration Probe,NASA,EUMETSAT
+ ESA,L1,1.5e+06 km,,,N/A,Planned,CoDICE
+ GLOWS
+ HIT
+ IDEX
+ IMAP-Hi
+ IMAP-Lo
+ IMAP-Ultra
+ MAG
+ SWAPI
+ SWE (IMAP),45026.3611111111,45026"
+"Aeolus-2,985,46721,48548,Eumetsat Polar System - Aeolus,EUMETSAT
+ ESA,CNSA,SunSync,,,,06:00 desc,Planned,,44984.4656944444,44984"
+"GF-13-02,986,45002,47452,Gao Fen,CNSA,NOAA
+ NASA,GEO,35786 km,117.9 ° E,,,Commissioning,GF-4/13 imager,45005.3553240741,45005"
+"GeoXO East,987,48182,53661,Geostationary Extended Observations,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,75 ° W,,,Planned,DCIS
+ GXI
+ LMX
+ OCX,45005.595787037,45005"
+"GeoXO West,988,49278,54757,Geostationary Extended Observations,NOAA
+ NASA,NOAA
+ NASA,GEO,35786 km,137 ° W,,,Planned,DCIS
+ GXI
+ LMX
+ OCX,45005.5962384259,45005"
+"GeoXO Central,989,49278,54757,Geostationary Extended Observations,NOAA
+ NASA,BSG,GEO,35786 km,105 ° W,,,Planned,ACX
+ DCIS
+ GXS,45201.6139814815,45201"
+BlackSky-18,990,45009,45991,BlackSky Global Commercial Imaging Constellation,BSG,BSG,DRIFT,450 km,,42°,,Commissioning,SpaceView 24,45012.3047106481,45012
+BlackSky-19,991,45009,45991,BlackSky Global Commercial Imaging Constellation,BSG,JMA,DRIFT,450 km,,42°,,Commissioning,SpaceView 24,45012.3048958333,45012
+"Himawari-10,992,46721,52931,Himawari 4th Generation,JMA,OSK,GEO,35786 km,140.7 ° E,,,Planned,DCS (Himawari)
+ GHMI
+ GHMS,45201.3094560185,45201"
+GHOSt-1,994,45031,46721,Global Hyperspectral Observation Satellite,OSK,OSK,SunSync,525 km,,,,Commissioning,GHOSt-Imager,45048.4883217593,45048
+GHOSt-2,995,45031,46721,Global Hyperspectral Observation Satellite,OSK,ISRO,SunSync,525 km,,,,Commissioning,GHOSt-Imager,45048.4887615741,45048
+EOS-07,996,44967,45260,Indian Microsat,ISRO,NASA,DRIFT,450 km,,37.2°,,Commissioning,MHS (EOS-07),45152.583125,45152
+"SME,997,29865,32602,Solar Mesosphere Explorer,NASA,Tomorrow.io,SunSync,540 km,,97.5°,0.125,Inactive,SME (IR)
+ SME (SPA)
+ SME (SUM)
+ SME (UVOE)
+ SME (VND),45061.4439467593,45061"
+"Tomorrow-R1,998,45030,46721,Tomorrow.io constellation,Tomorrow.io,ESA
+ SSTL
+ UKSA,SunSync,500 km,,,,Commissioning,Tomorrow.io radar,45068.5602083333,45068"
+"HydroGNSS-1,999,45260,46721,Hydro Global Navigation Satellite System,ESA
+ SSTL
+ UKSA,ESA
+ SSTL
+ UKSA,SunSync,550 km,,,0.4375,Planned,GNSS-R,45068.3889583333,45068"
+"HydroGNSS-2,1000,45260,46721,Hydro Global Navigation Satellite System,ESA
+ SSTL
+ UKSA,ESA,SunSync,550 km,,,0.4375,Planned,GNSS-R,45068.3891550926,45068"
+"PRETTY,1001,45208,46356,Passive Reflectometry and Dosimetry,ESA,ESA,SunSync,550 km,,,,Commissioning,Dosimeter
+ GNSS-R (PRETTY),45208.5834143519,45208"
+Harmony-1,1002,47087,48913,Harmony,ESA,ESA,SunSync,693 km,,,06:00 desc,Planned,,45089.5446643519,45089
+Harmony-2,1003,47087,48913,Harmony,ESA,OSK,SunSync,693 km,,,06:00 desc,Planned,,45089.5465972222,45089
+GHOSt-3,1004,45089,46721,Global Hyperspectral Observation Satellite,OSK,Tomorrow.io,SunSync,525 km,,,,Commissioning,GHOSt-Imager,45090.6750231482,45090
+Tomorrow-R2,1005,45089,46721,Tomorrow.io constellation,Tomorrow.io,NPOMash,SunSync,500 km,,,,Commissioning,Tomorrow.io radar,45090.676412037,45090
+Kondor-FKA 1,1006,45072,46721,Kondor-Experimental SAR Spacecraft,NPOMash,NPOMash,SunSync,510 km,,97.4°,,Commissioning,SAR-10,45096.4518402778,45096
+"Kondor-FKA 2,1007,TBD,TBD,Kondor-Experimental SAR Spacecraft,NPOMash,EUMETSAT
+ ESA,SunSync,510 km,,97.4°,,Planned,SAR-10,45096.4525925926,45096"
+"Sterna-1,1008,47087,51835,Eumetsat Polar System STERNA,EUMETSAT
+ ESA,EUMETSAT
+ ESA,SunSync,600 km,,,TBD,Planned,EPS Sterna Radiometer,45152.5639699074,45152"
+"Sterna-2,1009,47087,51835,Eumetsat Polar System STERNA,EUMETSAT
+ ESA,EUMETSAT
+ ESA,SunSync,600 km,,,TBD,Planned,EPS Sterna Radiometer,45152.5636458333,45152"
+"Sterna-3,1010,47087,51835,Eumetsat Polar System STERNA,EUMETSAT
+ ESA,CAS,SunSync,600 km,,,TBD,Planned,EPS Sterna Radiometer,45152.5653472222,45152"
+"SDGSAT-1,1011,44505,45626,Sustainable Development Science Satellite,CAS,ISRO,SunSync,505 km,,97.5°,,Operational,GLIMMER
+ MSI (SDGSAT)
+ TIR,45110.5861458333,45110"
+"RISAT-1B,1012,45260,47087,Radar Imaging Satellite,ISRO,ESA
+ EC
+ EUMETSAT,SunSync,529 km,,,06:00 desc,Planned,SAR-C (RISAT),45131.3715046296,45131"
+"CO2M-C,1013,45991,48548,Copernicus Sentinel Expansion Missions,ESA
+ EC
+ EUMETSAT,CASC,SunSync,735 km,,,11:30 desc,Planned,CLIM
+ CO2I and NO2I
+ MAP,45138.3619560185,45138"
+PIESAT-1,1015,45015,48548,PIESAT also known as Hongtu,CASC,Planet,SunSync,530 km,,97.5°,,Commissioning,X-SAR (PIESAT),45145.5474768519,45145
+Tanager-1,1018,45260,47087,Tanager,Planet,Planet,SunSync,405 km,,,,Planned,Carbon Mapper,45188.5243981482,45188
+"Tanager-2,1019,45260,47087,Tanager,Planet,SSTL
+ UKSA,SunSync,405 km,,,,Planned,Carbon Mapper,45188.5249884259,45188"
+"HOTSAT-1,1020,45089,46721,HOTSAT,SSTL
+ UKSA,ESA,SunSync,536 km,,,12:00 desc,Operational,HotSat Imager,45208.4418055556,45208"
+PROBA-V-CC,1021,45208,45626,Project for On-Board Autonomy,ESA,CSA,SunSync,564 km,,,10:15 desc,Commissioning,Végétation-P,45210.7372800926,45210
+"Alouette-1,1022,22918,26572,Alouette (French for Skylark),CSA,CSA,DRIFT,1000 km,,80.5°,,Inactive,Cosmic Radio Noise
+ EPD (Alouette)
+ SFS
+ VLF Receiver,45215.6146064815,45215"
+"Alouette-2,1023,24075,27607,Alouette (French for Skylark),CSA,,DRIFT,1000 km,,80.5°,,Inactive,Cosmic Radio Noise
+ EPD (Alouette)
+ SFS
+ VLF Receiver,45215.6234953704,45215"
+

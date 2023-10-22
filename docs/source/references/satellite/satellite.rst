@@ -12,16 +12,16 @@ Reference Details
 ~~~~~~~~~
 
 +------------------------+------------------------------------------------------------------------------------------+
-| *TITLE*                | List of Space Based Remote Sensing Satellites                                            |                                 |
-+------------------------+------------------------------------------------------------------------------------------+
-| *DESCRIPTION*          | The purpose of this list is to provide a list of Acronyms {provide additional text}      |
+| TITLE.                 | List of Space Based Remote Sensing Satellites                                            |                                 |
++========================+==========================================================================================+
+| DESCRIPTION            | The purpose of this list is to provide a list of Acronyms {provide additional text}      |
 |                        | The purpose of this list is to provide a list of Acronyms {provide additional text}.     |
 |                        | Data obtained from World Meteorological Organization                                     |
 +------------------------+------------------------------------------------------------------------------------------+
-| *Data Source*          | OSCAR Observing Systems Capability Analysis and Review Tool                              |
+| Data Source            | OSCAR Observing Systems Capability Analysis and Review Tool                              |
 |                        | https://space.oscar.wmo.int/satellites                                                   |
 +------------------------+------------------------------------------------------------------------------------------+
-| *Last Updated*         | 2023-10-21                                                                               |             
+| Last Updated           | 2023-10-21                                                                               |             
 +------------------------+------------------------------------------------------------------------------------------+
 
 List Data Dictionary

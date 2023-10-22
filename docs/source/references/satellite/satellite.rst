@@ -33,12 +33,19 @@ This data dictionary
 List of Space Satellites
 ~~~~~~~~~
 
+
+
+.. csv-table:: CI_DateTypeCode
+   :file: satellite.csv
+   :widths: 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5
+   :header-rows: 1
+
 This data
 
-.. csv-table:: 
-:file: satellite.csv
-:widths: 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10
-:header-rows: 1
+.. csv-table:: List of Satellite
+   :file: 
+   :widths: 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10
+   :header-rows: 1
 
 
 .. seealso::

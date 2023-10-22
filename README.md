@@ -1,1 +1,1 @@
-# academy
+# Voyager Search Academy

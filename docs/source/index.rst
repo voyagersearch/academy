@@ -24,4 +24,9 @@ Contents
 
    api
    usage
+
+.. toctree::
+   :maxdepth: 10
+   :numbered:
+   :caption: 📚 SDI RESOURCES
    

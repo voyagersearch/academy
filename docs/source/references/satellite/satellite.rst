@@ -28,19 +28,22 @@ Reference Details
 List Data Dictionary
 -----------
 
-
+This data dictionary
 
 List of Space Satellites
 ~~~~~~~~~
 
+This data
 
 .. csv-table:: 
-:file: /references/satellite/satellite.csv
+:file: satellite.csv
 :widths: 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10
 :header-rows: 1
 
 
 .. seealso::
+
+
 
 
 :doc:`/references/isostandards`.

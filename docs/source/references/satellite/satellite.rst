@@ -43,7 +43,7 @@ List of Space Satellites
 This data
 
 .. csv-table:: List of Satellite
-   :file: 
+   :file: /references/satellite/satellite.rst
    :widths: 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10
    :header-rows: 1
 

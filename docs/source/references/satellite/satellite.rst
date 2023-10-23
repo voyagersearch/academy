@@ -3,12 +3,12 @@
    :description: Reference Resource | Provides a list of satellites
    :keywords: terms, term, reference, reference resource, satellite, satellites, instrument
 
-Satellites
+List | Satellites
 -------------------------------
 
 This reference resource provides a listing of space-based remote sensing platforms. 
 
-Reference Details
+List | Reference Details
 -----------
 
 +----------------+-----------------------------------------------------------------+
@@ -27,22 +27,37 @@ Reference Details
 .. sidebar:: Reference Sattelite 
    :subtitle: How this list is used in the registry
 
-    +-----------------------+
-    | How this list is used |
-    +=======================+
-    | Metadata Validation   |
-    +-----------------------+
-    | Data Classification   |
-    +-----------------------+
-    | Auto Population       |
-    +-----------------------+
+    +-------------------------+
+    | REGISTRY IMPLEMENTATION |
+    +=========================+
+    | Metadata Validation     |
+    +-------------------------+
+    | Data Classification     |
+    +-------------------------+
+    | Keyword Dictionary      |
+    +-------------------------+
+    | Search Term Dictionary  |
+    +-------------------------+
+    | Tag Vocabulary          |
+    +-------------------------+
 
-List Data Dictionary
+List | Dictionary
 -----------
 
-This data dictionary
+    +-----------------------+
+    | Term                  |
+    +=======================+
+    | Orbit                 |
+    +-----------------------+
+    | Altitude              |
+    +-----------------------+
+    | Longitude             |
+    +-----------------------+
+    | Inclindation          |
+    +-----------------------+
 
-List of Space Satellites
+
+List | Space Satellites
 ~~~~~~~~~
 
 This data

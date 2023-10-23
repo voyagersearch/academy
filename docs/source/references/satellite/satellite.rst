@@ -41,9 +41,8 @@ List | Reference Details
     | Tag Vocabulary          |
     +-------------------------+
 
-List | Dictionary
------------
-
+.. Tip:: List | Dictionary
+   
     +-----------------------+
     | Term                  |
     +=======================+

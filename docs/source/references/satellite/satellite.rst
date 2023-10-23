@@ -11,19 +11,31 @@ This reference resource provides a listing of space-based remote sensing platfor
 Reference Details
 -----------
 
-+----------------+------------------------------------------------------------------------------------------+
-| TITLE          | List of Space Based Remote Sensing Satellites                                            |                    
-+================+==========================================================================================+
-| DESCRIPTION    | The purpose of this list is to provide a list of Acronyms {provide additional text}      |
-|                | The purpose of this list is to provide a list of Acronyms {provide additional text}.     |
-|                | Data obtained from World Meteorological Organization                                     |
-+----------------+------------------------------------------------------------------------------------------+
-| Data Source    | OSCAR Observing Systems Capability Analysis and Review Tool                              |
-|                | https://space.oscar.wmo.int/satellites                                                   |
-+----------------+------------------------------------------------------------------------------------------+
-| Last Update    | 2023-10-21                                                                               |             
-+----------------+------------------------------------------------------------------------------------------+
++----------------+-----------------------------------------------------------------+
+| TITLE          | List of Space Based Remote Sensing Satellites                   |                    
++================+=================================================================+
+| DESCRIPTION    | This table shows all known past, current and future satellites  |
+|                | for meteorological and earth observation purposes.              |
+|                | Data obtained from World Meteorological Organization            |
++----------------+-----------------------------------------------------------------+
+| Data Source    | OSCAR Observing Systems Capability Analysis and Review Tool     |
+|                | https://space.oscar.wmo.int/satellites                          |
++----------------+-----------------------------------------------------------------+
+| Last Update    | 2023-10-21                                                      |             
++----------------+-----------------------------------------------------------------+
 
+.. sidebar:: Reference Sattelite 
+   :subtitle: How this list is used in the registry
+
+    +-----------------------+
+    | How this list is used |
+    +=======================+
+    | Metadata Validation   |
+    +-----------------------+
+    | Data Classification   |
+    +-----------------------+
+    | Auto Population       |
+    +-----------------------+
 
 List Data Dictionary
 -----------
@@ -43,7 +55,8 @@ This data
 
 .. admonition:: Reference Information ...
 
-   You can make up your own admonition too.
+   OSCAR Observing Systems Capability Analysis and Review Tool 
+   https://space.oscar.wmo.int/satellites
 
 Topics, Sidebars, and Rubrics
 -----------------------------

@@ -3,7 +3,7 @@
    :description: Voyager Search Academy  an open community advancing Generative Earth Intelligence for understanding and decision-making. 
    :keywords: voyager search, voyagersearch, data governance, data provenance, data profiling, data lineage
 
-Voyager Search Academy!
+Voyager Search Academy
 ===================================
 
 Welcome to the Voyager Search Academy.

@@ -49,10 +49,3 @@ This data
 :doc:`/references/isostandards`.
 
 
-.. warning::
-
-   This list is under active development.
-
-   :Source: https://www.iso.org/obp/ui/#search/code/
-   :Last Updated: 2023-10-21
-

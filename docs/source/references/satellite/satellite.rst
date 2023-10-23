@@ -37,7 +37,7 @@ This data
 
 .. csv-table:: List of Satellite
    :file: /references/satellite/satellite.csv
-   :widths: 10, 5, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10
+   :widths: 10, 5, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10
    :header-rows: 1
 
 

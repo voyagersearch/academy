@@ -41,15 +41,15 @@ This data
    :header-rows: 1
 
 
-.. admonition:: And, by the way...
+.. admonition:: Reference Information ...
 
    You can make up your own admonition too.
 
 Topics, Sidebars, and Rubrics
 -----------------------------
 
-.. sidebar:: Sidebar Title
-   :subtitle: Optional Subtitle
+.. sidebar:: Reference Sattelite 
+   :subtitle: Additional Information
 
    This is a sidebar.  It is for text outside the flow of the main
    text.
@@ -58,6 +58,16 @@ Topics, Sidebars, and Rubrics
 
    Sidebars often appears beside the main text with a border and
    background color.
+
+    +---------+
+    | Example |
+    +=========+
+    | Thing1  |
+    +---------+
+    | Thing2  |
+    +---------+
+    | Thing3  |
+    +---------+
 
 .. topic:: Topic Title
 

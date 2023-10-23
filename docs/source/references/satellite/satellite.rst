@@ -40,12 +40,3 @@ This data
    :widths: 10, 5, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10
    :header-rows: 1
 
-
-----------
-.. seealso::
-
-
-
-:doc:`/references/isostandards`.
-
-

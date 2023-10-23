@@ -893,4 +893,4 @@ Tanager-2,1019,45260,47087,Tanager,SunSync,405 km, , ,,Planned,HotSat Imager,451
 HOTSAT-1,1020,45089,46721,HOTSAT,SunSync,536 km, , ,12:00 desc,Operational,Végétation-P,45208.4418055556,45208
 PROBA-V-CC,1021,45208,45626,Project for On-Board Autonomy,SunSync,564 km, , ,10:15 desc,Commissioning,Cosmic Radio Noise, EPD (Alouette), SFS, VLF Receiver,45210.7372800926,45210
 Alouette-1,1022,22918,26572,Alouette (French for Skylark),DRIFT,1000 km, ,80.5°,,Inactive,Cosmic Radio Noise, EPD (Alouette), SFS, VLF Receiver,45215.6146064815,45215
-Alouette-2,1023,24075,27607,Alouette (French for Skylark),DRIFT,1000 km, ,80.5°,,Inactive,,45215.6234953704,45215
+Alouette-2,1023,24075,27607,Alouette (French for Skylark),DRIFT,1000 km, ,80.5°,,Inactive,Cosmic Radio Noise, EPD (Alouette), SFS, VLF Receiver,45215.6234953704,45215

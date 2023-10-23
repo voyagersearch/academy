@@ -42,18 +42,6 @@ List | Reference Details
     +-------------------------+
 
 .. Tip:: List | Dictionary
-   
-    +-----------------------+
-    | Term                  |
-    +=======================+
-    | Orbit                 |
-    +-----------------------+
-    | Altitude              |
-    +-----------------------+
-    | Longitude             |
-    +-----------------------+
-    | Inclindation          |
-    +-----------------------+
 
    .. sidebar:: Reference Sattelite 
    :subtitle: How this list is used in the registry
@@ -72,6 +60,18 @@ List | Reference Details
     | Tag Vocabulary          |
     +-------------------------+
 
+   Additional Info
+    +-----------------------+
+    | Term                  |
+    +=======================+
+    | Orbit                 |
+    +-----------------------+
+    | Altitude              |
+    +-----------------------+
+    | Longitude             |
+    +-----------------------+
+    | Inclindation          |
+    +-----------------------+
 
 
 Definitions will be added later

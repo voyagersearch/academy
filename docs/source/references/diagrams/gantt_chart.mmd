@@ -1,0 +1,117 @@
+classDiagram
+
+%% Notes <|-- inheritance
+
+%% *-- composition | o-- aggregation | --> association
+
+%% ..> dependency | "..|> realization"
+
+%% -- solid link | .. dashed linkVoyager Search
+
+ 
+
+Voyager Search --> Navigo
+
+    %% Search primary functions in Navigo
+
+    Navigo : 1. New Search
+
+    Navigo : 2. Saved Seach
+
+    Navigo : 3. Filter
+
+    Navigo : 4. Sort
+
+    Navigo : 5. Results
+
+    Search Options
+
+ 
+
+    Navigo *-- New Search
+
+        class New Search{
+
+        1.1 Text
+
+        1.2 Enhanced
+
+        1.3 Geographica Area
+
+            New Search Options()}
+
+ 
+
+            New Search o-- Geographic Area
+
+                %% User Filter options
+
+                class Geographic Area{
+
+                1.3.1 Bounding box
+
+                1.3.2 Coordinates
+
+                1.3.3 Polygon                
+
+                *Search Options ()
+
+                }                    
+
+    Navigo *-- Saved Search
+
+        class Saved Search{
+
+            2.1 TBD
+
+            2.2 TBD
+
+        }
+
+    Navigo o-- Filter
+
+         %% User Filter options
+
+        class Filter{
+
+        3.1 Facets
+
+        3.2 Enhanced
+
+        Filter Options ()
+
+        }           
+
+ 
+
+    Navigo *-- Results
+
+        %% What can the user do with the Results
+
+        class Results{
+
+        4.1 View ContentItem
+
+        4.2 Save Search()
+
+        4.3 Add to Cart
+
+                }
+
+Voyager Search --> HQ
+
+    HQ : 1. Repositories
+
+    HQ : 3. Pipelines
+
+Voyager Search --> Manage UI
+
+    Security
+
+Voyager Search --> Analysis
+
+    Analysis : 1. Dashboard
+
+    Analysis : 2. Chart
+
+Voyager Search --> Pulse

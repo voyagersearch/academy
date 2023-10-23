@@ -1,0 +1,132 @@
+classDiagram
+    Navigo : Search
+    Navigo : Filter
+    Navigo : Results
+    Navigo <|-- Search
+
+    class Search{
+      -text
+      -enhanced
+      -geographic
+      -geographica area
+
+     Other()
+    }
+
+        class geographic area{
+
+        -bounding box
+
+        -polygon
+
+        }
+
+    class Filter{
+
+      -int sizeInFeet
+
+      -canEat()
+
+    }
+
+ 
+
+    Analytics : Dashoards
+
+    Analytics : Charts
+
+ 
+
+    Content : Category
+
+    Content : FormatType
+
+    Content : ContentItem
+
+ 
+
+    Content <|-- Category
+
+    Content <|-- FormatType
+
+    Content <|-- ContentItem
+
+ 
+
+   Reference <|-- Acronyms
+
+   Reference <|-- Terms
+
+   Reference <|-- Glossary
+
+ 
+
+    Reference : Acronymn
+
+    Reference : Synonm
+
+    Reference : Term
+
+    Reference : CodeList
+
+    class Category{
+
+       -Category Type
+
+        Almanac
+
+        Article
+
+        Atlas
+
+        Bibliography
+
+        Dictionary
+
+        Directory
+
+        Encyclopedia
+
+        Handbook
+
+        Journel
+
+        Index
+
+        Magazine
+
+        Multimedia
+
+        Newspaper
+
+        Periodical
+
+        Reference
+
+        Thesaurus
+
+      +Note to be added ()
+
+    }
+
+    class Fish{
+
+      -int sizeInFeet
+
+      -canEat()
+
+    }
+
+    class ContentItem{
+
+      +Ingested Metatdata
+
+      +Enriched Data()
+
+      +Related  Data()
+
+      +Thumbnail Data()
+
+      +Enriched Data run()      
+
+    }

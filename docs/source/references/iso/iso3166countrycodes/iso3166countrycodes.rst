@@ -22,9 +22,9 @@ List of Country Codes
 
 
 .. csv-table:: Frequntly used abbreviated terms
-:file: /references/iso3166countrycodes.csv
-:widths: 10, 10, 10, 10, 10,10
-:header-rows: 1
+  :file: /references/iso3166countrycode/iso3166countrycodes.csv
+  :widths: 10, 10, 10, 10, 10, 10
+  :header-rows: 1
 
 
 .. seealso::
@@ -34,7 +34,8 @@ List of Country Codes
 
 
 .. warning::
-This list is under active development.
-:Source: https://www.iso.org/obp/ui/#search/code/
-:Last Updated: 2023-10-21
+
+  This list is under active development.
+  :Source: https://www.iso.org/obp/ui/#search/code/
+  :Last Updated: 2023-10-21
 

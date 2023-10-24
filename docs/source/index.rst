@@ -31,13 +31,35 @@ Contents
 .. toctree::
    :maxdepth: 10
    :numbered:
-   :caption: 📚  RESOURCES
+   :caption: 📚  Acronymns
 
-   /acronymns/index.rst
-   /terms/index.rst
-   /standards/index.rst
+   /references/acronymns/aboutacronymns.rst
 
+.. toctree::
+   :maxdepth: 10
+   :numbered:
+   :caption: 📚  Best Practices
+
+   /references/acronymns/aboutbestpractices.rst   
+
+.. toctree::
+   :maxdepth: 10
+   :numbered:
+   :caption: 📚  Diagrams
+
+   /references/diagrams/aboutdiagrams.rst
+
+.. toctree::
+   :maxdepth: 10
+   :numbered:
+   :caption: 📚  Standards
+
+   /references/standards/aboutstandards.rst
+
+
+   /terms/aboutterms.rst
    /search.rst
    /api.rst
    /usage.rst
-   
+
+

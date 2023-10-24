@@ -30,20 +30,15 @@ Contents
    :numbered:
    :caption: 🗺️ Introduction
   
-   /search.rst
-   /api.rst
-   /usage.rst
+   /acronymsabout.rst
+
 
 .. toctree::
    :maxdepth: 10
    :numbered:
-   :caption: 📚  RESOURCES
+   :caption: 📚  Acronyms
 
-   /acronymns/index.rst
-   /terms/index.rst
-   /standards/index.rst
+   /acronyms/acronymsfederal.rst
+   /acronyms/acronymsdod.rst
+   /acronyms/tbd.rst
 
-   /search.rst
-   /api.rst
-   /usage.rst
-   

@@ -1,4 +1,10 @@
+.. meta::
+   :title: ISO 19115 Metadata Record | Lineage Requirements
+   :description: Provides information on fields required to support metadata lineage.. 
+   :keywords: 19115, ISO-19115, data governance, data provenance, data profiling, data lineage
 
+Voyager Search Academy
+===================================
 
 19115
 ------

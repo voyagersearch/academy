@@ -84,8 +84,13 @@ Contents
 
    /references/standards/aboutstandards.rst
 
+.. toctree::
+   :maxdepth: 10
+   :numbered:
+   :caption: Terms 
 
    /references/terms/terms.rst
+   
    /search.rst
    /api.rst
    /usage.rst

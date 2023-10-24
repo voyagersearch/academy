@@ -48,6 +48,7 @@ Contents
    :caption: 📚  Diagrams
 
    /references/diagrams/aboutdiagrams.rst
+   /references/iso/geographic/19115/mrl.mmd
 
 .. toctree::
    :maxdepth: 10

@@ -3,7 +3,7 @@
    :description: A reference library of acronymns provided by the Generative Earth Inteligence community. 
    :keywords: voyager search, voyagersearch, data governance, data provenance, data profiling, data lineage, acronymns
 
-Voyager Search Academy | Acronymns
+| Acronymns
 ===================================
 
 

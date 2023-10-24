@@ -23,6 +23,28 @@ flowchart TD;
 
 
 
+```mermaid
+classDiagram
+    class Animal {
+        +name: string
+        +age: int
+        +makeSound(): void
+    }
+
+    class Dog {
+        +breed: string
+        +bark(): void
+    }
+
+    class Cat {
+        +color: string
+        +meow(): void
+    }
+
+    Animal <|-- Dog
+    Animal <|-- Cat
+```
+
 %%The below line of code will open the file that is in the current folder with the same name
 
 .. mermaid:: mrl.mmd

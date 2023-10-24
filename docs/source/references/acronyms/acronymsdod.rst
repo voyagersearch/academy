@@ -3,7 +3,7 @@
    :description: Reference Resource | Terms | Provides terms related to {group of terms}
    :keywords: terms, term, reference, reference resource, {add additional keywords for this group of terms}
 
-{Provided a Title}
+DOD 
 -------------------------------
 
 Acronymn List Description

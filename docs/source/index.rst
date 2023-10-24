@@ -17,35 +17,9 @@ This directory provides information to assist in the development and use of Gene
 
 Contents
 --------
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: 🚀 Tutorials
-
-   /tutorial/index
-   /intro/getting-started-with-sphinx
-   /intro/getting-started-with-mkdocs
-   /intro/import-guide
-   /config-file/index
-   /examples
 
 .. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: 💡 Explanation
 
-   /choosing-a-site
-   /integrations
-   /downloadable-documentation
-   /environment-variables
-   /subprojects
-   /localization
-   /explanation/advanced
-   /explanation/methodology
-
-.. toctree::
-   :maxdepth: 10
-   :numbered:
    :caption: 🗺️ Introduction
   
    /references/tabs.rst
@@ -53,15 +27,11 @@ Contents
    /references/iso/geographic/19115/mrl.rst
 
 .. toctree::
-   :maxdepth: 10
-   :numbered:
    :caption: Acronyms
 
    /references/acronyms/aboutacronyms.rst
 
 .. toctree::
-   :maxdepth: 10
-   :numbered:
    :caption: Best Practices
 
    /references/acronyms/aboutbestpractices.rst   

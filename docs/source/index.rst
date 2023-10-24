@@ -30,7 +30,9 @@ Contents
    /references/standards/aboutstandards.rst
    /references/academy/howtoupdatebuild.rst
    /references/iso/geographic/aboutisogeographicstandards.rst
-   /references/iso/iso3166countrycodes
+   /references/iso/iso3166countrycodes.rst
+   docs/source/references/iso/CI_Citation.rst
+   /references/iso/CI_datatypecode.rst
 
 .. toctree::
    :maxdepth: 2

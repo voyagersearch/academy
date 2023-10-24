@@ -1,5 +1,6 @@
 CI_DateTypeCode Information
 -------------------------------
+
 This resource provides information on CI_DateTypeCode
 
 .. note:: 

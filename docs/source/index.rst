@@ -80,7 +80,7 @@ Contents
    /references/standards/aboutstandards.rst
 
 
-   /terms/aboutterms.rst
+   /references/terms/terms.rst
    /search.rst
    /api.rst
    /usage.rst

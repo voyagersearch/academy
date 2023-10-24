@@ -15,26 +15,3 @@ This reference resource provides terms and definitions.
    This project is under active development. 
 
 .
-
-Contents
---------
-.. toctree::
-   :maxdepth: 10
-   :numbered:
-   :caption: 🗺️ Glossary
-  
-   /glossary.rst
-
-.. toctree::
-   :maxdepth: 10
-   :numbered:
-   :caption: 📚  RESOURCES
-
-   /acronymns/index.rst
-   /terms/index.rst
-   /standards/index.rst
-
-   /search.rst
-   /api.rst
-   /usage.rst
-   

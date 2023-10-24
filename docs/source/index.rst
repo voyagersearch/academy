@@ -27,25 +27,26 @@ Contents
    /usage.rst
    /references/tabs.rst
    /references/satellite/satellite.rst
+   /references/iso/geographic/19115/mrl.mmd
 
 .. toctree::
    :maxdepth: 10
    :numbered:
-   :caption: 📚  Acronymns
+   :caption: Acronymns
 
    /references/acronyms/aboutacronyns.rst
 
 .. toctree::
    :maxdepth: 10
    :numbered:
-   :caption: 📚  Best Practices
+   :caption: Best Practices
 
    /references/acronyms/aboutbestpractices.rst   
 
 .. toctree::
    :maxdepth: 10
    :numbered:
-   :caption: 📚  Diagrams
+   :caption: Diagrams
 
    /references/diagrams/aboutdiagrams.rst
    /references/iso/geographic/19115/mrl.mmd
@@ -53,7 +54,7 @@ Contents
 .. toctree::
    :maxdepth: 10
    :numbered:
-   :caption: 📚  Standards
+   :caption: Standards
 
    /references/standards/aboutstandards.rst
 

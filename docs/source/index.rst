@@ -21,7 +21,7 @@ Contents
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 🚀 Tutorials
+   :caption: 🚀 Introduction
 
    /references/tabs.rst
    /references/satellite/satellite.rst
@@ -33,6 +33,7 @@ Contents
    /references/iso/iso3166countrycodes.rst
    /references/iso/CI_Citation.rst
    /references/iso/CI_datetypecode.rst
+   /references/iso/glossarydateelement.rst
 
 .. toctree::
    :maxdepth: 2

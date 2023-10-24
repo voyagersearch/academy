@@ -25,6 +25,7 @@ Contents
 
    /references/tabs.rst
    /references/satellite/satellite.rst
+   /references/iso/about/isostandards.rst
    /references/iso/geographic/19115/mrl.rst
    /references/standards/aboutstandards.rst
    /references/academy/howtoupdatebuild.rst

@@ -28,6 +28,8 @@ Contents
    /references/iso/geographic/19115/mrl.rst
    /references/standards/aboutstandards.rst
    /references/academy/howtoupdatebuild.rst
+   /references/iso/geographic/aboutisogeographicstandards.rst
+   /references/iso/iso3166countrycodes
 
 .. toctree::
    :maxdepth: 2

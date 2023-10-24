@@ -27,6 +27,7 @@ Contents
    /references/satellite/satellite.rst
    /references/iso/geographic/19115/mrl.rst
    /references/standards/aboutstandards.rst
+   /references/academy/howtoupdatebuild.rst
 
 .. toctree::
    :maxdepth: 2

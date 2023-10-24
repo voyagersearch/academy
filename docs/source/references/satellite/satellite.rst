@@ -41,24 +41,6 @@ List | Reference Details
     | Tag Vocabulary          |
     +-------------------------+
 
-.. Tip:: List | Dictionary
-
-   .. sidebar:: Reference Sattelite 
-   :subtitle: How this list is used in the registry
-
-    +-------------------------+
-    | REGISTRY IMPLEMENTATION |
-    +=========================+
-    | Metadata Validation     |
-    +-------------------------+
-    | Data Classification     |
-    +-------------------------+
-    | Keyword Dictionary      |
-    +-------------------------+
-    | Search Term Dictionary  |
-    +-------------------------+
-    | Tag Vocabulary          |
-    +-------------------------+
 
    Additional Info
     +-----------------------+

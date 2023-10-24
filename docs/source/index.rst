@@ -19,17 +19,19 @@ Contents
 --------
 
 .. toctree::
-
+   :maxdepth: 
    :caption: 🗺️ Introduction
   
    /references/tabs.rst
    /references/satellite/satellite.rst
    /references/iso/geographic/19115/mrl.rst
+   /references/standards/aboutstandards.rst
 
 .. toctree::
    :caption: Acronyms
 
    /references/acronyms/aboutacronyms.rst
+   /references/standards/aboutstandards.rst
 
 .. toctree::
    :caption: Best Practices
@@ -42,7 +44,8 @@ Contents
    :caption: Diagrams
 
    /references/diagrams/aboutdiagrams.rst
-   /references/iso/geographic/19115/mrl.mmd
+   /references/iso/geographic/19115/mrl.rst
+   /references/standards/aboutstandards.rst
 
 .. toctree::
    :maxdepth: 10

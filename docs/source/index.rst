@@ -24,7 +24,7 @@ Contents
   
    /references/tabs.rst
    /references/satellite/satellite.rst
-   /references/iso/geographic/19115/mrl.mmd
+   /references/iso/geographic/19115/mrl.rst
 
 .. toctree::
    :maxdepth: 10

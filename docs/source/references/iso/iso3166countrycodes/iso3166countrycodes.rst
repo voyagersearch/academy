@@ -12,7 +12,7 @@ Description
 ~~~~~~~~~
 
 
-:ISO Number: ISO 3266
+:ISO Number: ISO 3166
 :Title: Country Codes
 :Description: The purpose of ISO 3166 is to define internationally recognized codes of letters and/or numbers that we can use when we refer to countries and their subdivisions. However, it does not define the names of countries – this information comes from United Nations sources (Terminology Bulletin Country Names and the Country and Region Codes for Statistical Use maintained by the United Nations Statistics Divisions).
 

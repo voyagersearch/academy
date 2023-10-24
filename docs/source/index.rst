@@ -31,7 +31,7 @@ Contents
    :numbered:
    :caption: Acronyms
 
-   /references/acronyms/aboutacronys.rst
+   /references/acronyms/aboutacronyms.rst
 
 .. toctree::
    :maxdepth: 10

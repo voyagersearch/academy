@@ -1,4 +1,4 @@
 This is my entity relation diagram
 
 
-:doc:`/iso19115geographic/IT.mmd`
+.. mermaid:: /IT.rst

@@ -33,14 +33,14 @@ Contents
    :numbered:
    :caption: 📚  Acronymns
 
-   /references/acronymns/aboutacronymns.rst
+   /references/acronyms/aboutacronyns.rst
 
 .. toctree::
    :maxdepth: 10
    :numbered:
    :caption: 📚  Best Practices
 
-   /references/acronymns/aboutbestpractices.rst   
+   /references/acronyms/aboutbestpractices.rst   
 
 .. toctree::
    :maxdepth: 10

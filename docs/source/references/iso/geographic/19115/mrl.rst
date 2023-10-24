@@ -14,6 +14,14 @@ Lineage
 
 This diagram provides information on the metadata fields and codes for lineage
 
+```mermaid
+flowchart TD;
+    A[Start] --> B[Process 1];
+    B --> C[Process 2];
+    C --> D[End];
+```
+
+
 
 %%The below line of code will open the file that is in the current folder with the same name
 

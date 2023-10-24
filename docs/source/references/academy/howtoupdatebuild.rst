@@ -1,3 +1,3 @@
-This is my update build diagram 
+This is my update build on Voyager Search Academy diagram 
 
-.. mermaid:: howtoupdatebuild.rst
+.. mermaid:: howtoupdatebuild.mmd

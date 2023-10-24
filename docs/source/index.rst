@@ -19,6 +19,30 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 🚀 Tutorials
+
+   /references/tabs.rst
+   /references/satellite/satellite.rst
+   /references/iso/geographic/19115/mrl.rst
+   /references/standards/aboutstandards.rst
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 💡 Explanation
+
+   /choosing-a-site
+   /integrations
+   /downloadable-documentation
+   /environment-variables
+   /subprojects
+   /localization
+   /explanation/advanced
+   /explanation/methodology
+
+.. toctree::
    :maxdepth: 
    :caption: 🗺️ Introduction
   

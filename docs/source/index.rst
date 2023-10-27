@@ -22,18 +22,8 @@ Contents
    :maxdepth: 2
    :hidden:
    :caption: 🚀 Introduction
+   /introduction
 
-   /references/tabs.rst
-   /references/satellite/satellite.rst
-   /references/iso/about/isostandards.rst
-   /references/iso/geographic/19115/mrl.rst
-   /references/standards/aboutstandards.rst
-   /references/academy/howtoupdatebuild.rst
-   /references/iso/geographic/aboutisogeographicstandards.rst
-   /references/iso/iso3166countrycodes.rst
-   /references/iso/CI_Citation.rst
-   /references/iso/CI_datetypecode.rst
-   /references/iso/glossarydateelement.rst
 
 .. toctree::
    :maxdepth: 2
@@ -53,10 +43,7 @@ Contents
    :maxdepth: 
    :caption: 🗺️ Introduction
   
-   /references/tabs.rst
-   /references/satellite/satellite.rst
-   /references/iso/geographic/19115/mrl.rst
-   /references/standards/aboutstandards.rst
+   
 
 .. toctree::
    :caption: Acronyms
@@ -92,7 +79,21 @@ Contents
    :caption: Terms 
 
    /references/terms/terms.rst
-
+   /references/tabs.rst
+   /references/satellite/satellite.rst
+   /references/iso/about/isostandards.rst
+   /references/iso/geographic/19115/mrl.rst
+   /references/standards/aboutstandards.rst
+   /references/academy/howtoupdatebuild.rst
+   /references/iso/geographic/aboutisogeographicstandards.rst
+   /references/iso/iso3166countrycodes.rst
+   /references/iso/CI_Citation.rst
+   /references/iso/CI_datetypecode.rst
+   /references/iso/glossarydateelement.rst
+   /references/tabs.rst
+   /references/satellite/satellite.rst
+   /references/iso/geographic/19115/mrl.rst
+   /references/standards/aboutstandards.rst
    /search.rst
    /api.rst
    /usage.rst

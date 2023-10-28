@@ -21,8 +21,6 @@ flowchart TD;
     C --> D[End];
 ```
 
-
-
 ```mermaid
 classDiagram
     class Animal {

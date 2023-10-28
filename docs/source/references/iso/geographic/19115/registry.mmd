@@ -1,0 +1,81 @@
+C4Context
+title System Context diagram for Registry
+
+Enterprise_Boundary(CDO, "Enterprise") 
+{
+    Person(ERman, "ER Manager", "Manages <br/> registry.")
+    
+
+    System_Boundary(erb1, "Data Governance Engine")
+    {
+    
+    Component(erde, "Step 3 | Data Enrichment", "Classify, Tag, Flag")
+    SystemDb(erdi, "Step 4 | Data Index", "Stored in Registry")
+    Component(erc, "Step 1 | Connect ", "Connect via API")
+    
+    Component(erdp, "Step 2 | Data Profiling", "Security, Accuracy, Quality")
+    Rel(erde, erdi, "pass")
+    Rel(erdp, erde, "Pass")
+    Rel(erc, erdp, "")
+    }
+}
+Enterprise_Boundary(NGA, "Operational Envrionment") 
+  {
+  System_Boundary(cl1, "Classified","Content designated | Classified")
+  {
+    Person(cds, "Data Scientist", "")
+    System_Boundary(cl2, "Classified","Content designated | Classified") 
+    {
+    SystemDb(clr, "Classified Registry", "Content metadata")
+    SystemDb(cl1, "Catalogue Alpha","Commercial Imagery")
+    SystemDb(cl2, "Catalogue Bravo", "Statistical Data")
+    }
+}
+  System_Boundary(b1, "SBU", "") 
+  { 
+    Person(cda, "Data Analyst", "") 
+    System_Boundary(b3, "SBU", "") 
+    { 
+    SystemDb(SBUr, "SBU Registry", "SBU content.")
+    SystemDb(SBU1, "SBU Catalogue A", "A Catalogue of content.")
+    SystemDb(SBU2, "SBU Catalogue B", "A Catalogue of content.")  
+  }
+  } 
+  Rel(erdi, SBUr, "")
+}
+System_Boundary(c, "Commercial", "boundary") 
+    {
+    SystemDb_Ext(c1, "Provider A", "Imagery Subscription")
+    SystemDb_Ext(c2, "Provider B", "Imagery Subscription")
+    SystemDb_Ext(c3, "Provider C", "Imagery Subscription")
+    SystemDb_Ext(c4, "Provider D", "Imagery Subscription")
+    }
+System_Boundary(Federal, "Federal Community") 
+{
+
+  System_Boundary(SBU1, "Federal", "boundary") 
+    {
+    System(SBU1.1, "Data Scientist H", "A Data Scientist of content.")
+    System(SBU1.2, "Data Scientist G", "A Data Scientist of content.")
+    Person(Data Scientistb, "Imagery Analyst")   
+    }   
+  System_Boundary(SBU2, "Federal", "boundary") 
+    {
+    System(SBU2.1, "Data Scientist I", "A Data Scientist of content.")
+    System(SBU2.2, "Data Scientist J", "A Data Scientist of content.")
+    Person_Ext(FederalPartner, "Geospatial Analyst")
+    }                                                    
+}
+BiRel(cds, clr, "Queries")
+BiRel(c1, erc, "Connect", "via API")
+BiRel(c2, erc, "Connect", "via API")
+
+Rel(cl1, clr, "Indexed", "API")
+Rel(cl2, clr, "Indexed", "API")
+Rel(c2, erc, "API")
+
+  System_Boundary(a, "Academic", "boundary") 
+    {
+    SystemQueue(SystemJ, "Data Scientist H", "A Data Scientist of content.")
+    SystemQueue_Ext(SystemK, "Data Scientist G ", "A Data Scientist of content.")
+    }

@@ -5,4 +5,5 @@ Frequently Asked Questions
 
 
 Formats
-    How many format types 
+
+    How many format types does Voyager Support?

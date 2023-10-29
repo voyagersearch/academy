@@ -25,6 +25,28 @@ Term List Data Dictionary
 
 Acronymn List of {short description}
 ~~~~~~~~~
+.. meta::
+   :title: Acronyms | DOD | Department of Defense
+   :description: Reference Resource | Acronyms | Provides Acronyms commonly utilized by the Department of Defense
+   :keywords: terms, term, reference, reference resource, 
+
+{Provided a Title}
+-------------------------------
+
+Acronymn List Description
+~~~~~~~~~
+
++------------------------+------------------------------------------------------------------------------------------+
+| *Standard*             | {if this is based on a standard list it here e.g. NIST, ISO 19115, OGC 02314, W3C DCAT}  |
++------------------------+------------------------------------------------------------------------------------------+
+| *TITLE*                | {Title of this acronym list}                                                                             |
++------------------------+------------------------------------------------------------------------------------------+
+| *DESCRIPTION*          | The purpose of this list is to provide a list of Acronyms {provide additional text}      |
+|                        | The purpose of this list is to provide a list of Acronyms {provide additional text}      |
++------------------------+------------------------------------------------------------------------------------------+
+
+Term List Data Dictionary
+~~~~~~~~~
 
 
 .. csv-table:: Frequntly used abbreviated terms for {name}
